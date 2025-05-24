@@ -1,0 +1,16 @@
+{
+  "name": "ThemeName",
+  "tab": {
+    "background": "Background1FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "Background3FF",
+    "unfocusedBackground": "Foreground2FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

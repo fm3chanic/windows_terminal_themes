@@ -1,0 +1,16 @@
+{
+  "name": "sakura-haruno-dark",
+  "tab": {
+    "background": "#34181BFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#57282DFF",
+    "unfocusedBackground": "#EFC3C6FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ThemeName",
+
+  "cursorColor": "Highlight1",
+  "selectionBackground": "Highlight3",
+
+  "background": "Background1",
+  "foreground": "Foreground1",
+
+  "black": "Foreground3",
+  "blue": "#",
+  "cyan": "#",
+  "green": "#",
+  "purple": "#",
+  "red": "#",
+  "white": "Background2", 
+  "yellow": "#",
+  "brightBlack": "Highlight2",
+  "brightBlue": "#",
+  "brightCyan": "#",
+  "brightGreen": "#",
+  "brightPurple": "#",
+  "brightRed": "#",
+  "brightWhite": "Background2",
+  "brightYellow": "#"
+}

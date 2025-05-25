@@ -1,0 +1,16 @@
+{
+  "name": "sakura-haruno-light",
+  "tab": {
+    "background": "#F4D7D9FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#EAAEB2FF",
+    "unfocusedBackground": "#471F23FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "mother-nature-light",
+  "tab": {
+    "background": "#E5E5E6FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#BEBEC1FF",
+    "unfocusedBackground": "#313135FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

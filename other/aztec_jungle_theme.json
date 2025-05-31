@@ -1,0 +1,16 @@
+{
+  "name": "aztec-jungle",
+  "tab": {
+    "background": "#3B322BFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#594B40FF",
+    "unfocusedBackground": "#D4CBC4FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

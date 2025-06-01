@@ -1,0 +1,26 @@
+{
+  "name": "vedal987-evil",
+
+  "cursorColor": "#808080",
+  "selectionBackground": "#4d4d4d",
+
+  "background": "#1a1a1a",
+  "foreground": "#ca8198",
+
+  "black": "#333333",
+  "blue": "#7070a9",
+  "cyan": "#708ca9",
+  "green": "#a97092",
+  "purple": "#9e78ba",
+  "red": "#b34d72",
+  "white": "#ca8198",
+  "yellow": "#c27083",
+  "brightBlack": "#7e354c",
+  "brightBlue": "#9f9fc6",
+  "brightCyan": "#9fb2c6",
+  "brightGreen": "#c69fb6",
+  "brightPurple": "#c3abd4",
+  "brightRed": "#c9829c",
+  "brightWhite": "#ca8198",
+  "brightYellow": "#d9a6b2"
+}

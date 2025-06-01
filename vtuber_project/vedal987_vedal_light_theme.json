@@ -1,0 +1,16 @@
+{
+  "name": "vedal987-vedal-light",
+  "tab": {
+    "background": "#CBE8C9FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#87C982FF",
+    "unfocusedBackground": "#283E2CFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

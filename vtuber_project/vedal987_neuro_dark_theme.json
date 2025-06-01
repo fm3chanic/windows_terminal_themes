@@ -1,0 +1,16 @@
+{
+  "name": "vedal987-neuro-dark",
+  "tab": {
+    "background": "#2E1F1FFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#6A4848FF",
+    "unfocusedBackground": "#F6DABCFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

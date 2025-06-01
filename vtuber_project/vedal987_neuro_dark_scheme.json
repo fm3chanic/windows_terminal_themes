@@ -1,0 +1,26 @@
+{
+  "name": "vedal987-neuro-dark",
+
+  "cursorColor": "#c1a4a4",
+  "selectionBackground": "#895d5d",
+
+  "background": "#2e1f1f",
+  "foreground": "#f9e6d2",
+
+  "black": "#6a4848",
+  "blue": "#6486b4",
+  "cyan": "#5bbeba",
+  "green": "#66ccad",
+  "purple": "#a366cc",
+  "red": "#c65371",
+  "white": "#f9e6d2",
+  "yellow": "#667ccc",
+  "brightBlack": "#f3cda5",
+  "brightBlue": "#98aecd",
+  "brightCyan": "#92d3d1",
+  "brightGreen": "#9fdfcc",
+  "brightPurple": "#c69fdf",
+  "brightRed": "#d98ca1",
+  "brightWhite": "#f9e6d2",
+  "brightYellow": "#9faddf"
+}

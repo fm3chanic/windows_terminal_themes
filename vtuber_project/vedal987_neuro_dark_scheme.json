@@ -1,13 +1,13 @@
 {
   "name": "vedal987-neuro-dark",
 
-  "cursorColor": "#c1a4a4",
-  "selectionBackground": "#895d5d",
+  "cursorColor": "#a27676",
+  "selectionBackground": "#6a4848",
 
   "background": "#2e1f1f",
   "foreground": "#f9e6d2",
 
-  "black": "#6a4848",
+  "black": "#4c3434",
   "blue": "#6486b4",
   "cyan": "#5bbeba",
   "green": "#66ccad",

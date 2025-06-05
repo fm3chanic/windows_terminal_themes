@@ -1,0 +1,16 @@
+{
+  "name": "vedal987-evil-light",
+  "tab": {
+    "background": "#F2EEF7FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#BDA8D6FF",
+    "unfocusedBackground": "#59263CFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

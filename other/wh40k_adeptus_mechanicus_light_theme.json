@@ -1,0 +1,16 @@
+{
+  "name": "adeptus-mechanicus-light",
+  "tab": {
+    "background": "#E7E7E7FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#C4C4C4FF",
+    "unfocusedBackground": "#391813FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

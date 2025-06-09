@@ -1,0 +1,26 @@
+{
+  "name": "shylily-light",
+
+  "cursorColor": "#736bae",
+  "selectionBackground": "#a19cc9",
+
+  "background": "#e0deed",
+  "foreground": "#1e1b31",
+
+  "black": "#463f73",
+  "blue": "#4060bf",
+  "cyan": "#398fac",
+  "green": "#4080bf",
+  "purple": "#b34db3",
+  "red": "#bf4040",
+  "white": "#c7c3e1", 
+  "yellow": "#bf4080",
+  "brightBlack": "#8c86ba",
+  "brightBlue": "#798fd2",
+  "brightCyan": "#66b3cc",
+  "brightGreen": "#79a6d2",
+  "brightPurple": "#c982c9",
+  "brightRed": "#d27979",
+  "brightWhite": "#c7c3e1",
+  "brightYellow": "#d279a6"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "shylily-light",
+  "tab": {
+    "background": "#E0DEEDFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#B2ADD2FF",
+    "unfocusedBackground": "#322D52FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

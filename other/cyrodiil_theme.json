@@ -1,0 +1,16 @@
+{
+  "name": "cyrodiil",
+  "tab": {
+    "background": "#B7997BFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#C9B39CFF",
+    "unfocusedBackground": "#593B27FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

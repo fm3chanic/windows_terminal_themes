@@ -1,7 +1,7 @@
 ## fm3chanic Themes for Windows Terminal
 
-This repository contains all color themes for the Windows Terminal I've created.
-You can find a HTML scheme file for all the color themes in this repository: https://github.com/fm3chanic/color_schemes
+This repository contains all color themes for the Windows Terminal I've created so far.
+
 
 HTML-scheme files for all color themes: https://github.com/fm3chanic/color_schemes
 

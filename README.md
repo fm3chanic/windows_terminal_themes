@@ -5,7 +5,7 @@ You can find a HTML scheme file for all the color themes in this repository: htt
 
 HTML-scheme files for all color themes: https://github.com/fm3chanic/color_schemes
 
-Further information regarding the Vtuber project: https://github.com/fm3chanic
+Further information regarding the Vtuber project: https://github.com/fm3chanic/vtuber_project
 
 ### Installation:
 

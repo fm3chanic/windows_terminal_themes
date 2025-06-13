@@ -4,6 +4,7 @@ This repository contains all color themes for the Windows Terminal I've created.
 You can find a HTML scheme file for all the color themes in this repository: https://github.com/fm3chanic/color_schemes
 
 HTML-scheme files for all color themes: https://github.com/fm3chanic/color_schemes
+
 Further information regarding the Vtuber project: https://github.com/fm3chanic
 
 ### Installation:

@@ -1,0 +1,16 @@
+{
+  "name": "20k-leagues-under-seas",
+  "tab": {
+    "background": "#141F1FFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#283E3EFF",
+    "unfocusedBackground": "#F2D98CFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

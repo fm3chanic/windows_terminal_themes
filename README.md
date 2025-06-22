@@ -1,11 +1,10 @@
 ## fm3chanic Themes for Windows Terminal
 
-This repository contains all color themes for the Windows Terminal I've created so far.
+This repository contains all color themes for the Windows Terminal I've created so far.<br>
+Themes which have been created during my project of color theming Vtubers are in the folder "vtuber_project". The folder "other" contains all color themes which where created outside of the project.
 
-
-HTML-scheme files for all color themes: https://github.com/fm3chanic/color_schemes
-
-Further information regarding the Vtuber project: https://github.com/fm3chanic/vtuber_project
+You can find [HTML reference sheets](https://github.com/fm3chanic/color_schemes) for all color themes [here](https://github.com/fm3chanic/color_schemes).<br>
+You can find [further information](https://github.com/fm3chanic/vtuber_project) regarding the Vtuber project [here](https://github.com/fm3chanic/vtuber_project).
 
 ### Installation:
 
@@ -32,6 +31,10 @@ Further information regarding the Vtuber project: https://github.com/fm3chanic/v
         "theme": "sakura-haruno-dark"
     }
     ```
+	
+> [!TIP]
+> The application reads the whole `settings.json` every time you save. To avoid error messages only save when you copied both parts of the theme.
+
 ### Contribution:
 
 If you want to help maintaining the themes, please use colors from the according color scheme. You can find the scheme files in the repo linked above.

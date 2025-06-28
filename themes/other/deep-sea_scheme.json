@@ -1,0 +1,26 @@
+{
+  "name": "deep-sea",
+
+  "cursorColor": "#4082bf",
+  "selectionBackground": "#264e73",
+
+  "background": "#001a33",
+  "foreground": "#d9e6f2",
+
+  "black": "#003566",
+  "blue": "#6666ff",
+  "cyan": "#66ffff",
+  "green": "#66ff66",
+  "purple": "#66b3ff",
+  "red": "#66ffb3",
+  "white": "#d9e6f2",
+  "yellow": "#b3ff66",
+  "brightBlack": "#8cb4d9",
+  "brightBlue": "#9999ff",
+  "brightCyan": "#99ffff",
+  "brightGreen": "#99ff99",
+  "brightPurple": "#99ccff",
+  "brightRed": "#99ffcc",
+  "brightWhite": "#d9e6f2",
+  "brightYellow": "#ccff99"
+}

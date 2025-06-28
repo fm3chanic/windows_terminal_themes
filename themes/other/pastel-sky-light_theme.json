@@ -1,0 +1,16 @@
+{
+  "name": "pastel-sky-light",
+  "tab": {
+    "background": "#DEDEEDFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#BDBDDBFF",
+    "unfocusedBackground": "#382956FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

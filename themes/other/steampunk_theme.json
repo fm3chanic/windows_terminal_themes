@@ -1,0 +1,16 @@
+{
+  "name": "steampunk",
+  "tab": {
+    "background": "#1F1414FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#3D2929FF",
+    "unfocusedBackground": "#E0B96CFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

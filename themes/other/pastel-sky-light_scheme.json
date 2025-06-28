@@ -1,0 +1,26 @@
+{
+  "name": "pastel-sky-light",
+
+  "cursorColor": "#8c8cc0",
+  "selectionBackground": "#adadd2",
+
+  "background": "#dedeed",
+  "foreground": "#221934",
+
+  "black": "#4f3a78",
+  "blue": "#2966a3",
+  "cyan": "#339999",
+  "green": "#669933",
+  "purple": "#993399",
+  "red": "#a32929",
+  "white": "#cecee4", 
+  "yellow": "#da950b",
+  "brightBlack": "#9c9cc9",
+  "brightBlue": "#3380cc",
+  "brightCyan": "#40bfbf",
+  "brightGreen": "#80bf40",
+  "brightPurple": "#bf40bf",
+  "brightRed": "#cc3333",
+  "brightWhite": "#cecee4",
+  "brightYellow": "#f4af25"
+}

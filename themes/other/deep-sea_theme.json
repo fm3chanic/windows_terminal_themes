@@ -1,0 +1,16 @@
+{
+  "name": "deep-sea",
+  "tab": {
+    "background": "#001A33FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#003566FF",
+    "unfocusedBackground": "#B3CDE6FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

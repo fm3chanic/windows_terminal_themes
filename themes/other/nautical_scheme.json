@@ -1,0 +1,26 @@
+{
+  "name": "nautical",
+
+  "cursorColor": "#7676a2",
+  "selectionBackground": "#48486a",
+
+  "background": "#1f1f2e",
+  "foreground": "#efe0c2",
+
+  "black": "#34344c",
+  "blue": "#6666ff",
+  "cyan": "#66b3ff",
+  "green": "#93ecec",
+  "purple": "#f09e75",
+  "red": "#f0c775",
+  "white": "#efe0c2",
+  "yellow": "#f0f075",
+  "brightBlack": "#dab772",
+  "brightBlue": "#b3b3ff",
+  "brightCyan": "#99ccff",
+  "brightGreen": "#c2f0f0",
+  "brightPurple": "#f7cfba",
+  "brightRed": "#f5daa3",
+  "brightWhite": "#efe0c2",
+  "brightYellow": "#f5f5a3"
+}

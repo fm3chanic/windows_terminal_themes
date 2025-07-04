@@ -1,0 +1,26 @@
+{
+  "name": "ThemeName",
+
+  "cursorColor": "ForeGround1",
+  "selectionBackground": "HighLight2",
+
+  "background": "BackGround1",
+  "foreground": "ForeGround1",
+
+  "black": "BackGround2",
+  "blue": "Main3",
+  "cyan": "Main4",
+  "green": "Main6",
+  "purple": "Main2",
+  "red": "Main1",
+  "white": "ForeGround1",
+  "yellow": "Main5",
+  "brightBlack": "HighLight3",
+  "brightBlue": "Sub3",
+  "brightCyan": "Sub4",
+  "brightGreen": "Sub6",
+  "brightPurple": "Sub2",
+  "brightRed": "Sub1",
+  "brightWhite": "ForeGround1",
+  "brightYellow": "Sub5"
+}

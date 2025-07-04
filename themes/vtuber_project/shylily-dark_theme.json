@@ -1,13 +1,13 @@
 {
-  "name": "deep-sea",
+  "name": "shylily-dark",
   "tab": {
-    "background": "#001A33FF",
+    "background": "#1C1B32FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#001A33FF",
-    "unfocusedBackground": "#8CB4D9FF"
+    "background": "#1C1B32FF",
+    "unfocusedBackground": "#AEACD2FF"
   },
   "window": {
     "applicationTheme": "dark",

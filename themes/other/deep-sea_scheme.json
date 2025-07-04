@@ -1,26 +1,26 @@
 {
   "name": "deep-sea",
 
-  "cursorColor": "#4082bf",
-  "selectionBackground": "#264e73",
+  "cursorColor": "#d9e6f2",
+  "selectionBackground": "#336899",
 
   "background": "#001a33",
   "foreground": "#d9e6f2",
 
-  "black": "#003566",
-  "blue": "#6666ff",
-  "cyan": "#66ffff",
-  "green": "#66ff66",
+  "black": "#00284d",
+  "blue": "#66ffff",
+  "cyan": "#66ffb3",
+  "green": "#b3ff66",
   "purple": "#66b3ff",
-  "red": "#66ffb3",
+  "red": "#6666ff",
   "white": "#d9e6f2",
-  "yellow": "#b3ff66",
-  "brightBlack": "#8cb4d9",
-  "brightBlue": "#9999ff",
-  "brightCyan": "#99ffff",
-  "brightGreen": "#99ff99",
+  "yellow": "#66ff66",
+  "brightBlack": "#264e73",
+  "brightBlue": "#99ffff",
+  "brightCyan": "#99ffcc",
+  "brightGreen": "#ccff99",
   "brightPurple": "#99ccff",
-  "brightRed": "#99ffcc",
+  "brightRed": "#9999ff",
   "brightWhite": "#d9e6f2",
-  "brightYellow": "#ccff99"
+  "brightYellow": "#99ff99"
 }

@@ -1,0 +1,26 @@
+{
+  "name": "adeptus-mechanicus-light",
+
+  "cursorColor": "#26100d",
+  "selectionBackground": "#999999",
+
+  "background": "#e7e7e7",
+  "foreground": "#26100d",
+
+  "black": "#d4d4d4",
+  "blue": "#5c5c8a",
+  "cyan": "#8f5656",
+  "green": "#628468",
+  "purple": "#ac5639",
+  "red": "#ac3939",
+  "white": "#26100d",
+  "yellow": "#c38022",
+  "brightBlack": "#b3b3b3",
+  "brightBlue": "#8585ad",
+  "brightCyan": "#b38080",
+  "brightGreen": "#8aa88f",
+  "brightPurple": "#cc8066",
+  "brightRed": "#cc6666",
+  "brightWhite": "#26100d",
+  "brightYellow": "#e0a552"
+}

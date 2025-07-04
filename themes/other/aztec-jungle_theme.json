@@ -1,13 +1,13 @@
 {
-  "name": "deep-sea",
+  "name": "aztec-jungle",
   "tab": {
-    "background": "#001A33FF",
+    "background": "#3B322BFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#001A33FF",
-    "unfocusedBackground": "#8CB4D9FF"
+    "background": "#3B322BFF",
+    "unfocusedBackground": "#C9BEB5FF"
   },
   "window": {
     "applicationTheme": "dark",

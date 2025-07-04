@@ -1,13 +1,13 @@
 {
-  "name": "deep-sea",
+  "name": "acid-cloud",
   "tab": {
-    "background": "#001A33FF",
+    "background": "#161D16FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#001A33FF",
-    "unfocusedBackground": "#8CB4D9FF"
+    "background": "#161D16FF",
+    "unfocusedBackground": "#8BA78BFF"
   },
   "window": {
     "applicationTheme": "dark",

@@ -1,13 +1,13 @@
 {
-  "name": "deep-sea",
+  "name": "vedal987-vedal-dark",
   "tab": {
-    "background": "#001A33FF",
+    "background": "#141F16FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#001A33FF",
-    "unfocusedBackground": "#8CB4D9FF"
+    "background": "#141F16FF",
+    "unfocusedBackground": "#7FD279FF"
   },
   "window": {
     "applicationTheme": "dark",

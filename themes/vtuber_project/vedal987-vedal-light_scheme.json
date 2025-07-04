@@ -1,0 +1,26 @@
+{
+  "name": "vedal987-vedal-light",
+
+  "cursorColor": "#141f16",
+  "selectionBackground": "#4ba145",
+
+  "background": "#cbe8c9",
+  "foreground": "#141f16",
+
+  "black": "#a9d9a6",
+  "blue": "#446ea2",
+  "cyan": "#398fac",
+  "green": "#39ac8f",
+  "purple": "#9b4b9b",
+  "red": "#ac3984",
+  "white": "#141f16",
+  "yellow": "#734b9b",
+  "brightBlack": "#64ba5e",
+  "brightBlue": "#6f95c3",
+  "brightCyan": "#66b3cc",
+  "brightGreen": "#66ccb3",
+  "brightPurple": "#bd75bd",
+  "brightRed": "#cc66a8",
+  "brightWhite": "#141f16",
+  "brightYellow": "#9975bd"
+}

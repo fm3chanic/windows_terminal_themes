@@ -1,13 +1,13 @@
 {
-  "name": "cyrodiil",
+  "name": "vedal987-evil-light",
   "tab": {
-    "background": "#B7997BFF",
+    "background": "#F2EEF7FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#B7997BFF",
-    "unfocusedBackground": "#7C5236FF"
+    "background": "#F2EEF7FF",
+    "unfocusedBackground": "#7D3653FF"
   },
   "window": {
     "applicationTheme": "light",

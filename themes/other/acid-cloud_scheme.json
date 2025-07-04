@@ -1,0 +1,26 @@
+{
+  "name": "acid-cloud",
+
+  "cursorColor": "#c5d3c5",
+  "selectionBackground": "#587458",
+
+  "background": "#161d16",
+  "foreground": "#c5d3c5",
+
+  "black": "#212c21",
+  "blue": "#d3f471",
+  "cyan": "#71f492",
+  "green": "#92f471",
+  "purple": "#f4f471",
+  "red": "#f4d371",
+  "white": "#c5d3c5",
+  "yellow": "#71f4d3",
+  "brightBlack": "#425742",
+  "brightBlue": "#e2f8a0",
+  "brightCyan": "#a0f8b6",
+  "brightGreen": "#b6f8a0",
+  "brightPurple": "#f8f8a0",
+  "brightRed": "#f8e2a0",
+  "brightWhite": "#c5d3c5",
+  "brightYellow": "#a0f8e2"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "aztec-jungle",
+
+  "cursorColor": "#eae5e1",
+  "selectionBackground": "#947d6b",
+
+  "background": "#3b322b",
+  "foreground": "#eae5e1",
+
+  "black": "#4a3e36",
+  "blue": "#53ac96",
+  "cyan": "#99b34d",
+  "green": "#4db366",
+  "purple": "#ac5380",
+  "red": "#ac5353",
+  "white": "#eae5e1",
+  "yellow": "#b3804d",
+  "brightBlack": "#766456",
+  "brightBlue": "#98cdc0",
+  "brightCyan": "#b8c982",
+  "brightGreen": "#94d1a3",
+  "brightPurple": "#cd98b3",
+  "brightRed": "#cd9898",
+  "brightWhite": "#eae5e1",
+  "brightYellow": "#d1b394"
+}

@@ -1,13 +1,13 @@
 {
-  "name": "cyrodiil",
+  "name": "mother-nature-light",
   "tab": {
-    "background": "#B7997BFF",
+    "background": "#E5E5E6FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#B7997BFF",
-    "unfocusedBackground": "#7C5236FF"
+    "background": "#E5E5E6FF",
+    "unfocusedBackground": "#4A4A4FFF"
   },
   "window": {
     "applicationTheme": "light",

@@ -1,13 +1,13 @@
 {
-  "name": "deep-sea",
+  "name": "dark-space",
   "tab": {
-    "background": "#001A33FF",
+    "background": "#2C202CFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#001A33FF",
-    "unfocusedBackground": "#8CB4D9FF"
+    "background": "#2C202CFF",
+    "unfocusedBackground": "#BFA6BFFF"
   },
   "window": {
     "applicationTheme": "dark",

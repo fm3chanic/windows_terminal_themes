@@ -1,26 +1,26 @@
 {
   "name": "steampunk",
 
-  "cursorColor": "#996666",
-  "selectionBackground": "#5c3d3d",
+  "cursorColor": "#edce92",
+  "selectionBackground": "#7a5252",
 
   "background": "#1f1414",
   "foreground": "#edce92",
 
-  "black": "#3d2929",
+  "black": "#2e1f1f",
   "blue": "#7575a3",
-  "cyan": "#cb774d",
+  "cyan": "#b3b3b3",
   "green": "#75a3a3",
-  "purple": "#b3b3b3",
+  "purple": "#dda73c",
   "red": "#ba5e5e",
   "white": "#edce92",
-  "yellow": "#dda73c",
-  "brightBlack": "#c69f53",
+  "yellow": "#cb774d",
+  "brightBlack": "#5c3d3d",
   "brightBlue": "#a3a3c2",
-  "brightCyan": "#dda488",
+  "brightCyan": "#d9d9d9",
   "brightGreen": "#a3c2c2",
-  "brightPurple": "#d9d9d9",
+  "brightPurple": "#e8c47d",
   "brightRed": "#d19494",
   "brightWhite": "#edce92",
-  "brightYellow": "#e8c47d"
+  "brightYellow": "#dda488"
 }

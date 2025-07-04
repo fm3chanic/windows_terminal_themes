@@ -1,0 +1,26 @@
+{
+  "name": "vedal987-evil-light",
+
+  "cursorColor": "#361724",
+  "selectionBackground": "#a386c6",
+
+  "background": "#f2eef7",
+  "foreground": "#361724",
+
+  "black": "#d7cbe7",
+  "blue": "#5353c6",
+  "cyan": "#9653c6",
+  "green": "#538ac6",
+  "purple": "#c6537d",
+  "red": "#c65353",
+  "white": "#361724",
+  "yellow": "#c65398",
+  "brightBlack": "#b097ce",
+  "brightBlue": "#8c8cd9",
+  "brightCyan": "#b98cd9",
+  "brightGreen": "#8cb1d9",
+  "brightPurple": "#d98ca8",
+  "brightRed": "#d98c8c",
+  "brightWhite": "#361724",
+  "brightYellow": "#d98cba"
+}

@@ -1,13 +1,13 @@
 {
-  "name": "deep-sea",
+  "name": "20k-leagues-under-seas",
   "tab": {
-    "background": "#001A33FF",
+    "background": "#141F1FFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#001A33FF",
-    "unfocusedBackground": "#8CB4D9FF"
+    "background": "#141F1FFF",
+    "unfocusedBackground": "#DBC170FF"
   },
   "window": {
     "applicationTheme": "dark",

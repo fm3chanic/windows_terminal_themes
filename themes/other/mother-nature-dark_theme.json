@@ -1,13 +1,13 @@
 {
-  "name": "deep-sea",
+  "name": "mother-nature-dark",
   "tab": {
-    "background": "#001A33FF",
+    "background": "#19191AFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#001A33FF",
-    "unfocusedBackground": "#8CB4D9FF"
+    "background": "#19191AFF",
+    "unfocusedBackground": "#CACACEFF"
   },
   "window": {
     "applicationTheme": "dark",

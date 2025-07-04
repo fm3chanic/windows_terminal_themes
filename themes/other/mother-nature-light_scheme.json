@@ -1,0 +1,26 @@
+{
+  "name": "mother-nature-light",
+
+  "cursorColor": "#19191a",
+  "selectionBackground": "#7c7c83",
+
+  "background": "#e5e5e6",
+  "foreground": "#19191a",
+
+  "black": "#cbcbcd",
+  "blue": "#388694",
+  "cyan": "#6b4db3",
+  "green": "#476b4b",
+  "purple": "#d95326",
+  "red": "#ac393b",
+  "white": "#19191a",
+  "yellow": "#d98b26",
+  "brightBlack": "#96969c",
+  "brightBlue": "#6bb9c7",
+  "brightCyan": "#9782c9",
+  "brightGreen": "#66996b",
+  "brightPurple": "#e48767",
+  "brightRed": "#c65355",
+  "brightWhite": "#19191a",
+  "brightYellow": "#e0a352"
+}

@@ -1,13 +1,13 @@
 {
-  "name": "cyrodiil",
+  "name": "vedal987-vedal-light",
   "tab": {
-    "background": "#B7997BFF",
+    "background": "#CBE8C9FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#B7997BFF",
-    "unfocusedBackground": "#7C5236FF"
+    "background": "#CBE8C9FF",
+    "unfocusedBackground": "#3C5D42FF"
   },
   "window": {
     "applicationTheme": "light",

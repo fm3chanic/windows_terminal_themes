@@ -1,13 +1,13 @@
 {
-  "name": "cyrodiil",
+  "name": "vedal987-neuro-light",
   "tab": {
-    "background": "#B7997BFF",
+    "background": "#F9E6D2FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#B7997BFF",
-    "unfocusedBackground": "#7C5236FF"
+    "background": "#F9E6D2FF",
+    "unfocusedBackground": "#6A4848FF"
   },
   "window": {
     "applicationTheme": "light",

@@ -1,13 +1,13 @@
 {
-  "name": "cyrodiil",
+  "name": "shylily-light",
   "tab": {
-    "background": "#B7997BFF",
+    "background": "#E0DEEDFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#B7997BFF",
-    "unfocusedBackground": "#7C5236FF"
+    "background": "#E0DEEDFF",
+    "unfocusedBackground": "#463F73FF"
   },
   "window": {
     "applicationTheme": "light",

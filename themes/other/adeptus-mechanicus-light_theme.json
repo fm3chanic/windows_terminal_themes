@@ -1,13 +1,13 @@
 {
-  "name": "cyrodiil",
+  "name": "adeptus-mechanicus-light",
   "tab": {
-    "background": "#B7997BFF",
+    "background": "#E7E7E7FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#B7997BFF",
-    "unfocusedBackground": "#7C5236FF"
+    "background": "#E7E7E7FF",
+    "unfocusedBackground": "#4D1F19FF"
   },
   "window": {
     "applicationTheme": "light",

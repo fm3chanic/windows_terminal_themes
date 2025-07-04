@@ -6,8 +6,8 @@
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#3D2929FF",
-    "unfocusedBackground": "#E0B96CFF"
+    "background": "#1F1414FF",
+    "unfocusedBackground": "#C69F53FF"
   },
   "window": {
     "applicationTheme": "dark",

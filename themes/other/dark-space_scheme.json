@@ -1,0 +1,26 @@
+{
+  "name": "dark-space",
+
+  "cursorColor": "#dfd3df",
+  "selectionBackground": "#856085",
+
+  "background": "#2c202c",
+  "foreground": "#dfd3df",
+
+  "black": "#3b2b3b",
+  "blue": "#7d7de8",
+  "cyan": "#ebca47",
+  "green": "#955eba",
+  "purple": "#d16a47",
+  "red": "#f07c42",
+  "white": "#dfd3df",
+  "yellow": "#ba5eba",
+  "brightBlack": "#684b68",
+  "brightBlue": "#bebef4",
+  "brightCyan": "#f2de8c",
+  "brightGreen": "#b994d1",
+  "brightPurple": "#e09c85",
+  "brightRed": "#f49d71",
+  "brightWhite": "#dfd3df",
+  "brightYellow": "#d194d1"
+}

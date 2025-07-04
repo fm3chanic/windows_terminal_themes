@@ -1,13 +1,13 @@
 {
-  "name": "deep-sea",
+  "name": "adeptus-mechanicus-dark",
   "tab": {
-    "background": "#001A33FF",
+    "background": "#26100DFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#001A33FF",
-    "unfocusedBackground": "#8CB4D9FF"
+    "background": "#26100DFF",
+    "unfocusedBackground": "#ABABABFF"
   },
   "window": {
     "applicationTheme": "dark",

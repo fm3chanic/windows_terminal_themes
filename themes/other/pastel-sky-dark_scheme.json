@@ -1,26 +1,26 @@
 {
   "name": "pastel-sky-dark",
 
-  "cursorColor": "#7f64b4",
-  "selectionBackground": "#4f3a78",
+  "cursorColor": "#ddddee",
+  "selectionBackground": "#654b9b",
 
   "background": "#221934",
   "foreground": "#ddddee",
 
-  "black": "#382956",
-  "blue": "#80bfff",
-  "cyan": "#8cf2f2",
+  "black": "#2d2145",
+  "blue": "#8cf2f2",
+  "cyan": "#80bfff",
   "green": "#bff28c",
-  "purple": "#f28cf2",
+  "purple": "#f0c775",
   "red": "#f28c8c",
   "white": "#ddddee",
-  "yellow": "#f0c775",
-  "brightBlack": "#9999cc",
-  "brightBlue": "#b3d9ff",
-  "brightCyan": "#baf7f7",
+  "yellow": "#f28cf2",
+  "brightBlack": "#4f3a78",
+  "brightBlue": "#baf7f7",
+  "brightCyan": "#b3d9ff",
   "brightGreen": "#d9f7ba",
-  "brightPurple": "#f7baf7",
+  "brightPurple": "#f7e3ba",
   "brightRed": "#f7baba",
   "brightWhite": "#ddddee",
-  "brightYellow": "#f7e3ba"
+  "brightYellow": "#f7baf7"
 }

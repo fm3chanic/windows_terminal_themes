@@ -1,26 +1,26 @@
 {
   "name": "cyrodiil",
 
-  "cursorColor": "#f6f2ef",
-  "selectionBackground": "#d2c0ad",
+  "cursorColor": "#352317",
+  "selectionBackground": "#e4d9ce",
 
   "background": "#b7997b",
   "foreground": "#352317",
 
-  "black": "#7c5236",
-  "blue": "#2d2d53",
-  "cyan": "#2d5353",
+  "black": "#c0a68c",
+  "blue": "#2d5353",
+  "cyan": "#404040",
   "green": "#2d532d",
   "purple": "#532d53",
   "red": "#602020",
-  "white": "#c0a68c", 
-  "yellow": "#404040",
-  "brightBlack": "#e4d9ce",
-  "brightBlue": "#484884",
-  "brightCyan": "#488484",
+  "white": "#352317",
+  "yellow": "#2d2d53",
+  "brightBlack": "#d2c0ad",
+  "brightBlue": "#488484",
+  "brightCyan": "#666666",
   "brightGreen": "#488448",
   "brightPurple": "#844884",
   "brightRed": "#993333",
-  "brightWhite": "#c0a68c",
-  "brightYellow": "#666666"
+  "brightWhite": "#352317",
+  "brightYellow": "#484884"
 }

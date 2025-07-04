@@ -1,0 +1,26 @@
+{
+  "name": "sakura-haruno-light",
+
+  "cursorColor": "#35171a",
+  "selectionBackground": "#b95f68",
+
+  "background": "#f4d7d9",
+  "foreground": "#35171a",
+
+  "black": "#efc3c6",
+  "blue": "#09416F",
+  "cyan": "#28383e",
+  "green": "#687d73",
+  "purple": "#6b6b94",
+  "red": "#bf4040",
+  "white": "#35171a",
+  "yellow": "#3492b2",
+  "brightBlack": "#c9838a",
+  "brightBlue": "#117dd4",
+  "brightCyan": "#495D62",
+  "brightGreen": "#91b0a2",
+  "brightPurple": "#9292b0",
+  "brightRed": "#d07171",
+  "brightWhite": "#35171a",
+  "brightYellow": "#75bed7"
+}

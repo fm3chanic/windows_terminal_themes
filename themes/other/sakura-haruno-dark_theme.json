@@ -1,13 +1,13 @@
 {
-  "name": "deep-sea",
+  "name": "sakura-haruno-dark",
   "tab": {
-    "background": "#001A33FF",
+    "background": "#34181BFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#001A33FF",
-    "unfocusedBackground": "#8CB4D9FF"
+    "background": "#34181BFF",
+    "unfocusedBackground": "#EAAEB2FF"
   },
   "window": {
     "applicationTheme": "dark",

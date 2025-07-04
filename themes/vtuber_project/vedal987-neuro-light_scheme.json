@@ -1,0 +1,26 @@
+{
+  "name": "vedal987-neuro-light",
+
+  "cursorColor": "#2e1f1f",
+  "selectionBackground": "#edb478",
+
+  "background": "#f9e6d2",
+  "foreground": "#2e1f1f",
+
+  "black": "#f6dabc",
+  "blue": "#4564d3",
+  "cyan": "#41a4a1",
+  "green": "#2ba17e",
+  "purple": "#9a49d0",
+  "red": "#DF3462",
+  "white": "#2e1f1f",
+  "yellow": "#4b6c9b",
+  "brightBlack": "#f0c18f",
+  "brightBlue": "#98a9e7",
+  "brightCyan": "#7fccca",
+  "brightGreen": "#5ed4b1",
+  "brightPurple": "#b579dc",
+  "brightRed": "#e76587",
+  "brightWhite": "#2e1f1f",
+  "brightYellow": "#87a1c5"
+}

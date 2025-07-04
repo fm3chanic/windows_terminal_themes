@@ -1,13 +1,13 @@
 {
-  "name": "cyrodiil",
+  "name": "sakura-haruno-light",
   "tab": {
-    "background": "#B7997BFF",
+    "background": "#F4D7D9FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#B7997BFF",
-    "unfocusedBackground": "#7C5236FF"
+    "background": "#F4D7D9FF",
+    "unfocusedBackground": "#6A2F35FF"
   },
   "window": {
     "applicationTheme": "light",

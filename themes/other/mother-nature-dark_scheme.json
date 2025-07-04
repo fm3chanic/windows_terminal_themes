@@ -1,0 +1,26 @@
+{
+  "name": "mother-nature-dark",
+
+  "cursorColor": "#f2f2f3",
+  "selectionBackground": "#7c7c83",
+
+  "background": "#19191a",
+  "foreground": "#f2f2f3",
+
+  "black": "#313135",
+  "blue": "#539dac",
+  "cyan": "#8c78ba",
+  "green": "#648267",
+  "purple": "#e48767",
+  "red": "#c65355",
+  "white": "#f2f2f3",
+  "yellow": "#e0a352",
+  "brightBlack": "#64646a",
+  "brightBlue": "#87bbc5",
+  "brightCyan": "#a99acb",
+  "brightGreen": "#8ca68e",
+  "brightPurple": "#eca993",
+  "brightRed": "#d2797b",
+  "brightWhite": "#f2f2f3",
+  "brightYellow": "#e9bc81"
+}

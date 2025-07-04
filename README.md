@@ -10,8 +10,8 @@ Themes which have been created during my project of color theming Vtubers are in
 
 1. Download the [...]theme file and the [...]scheme file or copy them in a text editor of choice.
 2. Open the `settings.json` file from Windows Terminal
-3. In the `schemes` section of the file, paste the contents of the your scheme file (e.g. `naruto_sakura_haruno_dark_scheme.json`)
-4. Search for the `themes` section and paste the contents of the corresponding theme file (e.g. `naruto_sakura_haruno_dark_theme.json`).
+3. In the `schemes` section of the file, paste the contents of the your scheme file (e.g. `sakura-haruno-dark_scheme.json`)
+4. Search for the `themes` section and paste the contents of the corresponding theme file (e.g. `sakura-haruno-dark_theme.json`).
 5. Update `colorScheme` within the `profiles` section to include your chosen scheme:
 
     ```json

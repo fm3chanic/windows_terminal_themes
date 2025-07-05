@@ -1,0 +1,26 @@
+{
+  "name": "atompunk",
+
+  "cursorColor": "#e6e4e7",
+  "selectionBackground": "#817887",
+
+  "background": "#333036",
+  "foreground": "#e6e4e7",
+
+  "black": "#403c44",
+  "blue": "#cc6666",
+  "cyan": "#66b3cc",
+  "green": "#cc667f",
+  "purple": "#66cc99",
+  "red": "#6699cc",
+  "white": "#e6e4e7",
+  "yellow": "#66ccb9",
+  "brightBlack": "#67606c",
+  "brightBlue": "#d98c8c",
+  "brightCyan": "#8cc6d9",
+  "brightGreen": "#d98c9f",
+  "brightPurple": "#8cd9b3",
+  "brightRed": "#8cb3d9",
+  "brightWhite": "#e6e4e7",
+  "brightYellow": "#9fdfd3"
+}

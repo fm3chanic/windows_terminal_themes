@@ -1,0 +1,16 @@
+{
+  "name": "atompunk",
+  "tab": {
+    "background": "#333036FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#333036FF",
+    "unfocusedBackground": "#B3AEB7FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

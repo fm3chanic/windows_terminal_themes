@@ -1,0 +1,26 @@
+{
+  "name": "asche-dark",
+
+  "cursorColor": "#cad4c4",
+  "selectionBackground": "#617656",
+
+  "background": "#221411",
+  "foreground": "#cad4c4",
+
+  "black": "#331e1a",
+  "blue": "#a6c982",
+  "cyan": "#c68a6c",
+  "green": "#94d194",
+  "purple": "#edc95e",
+  "red": "#bf7773",
+  "white": "#cad4c4",
+  "yellow": "#f6db88",
+  "brightBlack": "#485940",
+  "brightBlue": "#bfd9a6",
+  "brightCyan": "#d4a791",
+  "brightGreen": "#b8e0b8",
+  "brightPurple": "#f2d98c",
+  "brightRed": "#cf9996",
+  "brightWhite": "#cad4c4",
+  "brightYellow": "#fae9b8"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "asche-dark",
+  "tab": {
+    "background": "#221411FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#221411FF",
+    "unfocusedBackground": "#94A989FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

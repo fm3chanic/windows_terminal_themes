@@ -1,0 +1,16 @@
+{
+  "name": "forest-spruce",
+  "tab": {
+    "background": "#1D3026FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1D3026FF",
+    "unfocusedBackground": "#8FBCA4FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

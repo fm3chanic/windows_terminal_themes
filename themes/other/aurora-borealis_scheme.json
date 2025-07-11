@@ -1,0 +1,26 @@
+{
+  "name": "aurora-borealis",
+
+  "cursorColor": "#b5e3da",
+  "selectionBackground": "#428a8a",
+
+  "background": "#132020",
+  "foreground": "#b5e3da",
+
+  "black": "#1d3030",
+  "blue": "#4dd2ff",
+  "cyan": "#5af2f2",
+  "green": "#5af2bf",
+  "purple": "#bff25a",
+  "red": "#5a8cf2",
+  "white": "#b5e3da",
+  "yellow": "#5eed5e",
+  "brightBlack": "#326767",
+  "brightBlue": "#99e6ff",
+  "brightCyan": "#a1f7f7",
+  "brightGreen": "#a1f7da",
+  "brightPurple": "#daf7a1",
+  "brightRed": "#a1bef7",
+  "brightWhite": "#b5e3da",
+  "brightYellow": "#a3f5a3"
+}

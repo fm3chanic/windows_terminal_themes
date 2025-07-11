@@ -1,0 +1,26 @@
+{
+  "name": "psycho",
+
+  "cursorColor": "#e8c9e8",
+  "selectionBackground": "#955095",
+
+  "background": "#29212c",
+  "foreground": "#e8c9e8",
+
+  "black": "#443749",
+  "blue": "#8c66ff",
+  "cyan": "#f471f4",
+  "green": "#b366ff",
+  "purple": "#b371f4",
+  "red": "#ec79b3",
+  "white": "#e8c9e8",
+  "yellow": "#7979ec",
+  "brightBlack": "#743e74",
+  "brightBlue": "#b399ff",
+  "brightCyan": "#f8a0f8",
+  "brightGreen": "#cc99ff",
+  "brightPurple": "#cca0f8",
+  "brightRed": "#f2a6cc",
+  "brightWhite": "#e8c9e8",
+  "brightYellow": "#a6a6f2"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "dieselpunk",
+
+  "cursorColor": "#d6ccc2",
+  "selectionBackground": "#7a6752",
+
+  "background": "#262626",
+  "foreground": "#d6ccc2",
+
+  "black": "#333333",
+  "blue": "#ad8585",
+  "cyan": "#a88aa1",
+  "green": "#adad85",
+  "purple": "#cc9966",
+  "red": "#c27070",
+  "white": "#d6ccc2",
+  "yellow": "#d1b561",
+  "brightBlack": "#5c4d3d",
+  "brightBlue": "#c2a3a3",
+  "brightCyan": "#bea7b9",
+  "brightGreen": "#c2c2a3",
+  "brightPurple": "#d9b38c",
+  "brightRed": "#d19494",
+  "brightWhite": "#d6ccc2",
+  "brightYellow": "#ddc888"
+}

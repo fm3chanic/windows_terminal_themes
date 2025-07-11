@@ -1,0 +1,26 @@
+{
+  "name": "forest-spruce",
+
+  "cursorColor": "#cfe2d8",
+  "selectionBackground": "#568f71",
+
+  "background": "#1d3026",
+  "foreground": "#cfe2d8",
+
+  "black": "#264032",
+  "blue": "#cccc99",
+  "cyan": "#8cd9b3",
+  "green": "#95d0d0",
+  "purple": "#c4e87d",
+  "red": "#75f09e",
+  "white": "#cfe2d8",
+  "yellow": "#8cd98c",
+  "brightBlack": "#437058",
+  "brightBlue": "#ddddbb",
+  "brightCyan": "#b3e6cc",
+  "brightGreen": "#b8e0e0",
+  "brightPurple": "#d8f0a8",
+  "brightRed": "#a3f5be",
+  "brightWhite": "#cfe2d8",
+  "brightYellow": "#b3e6b3"
+}

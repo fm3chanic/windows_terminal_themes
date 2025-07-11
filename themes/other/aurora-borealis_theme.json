@@ -1,0 +1,16 @@
+{
+  "name": "aurora-borealis",
+  "tab": {
+    "background": "#132020FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#132020FF",
+    "unfocusedBackground": "#6BC7B5FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

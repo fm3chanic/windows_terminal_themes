@@ -1,0 +1,16 @@
+{
+  "name": "vulcano",
+  "tab": {
+    "background": "#260D0DFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#260D0DFF",
+    "unfocusedBackground": "#FF9933FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

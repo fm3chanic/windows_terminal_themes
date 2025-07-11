@@ -1,0 +1,16 @@
+{
+  "name": "canyon",
+  "tab": {
+    "background": "#A98B70FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#A98B70FF",
+    "unfocusedBackground": "#484335FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

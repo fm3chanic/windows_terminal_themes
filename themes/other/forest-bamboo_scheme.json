@@ -1,0 +1,26 @@
+{
+  "name": "forest-bamboo",
+
+  "cursorColor": "#2c3a2c",
+  "selectionBackground": "#8aa88a",
+
+  "background": "#cee4ce",
+  "foreground": "#2c3a2c",
+
+  "black": "#bddbbd",
+  "blue": "#77773c",
+  "cyan": "#267326",
+  "green": "#2d8659",
+  "purple": "#5e8217",
+  "red": "#0f8a38",
+  "white": "#2c3a2c",
+  "yellow": "#006666",
+  "brightBlack": "#98b398",
+  "brightBlue": "#99994d",
+  "brightCyan": "#339933",
+  "brightGreen": "#39ac73",
+  "brightPurple": "#7ead1f",
+  "brightRed": "#14b84b",
+  "brightWhite": "#2c3a2c",
+  "brightYellow": "#009999"
+}

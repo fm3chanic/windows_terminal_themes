@@ -1,0 +1,26 @@
+{
+  "name": "vulcano",
+
+  "cursorColor": "#ffcc99",
+  "selectionBackground": "#be660e",
+
+  "background": "#260d0d",
+  "foreground": "#ffcc99",
+
+  "black": "#391414",
+  "blue": "#ed825e",
+  "cyan": "#ed5e5e",
+  "green": "#eda65e",
+  "purple": "#e4e467",
+  "red": "#ed5e82",
+  "white": "#ffcc99",
+  "yellow": "#edc95e",
+  "brightBlack": "#8e4d0b",
+  "brightBlue": "#f2a68c",
+  "brightCyan": "#f28c8c",
+  "brightGreen": "#f2bf8c",
+  "brightPurple": "#ecec93",
+  "brightRed": "#f28ca6",
+  "brightWhite": "#ffcc99",
+  "brightYellow": "#f2d98c"
+}

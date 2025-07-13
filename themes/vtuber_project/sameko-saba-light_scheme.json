@@ -1,0 +1,26 @@
+{
+  "name": "sameko-saba-light",
+
+  "cursorColor": "#364c7d",
+  "selectionBackground": "#98aacd",
+
+  "background": "#ece7df",
+  "foreground": "#364c7d",
+
+  "black": "#d9cebf",
+  "blue": "#36567d",
+  "cyan": "#957104",
+  "green": "#15829d",
+  "purple": "#b05903",
+  "red": "#7d363d",
+  "white": "#364c7d",
+  "yellow": "#951d27",
+  "brightBlack": "#adbad2",
+  "brightBlue": "#456ea1",
+  "brightCyan": "#c79605",
+  "brightGreen": "#1ca7ca",
+  "brightPurple": "#e27303",
+  "brightRed": "#a1454e",
+  "brightWhite": "#364c7d",
+  "brightYellow": "#c02633"
+}

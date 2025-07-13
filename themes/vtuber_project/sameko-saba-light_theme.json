@@ -1,0 +1,16 @@
+{
+  "name": "sameko-saba-light",
+  "tab": {
+    "background": "#ECE7DFFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#ECE7DFFF",
+    "unfocusedBackground": "#5E7BBAFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

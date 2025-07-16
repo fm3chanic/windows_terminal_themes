@@ -1,0 +1,26 @@
+{
+  "name": "sameko-saba-medium",
+
+  "cursorColor": "#fef6cd",
+  "selectionBackground": "#365963",
+
+  "background": "#3d7d8f",
+  "foreground": "#fef6cd",
+
+  "black": "#458da1",
+  "blue": "#cacbce",
+  "cyan": "#ddcba2",
+  "green": "#adbad2",
+  "purple": "#f9bf85",
+  "red": "#eb939e",
+  "white": "#fef6cd",
+  "yellow": "#86e4f9",
+  "brightBlack": "#3a6a78",
+  "brightBlue": "#e4e5e7",
+  "brightCyan": "#eae0c7",
+  "brightGreen": "#ced5e4",
+  "brightPurple": "#fcd9b6",
+  "brightRed": "#f3bec5",
+  "brightWhite": "#fef6cd",
+  "brightYellow": "#b6effc"
+}

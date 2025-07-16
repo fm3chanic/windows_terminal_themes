@@ -1,0 +1,16 @@
+{
+  "name": "sameko-saba-medium",
+  "tab": {
+    "background": "#3D7D8FFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#3D7D8FFF",
+    "unfocusedBackground": "#F5E38AFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "nayami-light",
+  "tab": {
+    "background": "#FACFB7FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#FACFB7FF",
+    "unfocusedBackground": "#804D68FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

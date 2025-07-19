@@ -1,0 +1,26 @@
+{
+  "name": "nayami-dark",
+
+  "cursorColor": "#fdd4ce",
+  "selectionBackground": "#955a50",
+
+  "background": "#241a32",
+  "foreground": "#fdd4ce",
+
+  "black": "#302343",
+  "blue": "#789fed",
+  "cyan": "#e87de8",
+  "green": "#f7b36e",
+  "purple": "#f0d175",
+  "red": "#ed78b8",
+  "white": "#fdd4ce",
+  "yellow": "#e87da6",
+  "brightBlack": "#74463e",
+  "brightBlue": "#a5bff3",
+  "brightCyan": "#ff99ff",
+  "brightGreen": "#facc9e",
+  "brightPurple": "#f5e0a3",
+  "brightRed": "#f3a5d0",
+  "brightWhite": "#fdd4ce",
+  "brightYellow": "#fc9cc1"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "nayami-light",
+
+  "cursorColor": "#402634",
+  "selectionBackground": "#b3809b",
+
+  "background": "#facfb7",
+  "foreground": "#402634",
+
+  "black": "#f8bfa0",
+  "blue": "#123987",
+  "cyan": "#990099",
+  "green": "#921907",
+  "purple": "#997300",
+  "red": "#871252",
+  "white": "#402634",
+  "yellow": "#95043c",
+  "brightBlack": "#c69fb4",
+  "brightBlue": "#184cb4",
+  "brightCyan": "#cc00cc",
+  "brightGreen": "#c32209",
+  "brightPurple": "#cc9900",
+  "brightRed": "#b4186e",
+  "brightWhite": "#402634",
+  "brightYellow": "#c7054f"
+}

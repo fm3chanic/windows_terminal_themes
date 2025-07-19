@@ -1,0 +1,16 @@
+{
+  "name": "nayami-dark",
+  "tab": {
+    "background": "#241A32FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#241A32FF",
+    "unfocusedBackground": "#F0B2A8FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

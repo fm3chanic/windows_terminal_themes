@@ -35,6 +35,15 @@ Themes which have been created during my project of color theming Vtubers are in
 > [!TIP]
 > The application reads the whole `settings.json` every time you save. To avoid error messages only save when you copied both parts of the theme.
 
+**Error handling:**
+
+Microsoft add a wonderful feature which automatically changes the text colors when the application thinks the contract might be to low.
+For every of my themes a sufficient contrast is ensured during testing. Yet there are themes where the windows terminal doesn't show
+the correct text colors due to this *feature*. If you experiencing text colors not loading check the following setting 
+(this screenshot is from **Defaults > Appearance**) and set it to **Never**.<br><br>
+
+![Screenshot](/assets/pictures/screenshot_winterm.png)<br><br>
+
 ### Contribution:
 
 If you want to help maintaining the themes, please use colors from the according color scheme. You can find the scheme files in the repo linked above.

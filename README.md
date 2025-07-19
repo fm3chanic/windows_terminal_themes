@@ -37,7 +37,7 @@ Themes which have been created during my project of color theming Vtubers are in
 
 **Error handling:**
 
-Microsoft add a wonderful feature which automatically changes the text colors when the application thinks the contract might be to low.
+Microsoft add a wonderful *feature* which automatically changes the text colors when the application thinks the contrast might be to low.
 For every of my themes a sufficient contrast is ensured during testing. Yet there are themes where the windows terminal doesn't show
 the correct text colors due to this *feature*. If you experiencing text colors not loading check the following setting 
 (this screenshot is from **Defaults > Appearance**) and set it to **Never**.<br><br>

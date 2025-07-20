@@ -1,0 +1,26 @@
+{
+  "name": "spite-dark",
+
+  "cursorColor": "#c2ecf0",
+  "selectionBackground": "#508f95",
+
+  "background": "#22222b",
+  "foreground": "#c2ecf0",
+
+  "black": "#2d2d39",
+  "blue": "#8cb3d9",
+  "cyan": "#71f4f4",
+  "green": "#7171f4",
+  "purple": "#66ccff",
+  "red": "#d966ff",
+  "white": "#c2ecf0",
+  "yellow": "#b366ff",
+  "brightBlack": "#3e7074",
+  "brightBlue": "#b3cce6",
+  "brightCyan": "#a0f8f8",
+  "brightGreen": "#a0a0f8",
+  "brightPurple": "#99ddff",
+  "brightRed": "#e699ff",
+  "brightWhite": "#c2ecf0",
+  "brightYellow": "#cc99ff"
+}

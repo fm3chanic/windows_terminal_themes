@@ -1,0 +1,16 @@
+{
+  "name": "camila-dark",
+  "tab": {
+    "background": "#201D30FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#201D30FF",
+    "unfocusedBackground": "#CC7FAAFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

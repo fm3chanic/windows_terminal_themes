@@ -1,0 +1,16 @@
+{
+  "name": "spite-dark",
+  "tab": {
+    "background": "#22222BFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#22222BFF",
+    "unfocusedBackground": "#82C3C9FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

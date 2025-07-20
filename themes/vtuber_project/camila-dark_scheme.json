@@ -1,0 +1,26 @@
+{
+  "name": "camila-dark",
+
+  "cursorColor": "#e9c8da",
+  "selectionBackground": "#955076",
+
+  "background": "#201d30",
+  "foreground": "#e9c8da",
+
+  "black": "#2a2640",
+  "blue": "#7594f0",
+  "cyan": "#d175f0",
+  "green": "#b375f0",
+  "purple": "#f075b3",
+  "red": "#f075d1",
+  "white": "#e9c8da",
+  "yellow": "#9475f0",
+  "brightBlack": "#743e5c",
+  "brightBlue": "#a3b8f5",
+  "brightCyan": "#e0a3f5",
+  "brightGreen": "#cca3f5",
+  "brightPurple": "#f5a3cc",
+  "brightRed": "#f5a3e0",
+  "brightWhite": "#e9c8da",
+  "brightYellow": "#b8a3f5"
+}

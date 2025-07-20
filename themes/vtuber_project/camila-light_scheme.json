@@ -1,0 +1,26 @@
+{
+  "name": "camila-light",
+
+  "cursorColor": "#371628",
+  "selectionBackground": "#af6a90",
+
+  "background": "#cacfe7",
+  "foreground": "#371628",
+
+  "black": "#b9bfdf",
+  "blue": "#24598f",
+  "cyan": "#74258e",
+  "green": "#591b98",
+  "purple": "#8e2559",
+  "red": "#8e2574",
+  "white": "#371628",
+  "yellow": "#8f243e",
+  "brightBlack": "#c18ba8",
+  "brightBlue": "#2e73b8",
+  "brightCyan": "#952fb6",
+  "brightGreen": "#7322c3",
+  "brightPurple": "#b62f73",
+  "brightRed": "#b62f95",
+  "brightWhite": "#371628",
+  "brightYellow": "#b82e50"
+}

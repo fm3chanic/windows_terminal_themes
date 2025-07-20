@@ -1,0 +1,16 @@
+{
+  "name": "camila-light",
+  "tab": {
+    "background": "#CACFE7FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#CACFE7FF",
+    "unfocusedBackground": "#80335DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

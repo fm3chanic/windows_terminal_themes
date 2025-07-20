@@ -1,0 +1,26 @@
+{
+  "name": "spite-bubblegum-dark",
+
+  "cursorColor": "#f0c2dd",
+  "selectionBackground": "#95507a",
+
+  "background": "#22222b",
+  "foreground": "#f0c2dd",
+
+  "black": "#2d2d39",
+  "blue": "#8cb3d9",
+  "cyan": "#71f4f4",
+  "green": "#7171f4",
+  "purple": "#66ccff",
+  "red": "#d966ff",
+  "white": "#f0c2dd",
+  "yellow": "#b366ff",
+  "brightBlack": "#743e5f",
+  "brightBlue": "#b3cce6",
+  "brightCyan": "#a0f8f8",
+  "brightGreen": "#a0a0f8",
+  "brightPurple": "#99ddff",
+  "brightRed": "#e699ff",
+  "brightWhite": "#f0c2dd",
+  "brightYellow": "#cc99ff"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "spite-bubblegum-dark",
+  "tab": {
+    "background": "#22222BFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#22222BFF",
+    "unfocusedBackground": "#C982ADFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

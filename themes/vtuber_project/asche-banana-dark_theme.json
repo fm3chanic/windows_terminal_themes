@@ -1,5 +1,5 @@
 {
-  "name": "asche-dark",
+  "name": "asche-banana-dark",
   "tab": {
     "background": "#211712FF",
     "showCloseButton": "always",
@@ -7,7 +7,7 @@
   },
   "tabRow": {
     "background": "#211712FF",
-    "unfocusedBackground": "#92A88AFF"
+    "unfocusedBackground": "#C2B070FF"
   },
   "window": {
     "applicationTheme": "dark",

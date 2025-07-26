@@ -1,0 +1,16 @@
+{
+  "name": "adeptus-ministorum-light",
+  "tab": {
+    "background": "#D4D4DDFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#D4D4DDFF",
+    "unfocusedBackground": "#7D6A36FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

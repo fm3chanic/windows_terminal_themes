@@ -1,0 +1,26 @@
+{
+  "name": "adeptus-ministorum-light",
+
+  "cursorColor": "#3e310f",
+  "selectionBackground": "#af9b6a",
+
+  "background": "#d4d4dd",
+  "foreground": "#3e310f",
+
+  "black": "#c6c6d2",
+  "blue": "#3f3f73",
+  "cyan": "#86432d",
+  "green": "#7d3636",
+  "purple": "#3f5a73",
+  "red": "#862d43",
+  "white": "#3e310f",
+  "yellow": "#595959",
+  "brightBlack": "#c1b18b",
+  "brightBlue": "#515194",
+  "brightCyan": "#ac5639",
+  "brightGreen": "#a14545",
+  "brightPurple": "#517494",
+  "brightRed": "#ac3956",
+  "brightWhite": "#3e310f",
+  "brightYellow": "#737373"
+}

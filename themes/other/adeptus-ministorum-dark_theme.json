@@ -1,0 +1,16 @@
+{
+  "name": "adeptus-ministorum-dark",
+  "tab": {
+    "background": "#22222AFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#22222AFF",
+    "unfocusedBackground": "#C9B682FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

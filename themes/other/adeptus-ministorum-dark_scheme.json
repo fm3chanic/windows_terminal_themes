@@ -1,0 +1,26 @@
+{
+  "name": "adeptus-ministorum-dark",
+
+  "cursorColor": "#f0e4c2",
+  "selectionBackground": "#958250",
+
+  "background": "#22222a",
+  "foreground": "#f0e4c2",
+
+  "black": "#2d2d39",
+  "blue": "#9c9cc9",
+  "cyan": "#d99f8c",
+  "green": "#d19494",
+  "purple": "#9cb3c9",
+  "red": "#d98c9f",
+  "white": "#f0e4c2",
+  "yellow": "#b3b3b3",
+  "brightBlack": "#74653e",
+  "brightBlue": "#bdbddb",
+  "brightCyan": "#e6bfb3",
+  "brightGreen": "#e0b8b8",
+  "brightPurple": "#bdccdb",
+  "brightRed": "#e6b3bf",
+  "brightWhite": "#f0e4c2",
+  "brightYellow": "#cccccc"
+}

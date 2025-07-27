@@ -1,0 +1,26 @@
+{
+  "name": "aquwa-light",
+
+  "cursorColor": "#150f3d",
+  "selectionBackground": "#756aaf",
+
+  "background": "#c8eaea",
+  "foreground": "#150f3d",
+
+  "black": "#b5e3e3",
+  "blue": "#8f248f",
+  "cyan": "#24598f",
+  "green": "#248f8f",
+  "purple": "#8f2459",
+  "red": "#24248f",
+  "white": "#150f3d",
+  "yellow": "#59248f",
+  "brightBlack": "#948bc1",
+  "brightBlue": "#b82eb8",
+  "brightCyan": "#2e73b8",
+  "brightGreen": "#2eb8b8",
+  "brightPurple": "#b82e73",
+  "brightRed": "#2e2eb8",
+  "brightWhite": "#150f3d",
+  "brightYellow": "#732eb8"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "cypress-dark",
+  "tab": {
+    "background": "#2B2522FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2B2522FF",
+    "unfocusedBackground": "#C9828DFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

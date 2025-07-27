@@ -1,0 +1,16 @@
+{
+  "name": "aquwa-dark",
+  "tab": {
+    "background": "#1B2632FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1B2632FF",
+    "unfocusedBackground": "#8D82C9FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

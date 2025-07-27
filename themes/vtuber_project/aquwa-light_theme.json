@@ -1,0 +1,16 @@
+{
+  "name": "aquwa-light",
+  "tab": {
+    "background": "#C8EAEAFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#C8EAEAFF",
+    "unfocusedBackground": "#41367DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

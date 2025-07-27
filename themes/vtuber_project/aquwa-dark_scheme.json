@@ -1,0 +1,26 @@
+{
+  "name": "aquwa-dark",
+
+  "cursorColor": "#c8c1f0",
+  "selectionBackground": "#5c5095",
+
+  "background": "#1b2632",
+  "foreground": "#c8c1f0",
+
+  "black": "#243242",
+  "blue": "#e085e0",
+  "cyan": "#84b3e1",
+  "green": "#85e0e0",
+  "purple": "#e085b3",
+  "red": "#8585e0",
+  "white": "#c8c1f0",
+  "yellow": "#b385e0",
+  "brightBlack": "#473e74",
+  "brightBlue": "#eaaeea",
+  "brightCyan": "#adcceb",
+  "brightGreen": "#aeeaea",
+  "brightPurple": "#eaaecc",
+  "brightRed": "#aeaeea",
+  "brightWhite": "#c8c1f0",
+  "brightYellow": "#ccaeea"
+}

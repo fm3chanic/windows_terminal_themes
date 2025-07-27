@@ -1,0 +1,26 @@
+{
+  "name": "cypress-light",
+
+  "cursorColor": "#3d0f15",
+  "selectionBackground": "#af6a74",
+
+  "background": "#ddd7d4",
+  "foreground": "#3d0f15",
+
+  "black": "#d2cac6",
+  "blue": "#69494e",
+  "cyan": "#8e2526",
+  "green": "#914321",
+  "purple": "#653f73",
+  "red": "#b32d00",
+  "white": "#3d0f15",
+  "yellow": "#81325e",
+  "brightBlack": "#c18b93",
+  "brightBlue": "#875e64",
+  "brightCyan": "#b62f31",
+  "brightGreen": "#bb562a",
+  "brightPurple": "#825194",
+  "brightRed": "#e63900",
+  "brightWhite": "#3d0f15",
+  "brightYellow": "#a54078"
+}

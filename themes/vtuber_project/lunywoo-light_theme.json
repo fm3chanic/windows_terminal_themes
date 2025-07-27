@@ -1,0 +1,16 @@
+{
+  "name": "lunywoo-light",
+  "tab": {
+    "background": "#D8CDE4FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#D8CDE4FF",
+    "unfocusedBackground": "#66367DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

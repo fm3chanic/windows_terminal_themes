@@ -1,0 +1,26 @@
+{
+  "name": "cypress-dark",
+
+  "cursorColor": "#ecc6cb",
+  "selectionBackground": "#95505a",
+
+  "background": "#2b2522",
+  "foreground": "#ecc6cb",
+
+  "black": "#39312d",
+  "blue": "#c0a5a9",
+  "cyan": "#e08587",
+  "green": "#e39f82",
+  "purple": "#bd9cc9",
+  "red": "#ff8c66",
+  "white": "#ecc6cb",
+  "yellow": "#d491b7",
+  "brightBlack": "#743e45",
+  "brightBlue": "#d5c3c6",
+  "brightCyan": "#eaaeaf",
+  "brightGreen": "#ecbfac",
+  "brightPurple": "#d3bddb",
+  "brightRed": "#ffb399",
+  "brightWhite": "#ecc6cb",
+  "brightYellow": "#e2b6cf"
+}

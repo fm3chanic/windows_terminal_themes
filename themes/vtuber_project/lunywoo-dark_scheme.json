@@ -1,0 +1,26 @@
+{
+  "name": "lunywoo-dark",
+
+  "cursorColor": "#c6e2ec",
+  "selectionBackground": "#955095",
+
+  "background": "#21212c",
+  "foreground": "#c6e2ec",
+
+  "black": "#2c2c3a",
+  "blue": "#7de8e8",
+  "cyan": "#d98cd9",
+  "green": "#c37de8",
+  "purple": "#9f7de8",
+  "red": "#7db3e8",
+  "white": "#c6e2ec",
+  "yellow": "#82c9b6",
+  "brightBlack": "#743e74",
+  "brightBlue": "#a8f0f0",
+  "brightCyan": "#e6b3e6",
+  "brightGreen": "#d7a8f0",
+  "brightPurple": "#bfa8f0",
+  "brightRed": "#a8ccf0",
+  "brightWhite": "#c6e2ec",
+  "brightYellow": "#a6d9cb"
+}

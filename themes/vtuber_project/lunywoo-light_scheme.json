@@ -1,0 +1,26 @@
+{
+  "name": "lunywoo-light",
+
+  "cursorColor": "#2f0f3d",
+  "selectionBackground": "#6a9baf",
+
+  "background": "#d8cde4",
+  "foreground": "#2f0f3d",
+
+  "black": "#cbbddb",
+  "blue": "#1b9898",
+  "cyan": "#981b98",
+  "green": "#6c1b98",
+  "purple": "#421b98",
+  "red": "#1b5998",
+  "white": "#2f0f3d",
+  "yellow": "#367d6a",
+  "brightBlack": "#8bb2c1",
+  "brightBlue": "#22c3c3",
+  "brightCyan": "#c322c3",
+  "brightGreen": "#8b22c3",
+  "brightPurple": "#5522c3",
+  "brightRed": "#2273c3",
+  "brightWhite": "#2f0f3d",
+  "brightYellow": "#45a188"
+}

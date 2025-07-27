@@ -1,0 +1,16 @@
+{
+  "name": "cypress-light",
+  "tab": {
+    "background": "#DDD7D4FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#DDD7D4FF",
+    "unfocusedBackground": "#7D3641FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

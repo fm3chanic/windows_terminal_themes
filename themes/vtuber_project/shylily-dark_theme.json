@@ -1,13 +1,13 @@
 {
   "name": "shylily-dark",
   "tab": {
-    "background": "#1C1B32FF",
+    "background": "#1B1B32FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1C1B32FF",
-    "unfocusedBackground": "#AEACD2FF"
+    "background": "#1B1B32FF",
+    "unfocusedBackground": "#8295C9FF"
   },
   "window": {
     "applicationTheme": "dark",

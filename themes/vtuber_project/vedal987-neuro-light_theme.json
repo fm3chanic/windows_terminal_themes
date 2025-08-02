@@ -1,13 +1,13 @@
 {
   "name": "vedal987-neuro-light",
   "tab": {
-    "background": "#F9E6D2FF",
+    "background": "#F6DABCFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#F9E6D2FF",
-    "unfocusedBackground": "#6A4848FF"
+    "background": "#F6DABCFF",
+    "unfocusedBackground": "#7D4B36FF"
   },
   "window": {
     "applicationTheme": "light",

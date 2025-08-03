@@ -1,0 +1,16 @@
+{
+  "name": "ironmouse-light",
+  "tab": {
+    "background": "#E4CDD2FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#E4CDD2FF",
+    "unfocusedBackground": "#57476BFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

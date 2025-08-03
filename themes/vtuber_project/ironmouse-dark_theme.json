@@ -1,0 +1,16 @@
+{
+  "name": "ironmouse-dark",
+  "tab": {
+    "background": "#26212CFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#26212CFF",
+    "unfocusedBackground": "#C98292FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

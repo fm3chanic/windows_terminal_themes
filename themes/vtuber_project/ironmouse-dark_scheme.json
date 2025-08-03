@@ -1,0 +1,26 @@
+{
+  "name": "ironmouse-dark",
+
+  "cursorColor": "#ecc6cf",
+  "selectionBackground": "#95505f",
+
+  "background": "#26212c",
+  "foreground": "#ecc6cf",
+
+  "black": "#322c3a",
+  "blue": "#bea7b0",
+  "cyan": "#d68f99",
+  "green": "#de87ca",
+  "purple": "#e4819b",
+  "red": "#a4a4c1",
+  "white": "#ecc6cf",
+  "yellow": "#b195d0",
+  "brightBlack": "#743e4a",
+  "brightBlue": "#d4c4ca",
+  "brightCyan": "#e3b5bb",
+  "brightGreen": "#e9afdc",
+  "brightPurple": "#edabbd",
+  "brightRed": "#c2c2d6",
+  "brightWhite": "#ecc6cf",
+  "brightYellow": "#cbb8e0"
+}

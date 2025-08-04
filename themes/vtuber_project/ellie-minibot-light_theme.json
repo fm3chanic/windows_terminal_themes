@@ -1,0 +1,16 @@
+{
+  "name": "ellie-minibot-light",
+  "tab": {
+    "background": "#D5D5DDFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#D5D5DDFF",
+    "unfocusedBackground": "#366D7DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

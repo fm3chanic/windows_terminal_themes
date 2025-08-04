@@ -1,0 +1,26 @@
+{
+  "name": "ellie-minibot-codebug",
+
+  "cursorColor": "#0f3d3d",
+  "selectionBackground": "#6aafaf",
+
+  "background": "#f7e8bb",
+  "foreground": "#0f3d3d",
+
+  "black": "#f4e0a4",
+  "blue": "#1b9898",
+  "cyan": "#998a00",
+  "green": "#aa7a08",
+  "purple": "#aa5908",
+  "red": "#2d2d86",
+  "white": "#0f3d3d",
+  "yellow": "#1b5998",
+  "brightBlack": "#8bc1c1",
+  "brightBlue": "#22c3c3",
+  "brightCyan": "#ccb800",
+  "brightGreen": "#db9d0a",
+  "brightPurple": "#db730a",
+  "brightRed": "#3939ac",
+  "brightWhite": "#0f3d3d",
+  "brightYellow": "#2273c3"
+}

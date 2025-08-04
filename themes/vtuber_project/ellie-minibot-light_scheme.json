@@ -1,0 +1,26 @@
+{
+  "name": "ellie-minibot-light",
+
+  "cursorColor": "#0f323d",
+  "selectionBackground": "#6aa0af",
+
+  "background": "#d5d5dd",
+  "foreground": "#0f323d",
+
+  "black": "#c6c6d2",
+  "blue": "#1b9898",
+  "cyan": "#998a00",
+  "green": "#aa7a08",
+  "purple": "#aa5908",
+  "red": "#2d2d86",
+  "white": "#0f323d",
+  "yellow": "#1b5998",
+  "brightBlack": "#8bb5c1",
+  "brightBlue": "#22c3c3",
+  "brightCyan": "#ccb800",
+  "brightGreen": "#db9d0a",
+  "brightPurple": "#db730a",
+  "brightRed": "#3939ac",
+  "brightWhite": "#0f323d",
+  "brightYellow": "#2273c3"
+}

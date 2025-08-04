@@ -1,0 +1,16 @@
+{
+  "name": "ellie-minibot-codebug",
+  "tab": {
+    "background": "#F7E8BBFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#F7E8BBFF",
+    "unfocusedBackground": "#367D7DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

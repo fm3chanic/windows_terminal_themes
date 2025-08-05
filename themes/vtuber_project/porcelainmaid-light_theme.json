@@ -1,0 +1,16 @@
+{
+  "name": "porcelainmaid-light",
+  "tab": {
+    "background": "#E4CDD0FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#E4CDD0FF",
+    "unfocusedBackground": "#7D3657FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

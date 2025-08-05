@@ -1,0 +1,26 @@
+{
+  "name": "porcelainmaid-dark",
+
+  "cursorColor": "#f0c2c2",
+  "selectionBackground": "#945151",
+
+  "background": "#2f1d25",
+  "foreground": "#f0c2c2",
+
+  "black": "#3f2732",
+  "blue": "#b37de8",
+  "cyan": "#e87d7d",
+  "green": "#e87db1",
+  "purple": "#e8987d",
+  "red": "#7d7de8",
+  "white": "#f0c2c2",
+  "yellow": "#e085e0",
+  "brightBlack": "#733f3f",
+  "brightBlue": "#cca8f0",
+  "brightCyan": "#f0a8a8",
+  "brightGreen": "#f0a8cb",
+  "brightPurple": "#f0baa8",
+  "brightRed": "#a8a8f0",
+  "brightWhite": "#f0c2c2",
+  "brightYellow": "#eaaeea"
+}

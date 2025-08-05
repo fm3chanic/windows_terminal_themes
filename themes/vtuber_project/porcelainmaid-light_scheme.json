@@ -1,0 +1,26 @@
+{
+  "name": "porcelainmaid-light",
+
+  "cursorColor": "#3d0f25",
+  "selectionBackground": "#af6a8a",
+
+  "background": "#e4cdd0",
+  "foreground": "#3d0f25",
+
+  "black": "#dbbdc1",
+  "blue": "#59248f",
+  "cyan": "#931f1f",
+  "green": "#8f2457",
+  "purple": "#983a1b",
+  "red": "#2d2d86",
+  "white": "#3d0f25",
+  "yellow": "#862d86",
+  "brightBlack": "#c18ba4",
+  "brightBlue": "#732eb8",
+  "brightCyan": "#bd2828",
+  "brightGreen": "#b82e70",
+  "brightPurple": "#c34b22",
+  "brightRed": "#3939ac",
+  "brightWhite": "#3d0f25",
+  "brightYellow": "#ac39ac"
+}

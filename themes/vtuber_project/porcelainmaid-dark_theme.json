@@ -1,0 +1,16 @@
+{
+  "name": "porcelainmaid-dark",
+  "tab": {
+    "background": "#2F1D25FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2F1D25FF",
+    "unfocusedBackground": "#C98282FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

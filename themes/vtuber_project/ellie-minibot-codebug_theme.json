@@ -1,13 +1,13 @@
 {
   "name": "ellie-minibot-codebug",
   "tab": {
-    "background": "#F7E8BBFF",
+    "background": "#F5E6BDFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#F7E8BBFF",
-    "unfocusedBackground": "#367D7DFF"
+    "background": "#F5E6BDFF",
+    "unfocusedBackground": "#865B2DFF"
   },
   "window": {
     "applicationTheme": "light",

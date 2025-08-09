@@ -1,0 +1,26 @@
+{
+  "name": "rosedoodle-dark",
+
+  "cursorColor": "#f0e3c2",
+  "selectionBackground": "#5c8a7e",
+
+  "background": "#301d2e",
+  "foreground": "#f0e3c2",
+
+  "black": "#40263d",
+  "blue": "#ecb379",
+  "cyan": "#7de8e8",
+  "green": "#7de8b3",
+  "purple": "#7db3e8",
+  "red": "#ecec79",
+  "white": "#f0e3c2",
+  "yellow": "#f0d175",
+  "brightBlack": "#476b62",
+  "brightBlue": "#f2cca6",
+  "brightCyan": "#a8f0f0",
+  "brightGreen": "#a8f0cc",
+  "brightPurple": "#a8ccf0",
+  "brightRed": "#f2f2a6",
+  "brightWhite": "#f0e3c2",
+  "brightYellow": "#f5e0a3"
+}

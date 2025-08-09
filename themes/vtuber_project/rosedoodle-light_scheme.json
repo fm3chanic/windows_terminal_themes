@@ -1,0 +1,26 @@
+{
+  "name": "rosedoodle-light",
+
+  "cursorColor": "#230f3d",
+  "selectionBackground": "#75a398",
+
+  "background": "#e4cde2",
+  "foreground": "#230f3d",
+
+  "black": "#dbbdd9",
+  "blue": "#93591f",
+  "cyan": "#1b7e7e",
+  "green": "#1f7a4d",
+  "purple": "#1f5993",
+  "red": "#7e7e1b",
+  "white": "#230f3d",
+  "yellow": "#8a6b0f",
+  "brightBlack": "#94b8af",
+  "brightBlue": "#bd7328",
+  "brightCyan": "#24a8a8",
+  "brightGreen": "#2aa266",
+  "brightPurple": "#2873bd",
+  "brightRed": "#a8a824",
+  "brightWhite": "#230f3d",
+  "brightYellow": "#b88f14"
+}

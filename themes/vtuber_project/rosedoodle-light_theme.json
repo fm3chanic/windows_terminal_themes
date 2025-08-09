@@ -1,0 +1,16 @@
+{
+  "name": "rosedoodle-light",
+  "tab": {
+    "background": "#E4CDE2FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#E4CDE2FF",
+    "unfocusedBackground": "#54367DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

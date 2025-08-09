@@ -1,0 +1,16 @@
+{
+  "name": "rosedoodle-dark",
+  "tab": {
+    "background": "#301D2EFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#301D2EFF",
+    "unfocusedBackground": "#C9B682FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

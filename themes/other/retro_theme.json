@@ -1,0 +1,16 @@
+{
+  "name": "retro",
+  "tab": {
+    "background": "#1A1A1AFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1A1A1AFF",
+    "unfocusedBackground": "#999999FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

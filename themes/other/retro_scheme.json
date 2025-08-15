@@ -1,0 +1,26 @@
+{
+  "name": "retro",
+
+  "cursorColor": "#cccccc",
+  "selectionBackground": "#666666",
+
+  "background": "#1a1a1a",
+  "foreground": "#cccccc",
+
+  "black": "#262626",
+  "blue": "#4d94ff",
+  "cyan": "#4dffff",
+  "green": "#4dff4d",
+  "purple": "#ff4dff",
+  "red": "#ff4d4d",
+  "white": "#cccccc",
+  "yellow": "#ffff4d",
+  "brightBlack": "#4d4d4d",
+  "brightBlue": "#80b3ff",
+  "brightCyan": "#80ffff",
+  "brightGreen": "#80ff80",
+  "brightPurple": "#ff80ff",
+  "brightRed": "#ff8080",
+  "brightWhite": "#cccccc",
+  "brightYellow": "#ffff80"
+}

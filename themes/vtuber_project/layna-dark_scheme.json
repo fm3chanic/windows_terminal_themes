@@ -1,0 +1,26 @@
+{
+  "name": "layna-dark",
+
+  "cursorColor": "#ebadad",
+  "selectionBackground": "#844848",
+
+  "background": "#1a1a1a",
+  "foreground": "#ebadad",
+
+  "black": "#262626",
+  "blue": "#70eb47",
+  "cyan": "#eb4770",
+  "green": "#eb4747",
+  "purple": "#eb7047",
+  "red": "#47eb70",
+  "white": "#ebadad",
+  "yellow": "#c2eb47",
+  "brightBlack": "#633636",
+  "brightBlue": "#a6f28c",
+  "brightCyan": "#f28ca6",
+  "brightGreen": "#f28c8c",
+  "brightPurple": "#f2a68c",
+  "brightRed": "#8cf2a6",
+  "brightWhite": "#ebadad",
+  "brightYellow": "#d9f28c"
+}

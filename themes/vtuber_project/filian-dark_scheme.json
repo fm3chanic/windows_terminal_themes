@@ -1,0 +1,26 @@
+{
+  "name": "filian-dark",
+
+  "cursorColor": "#d9d3de",
+  "selectionBackground": "#736284",
+
+  "background": "#1b1b32",
+  "foreground": "#d9d3de",
+
+  "black": "#242442",
+  "blue": "#ff66b3",
+  "cyan": "#6666ff",
+  "green": "#ff6666",
+  "purple": "#d966ff",
+  "red": "#66c2ff",
+  "white": "#d9d3de",
+  "yellow": "#b366ff",
+  "brightBlack": "#5a4c67",
+  "brightBlue": "#ff99cc",
+  "brightCyan": "#9999ff",
+  "brightGreen": "#ff9999",
+  "brightPurple": "#e699ff",
+  "brightRed": "#99d6ff",
+  "brightWhite": "#d9d3de",
+  "brightYellow": "#cc99ff"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "layna-dark",
+  "tab": {
+    "background": "#1A1A1AFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1A1A1AFF",
+    "unfocusedBackground": "#C27070FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

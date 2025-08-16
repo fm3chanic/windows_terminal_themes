@@ -1,0 +1,16 @@
+{
+  "name": "filian-light",
+  "tab": {
+    "background": "#D9D3DEFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#D9D3DEFF",
+    "unfocusedBackground": "#36367DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

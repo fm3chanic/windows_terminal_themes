@@ -1,0 +1,16 @@
+{
+  "name": "laphipi-light",
+  "tab": {
+    "background": "#ECC6ECFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#ECC6ECFF",
+    "unfocusedBackground": "#4D4D4DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

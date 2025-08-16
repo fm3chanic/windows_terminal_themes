@@ -1,0 +1,26 @@
+{
+  "name": "laphipi-light",
+
+  "cursorColor": "#1a1a1a",
+  "selectionBackground": "#a375a3",
+
+  "background": "#ecc6ec",
+  "foreground": "#1a1a1a",
+
+  "black": "#e6b3e6",
+  "blue": "#7a361f",
+  "cyan": "#82174d",
+  "green": "#821782",
+  "purple": "#821717",
+  "red": "#1f1f7a",
+  "white": "#1a1a1a",
+  "yellow": "#4d0f8a",
+  "brightBlack": "#b894b8",
+  "brightBlue": "#a2482a",
+  "brightCyan": "#ad1f66",
+  "brightGreen": "#ad1fad",
+  "brightPurple": "#ad1f1f",
+  "brightRed": "#2a2aa2",
+  "brightWhite": "#1a1a1a",
+  "brightYellow": "#6614b8"
+}

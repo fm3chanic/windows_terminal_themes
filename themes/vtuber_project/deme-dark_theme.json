@@ -1,0 +1,16 @@
+{
+  "name": "deme-dark",
+  "tab": {
+    "background": "#1B181BFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1B181BFF",
+    "unfocusedBackground": "#CC9966FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

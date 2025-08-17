@@ -1,0 +1,16 @@
+{
+  "name": "jinja-dark-red",
+  "tab": {
+    "background": "#2C1F2EFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2C1F2EFF",
+    "unfocusedBackground": "#C27085FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

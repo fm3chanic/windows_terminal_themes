@@ -1,0 +1,26 @@
+{
+  "name": "jinja-dark-red",
+
+  "cursorColor": "#ebadbc",
+  "selectionBackground": "#844857",
+
+  "background": "#2c1f2e",
+  "foreground": "#ebadbc",
+
+  "black": "#3a293d",
+  "blue": "#e8867d",
+  "cyan": "#e87de8",
+  "green": "#ff6673",
+  "purple": "#e87db3",
+  "red": "#ffe166",
+  "white": "#ebadbc",
+  "yellow": "#ffc766",
+  "brightBlack": "#633641",
+  "brightBlue": "#f0aea8",
+  "brightCyan": "#f0a8f0",
+  "brightGreen": "#ff99a2",
+  "brightPurple": "#f0a8cc",
+  "brightRed": "#ffeb99",
+  "brightWhite": "#ebadbc",
+  "brightYellow": "#ffda99"
+}

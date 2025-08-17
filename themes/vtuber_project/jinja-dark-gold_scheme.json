@@ -1,0 +1,26 @@
+{
+  "name": "jinja-dark-gold",
+
+  "cursorColor": "#f4dfbe",
+  "selectionBackground": "#a17f45",
+
+  "background": "#29222a",
+  "foreground": "#f4dfbe",
+
+  "black": "#372d39",
+  "blue": "#e87de8",
+  "cyan": "#ffe166",
+  "green": "#ffc766",
+  "purple": "#e8867d",
+  "red": "#e87db3",
+  "white": "#f4dfbe",
+  "yellow": "#ff6673",
+  "brightBlack": "#7d6336",
+  "brightBlue": "#f0a8f0",
+  "brightCyan": "#ffeb99",
+  "brightGreen": "#ffda99",
+  "brightPurple": "#f0aea8",
+  "brightRed": "#f0a8cc",
+  "brightWhite": "#f4dfbe",
+  "brightYellow": "#ff99a2"
+}

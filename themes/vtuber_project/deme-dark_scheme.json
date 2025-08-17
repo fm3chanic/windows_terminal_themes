@@ -1,0 +1,26 @@
+{
+  "name": "deme-dark",
+
+  "cursorColor": "#f1cca7",
+  "selectionBackground": "#8f663d",
+
+  "background": "#1b181b",
+  "foreground": "#f1cca7",
+
+  "black": "#292429",
+  "blue": "#e269e2",
+  "cyan": "#f2cc5a",
+  "green": "#f3a658",
+  "purple": "#f2805a",
+  "red": "#6969e2",
+  "white": "#f1cca7",
+  "yellow": "#a669e2",
+  "brightBlack": "#6b4d2e",
+  "brightBlue": "#eb94eb",
+  "brightCyan": "#f5da89",
+  "brightGreen": "#f7bf88",
+  "brightPurple": "#f5a489",
+  "brightRed": "#9494eb",
+  "brightWhite": "#f1cca7",
+  "brightYellow": "#bf94eb"
+}

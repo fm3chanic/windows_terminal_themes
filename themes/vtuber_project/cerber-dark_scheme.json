@@ -1,0 +1,26 @@
+{
+  "name": "cerber-dark",
+
+  "cursorColor": "#f0ddc2",
+  "selectionBackground": "#a18a45",
+
+  "background": "#201c30",
+  "foreground": "#f0ddc2",
+
+  "black": "#2b2640",
+  "blue": "#e8987d",
+  "cyan": "#bd8bda",
+  "green": "#a79fc6",
+  "purple": "#e97ce5",
+  "red": "#edd95e",
+  "white": "#f0ddc2",
+  "yellow": "#e9bf7c",
+  "brightBlack": "#7d6b36",
+  "brightBlue": "#f0baa8",
+  "brightCyan": "#d3b1e7",
+  "brightGreen": "#c4bfd9",
+  "brightPurple": "#f0a8ee",
+  "brightRed": "#f2e58c",
+  "brightWhite": "#f0ddc2",
+  "brightYellow": "#f0d4a8"
+}

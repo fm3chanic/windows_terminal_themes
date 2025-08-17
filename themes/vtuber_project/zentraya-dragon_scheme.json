@@ -1,0 +1,26 @@
+{
+  "name": "zentraya-dragon",
+
+  "cursorColor": "#f0c6c2",
+  "selectionBackground": "#955750",
+
+  "background": "#2c2321",
+  "foreground": "#f0c6c2",
+
+  "black": "#3a2e2c",
+  "blue": "#f7cd6e",
+  "cyan": "#f07575",
+  "green": "#f09475",
+  "purple": "#e0859c",
+  "red": "#f2e673",
+  "white": "#f0c6c2",
+  "yellow": "#f7b36e",
+  "brightBlack": "#74433e",
+  "brightBlue": "#fade9e",
+  "brightCyan": "#f5a3a3",
+  "brightGreen": "#f5b8a3",
+  "brightPurple": "#eaaebd",
+  "brightRed": "#f6eea2",
+  "brightWhite": "#f0c6c2",
+  "brightYellow": "#facc9e"
+}

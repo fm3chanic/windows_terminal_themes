@@ -1,0 +1,26 @@
+{
+  "name": "deme-light",
+
+  "cursorColor": "#361f17",
+  "selectionBackground": "#ba775e",
+
+  "background": "#ddd5dd",
+  "foreground": "#361f17",
+
+  "black": "#d2c6d2",
+  "blue": "#811881",
+  "cyan": "#8e6d0b",
+  "green": "#8f4d0a",
+  "purple": "#8e2c0b",
+  "red": "#181881",
+  "white": "#361f17",
+  "yellow": "#4d1881",
+  "brightBlack": "#c99582",
+  "brightBlue": "#ac20ac",
+  "brightCyan": "#be920e",
+  "brightGreen": "#bf660d",
+  "brightPurple": "#be3a0e",
+  "brightRed": "#2020ac",
+  "brightWhite": "#361f17",
+  "brightYellow": "#6620ac"
+}

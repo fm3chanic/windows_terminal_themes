@@ -1,0 +1,16 @@
+{
+  "name": "zentraya-dragon",
+  "tab": {
+    "background": "#2C2321FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2C2321FF",
+    "unfocusedBackground": "#C98982FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

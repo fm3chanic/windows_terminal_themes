@@ -1,0 +1,16 @@
+{
+  "name": "cerber-dark",
+  "tab": {
+    "background": "#201C30FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#201C30FF",
+    "unfocusedBackground": "#C9AE82FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

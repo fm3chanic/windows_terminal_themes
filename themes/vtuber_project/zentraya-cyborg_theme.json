@@ -1,0 +1,16 @@
+{
+  "name": "zentraya-cyborg",
+  "tab": {
+    "background": "#121921FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#121921FF",
+    "unfocusedBackground": "#A88AA8FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cerber-light",
+
+  "cursorColor": "#190f3d",
+  "selectionBackground": "#7a6eaa",
+
+  "background": "#f0ddc2",
+  "foreground": "#190f3d",
+
+  "black": "#ebd1ad",
+  "blue": "#823217",
+  "cyan": "#5b1782",
+  "green": "#2c1782",
+  "purple": "#83167f",
+  "red": "#8a780f",
+  "white": "#190f3d",
+  "yellow": "#835916",
+  "brightBlack": "#988fbd",
+  "brightBlue": "#ad421f",
+  "brightCyan": "#791fad",
+  "brightGreen": "#3b1fad",
+  "brightPurple": "#ae1eaa",
+  "brightRed": "#b89f14",
+  "brightWhite": "#190f3d",
+  "brightYellow": "#ae771e"
+}

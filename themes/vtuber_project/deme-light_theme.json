@@ -1,0 +1,16 @@
+{
+  "name": "deme-light",
+  "tab": {
+    "background": "#DDD5DDFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#DDD5DDFF",
+    "unfocusedBackground": "#7D4936FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "cerber-light",
+  "tab": {
+    "background": "#F0DDC2FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#F0DDC2FF",
+    "unfocusedBackground": "#44367DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

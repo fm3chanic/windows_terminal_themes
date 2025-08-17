@@ -1,0 +1,26 @@
+{
+  "name": "zentraya-cyborg",
+
+  "cursorColor": "#d4c4d4",
+  "selectionBackground": "#6f5c70",
+
+  "background": "#121921",
+  "foreground": "#d4c4d4",
+
+  "black": "#1b2631",
+  "blue": "#67e4a6",
+  "cyan": "#e467e4",
+  "green": "#e467a6",
+  "purple": "#a667e4",
+  "red": "#6c9ae0",
+  "white": "#d4c4d4",
+  "yellow": "#67e4e4",
+  "brightBlack": "#534554",
+  "brightBlue": "#93ecbf",
+  "brightCyan": "#ec93ec",
+  "brightGreen": "#ec93bf",
+  "brightPurple": "#bf93ec",
+  "brightRed": "#96b7e9",
+  "brightWhite": "#d4c4d4",
+  "brightYellow": "#93ecec"
+}

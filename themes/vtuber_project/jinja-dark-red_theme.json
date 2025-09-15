@@ -1,12 +1,12 @@
 {
   "name": "jinja-dark-red",
   "tab": {
-    "background": "#2C1F2EFF",
+    "background": "#29222AFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#2C1F2EFF",
+    "background": "#29222AFF",
     "unfocusedBackground": "#C27085FF"
   },
   "window": {

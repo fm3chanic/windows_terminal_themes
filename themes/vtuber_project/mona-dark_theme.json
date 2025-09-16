@@ -1,0 +1,16 @@
+{
+  "name": "mona-dark",
+  "tab": {
+    "background": "#311B1DFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#311B1DFF",
+    "unfocusedBackground": "#C9AF82FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

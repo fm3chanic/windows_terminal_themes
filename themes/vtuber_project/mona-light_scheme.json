@@ -1,0 +1,26 @@
+{
+  "name": "mona-light",
+
+  "cursorColor": "#3d0f13",
+  "selectionBackground": "#af6a6d",
+
+  "background": "#f4dfbe",
+  "foreground": "#3d0f13",
+
+  "black": "#f0d4a8",
+  "blue": "#8a0f4d",
+  "cyan": "#8a4d0f",
+  "green": "#8a6b0f",
+  "purple": "#8a2e0f",
+  "red": "#8a0f8a",
+  "white": "#3d0f13",
+  "yellow": "#8a0f2e",
+  "brightBlack": "#c18b8e",
+  "brightBlue": "#ad1f66",
+  "brightCyan": "#ad661f",
+  "brightGreen": "#ad8a1f",
+  "brightPurple": "#ad421f",
+  "brightRed": "#ad1fad",
+  "brightWhite": "#3d0f13",
+  "brightYellow": "#ad1f42"
+}

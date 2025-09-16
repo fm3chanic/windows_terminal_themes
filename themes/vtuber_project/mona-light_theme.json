@@ -1,0 +1,16 @@
+{
+  "name": "mona-light",
+  "tab": {
+    "background": "#F4DFBEFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#F4DFBEFF",
+    "unfocusedBackground": "#7D3639FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

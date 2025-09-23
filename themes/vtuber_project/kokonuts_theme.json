@@ -1,0 +1,16 @@
+{
+  "name": "kokonuts",
+  "tab": {
+    "background": "#F9EBB8FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#F9EBB8FF",
+    "unfocusedBackground": "#7D3662FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

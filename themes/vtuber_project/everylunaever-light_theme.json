@@ -1,0 +1,16 @@
+{
+  "name": "everylunaever-light",
+  "tab": {
+    "background": "#DECDE4FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#DECDE4FF",
+    "unfocusedBackground": "#54367DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

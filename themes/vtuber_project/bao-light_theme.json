@@ -1,0 +1,16 @@
+{
+  "name": "bao-light",
+  "tab": {
+    "background": "#CDD2E4FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#CDD2E4FF",
+    "unfocusedBackground": "#366D7DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

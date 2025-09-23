@@ -1,0 +1,16 @@
+{
+  "name": "shoomimi",
+  "tab": {
+    "background": "#1B3132FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1B3132FF",
+    "unfocusedBackground": "#C98294FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "dokibird",
+
+  "cursorColor": "#f9e7b8",
+  "selectionBackground": "#4e977f",
+
+  "background": "#262626",
+  "foreground": "#f9e7b8",
+
+  "black": "#333333",
+  "blue": "#75f0f0",
+  "cyan": "#b3f075",
+  "green": "#f0f075",
+  "purple": "#75f075",
+  "red": "#75b3f0",
+  "white": "#f9e7b8",
+  "yellow": "#75f0b3",
+  "brightBlack": "#3d7663",
+  "brightBlue": "#a3f5f5",
+  "brightCyan": "#ccf5a3",
+  "brightGreen": "#f5f5a3",
+  "brightPurple": "#a3f5a3",
+  "brightRed": "#a3ccf5",
+  "brightWhite": "#f9e7b8",
+  "brightYellow": "#a3f5cc"
+}

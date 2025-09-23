@@ -1,0 +1,26 @@
+{
+  "name": "finstey",
+
+  "cursorColor": "#f4e6bd",
+  "selectionBackground": "#6e6581",
+
+  "background": "#25222b",
+  "foreground": "#f4e6bd",
+
+  "black": "#312d39",
+  "blue": "#76b3ef",
+  "cyan": "#e085e0",
+  "green": "#b376ef",
+  "purple": "#e085b3",
+  "red": "#7676ef",
+  "white": "#f4e6bd",
+  "yellow": "#76efef",
+  "brightBlack": "#564f64",
+  "brightBlue": "#a4ccf4",
+  "brightCyan": "#eaaeea",
+  "brightGreen": "#cca4f4",
+  "brightPurple": "#eaaecc",
+  "brightRed": "#a4a4f4",
+  "brightWhite": "#f4e6bd",
+  "brightYellow": "#a4f4f4"
+}

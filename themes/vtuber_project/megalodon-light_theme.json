@@ -1,0 +1,16 @@
+{
+  "name": "megalodon-light",
+  "tab": {
+    "background": "#D7CBE7FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#D7CBE7FF",
+    "unfocusedBackground": "#543181FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

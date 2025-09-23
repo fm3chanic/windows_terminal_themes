@@ -1,0 +1,16 @@
+{
+  "name": "dokibird",
+  "tab": {
+    "background": "#262626FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#262626FF",
+    "unfocusedBackground": "#DBC170FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

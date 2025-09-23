@@ -1,0 +1,26 @@
+{
+  "name": "megalodon-dark",
+
+  "cursorColor": "#d6c0f2",
+  "selectionBackground": "#56568f",
+
+  "background": "#241834",
+  "foreground": "#d6c0f2",
+
+  "black": "#302046",
+  "blue": "#f075d1",
+  "cyan": "#7594f0",
+  "green": "#9475f0",
+  "purple": "#75d1f0",
+  "red": "#d175f0",
+  "white": "#d6c0f2",
+  "yellow": "#f07594",
+  "brightBlack": "#434370",
+  "brightBlue": "#f5a3e0",
+  "brightCyan": "#a3b8f5",
+  "brightGreen": "#b8a3f5",
+  "brightPurple": "#a3e0f5",
+  "brightRed": "#e0a3f5",
+  "brightWhite": "#d6c0f2",
+  "brightYellow": "#f5a3b8"
+}

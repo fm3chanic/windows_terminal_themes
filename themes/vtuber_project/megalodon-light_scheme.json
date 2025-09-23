@@ -1,0 +1,26 @@
+{
+  "name": "megalodon-light",
+
+  "cursorColor": "#230d3f",
+  "selectionBackground": "#7070a9",
+
+  "background": "#d7cbe7",
+  "foreground": "#230d3f",
+
+  "black": "#c9b9df",
+  "blue": "#8a0f6b",
+  "cyan": "#0f2e8a",
+  "green": "#2e0f8a",
+  "purple": "#0f6b8a",
+  "red": "#6b0f8a",
+  "white": "#230d3f",
+  "yellow": "#8a0f2e",
+  "brightBlack": "#8f8fbc",
+  "brightBlue": "#b8148f",
+  "brightCyan": "#143db8",
+  "brightGreen": "#3d14b8",
+  "brightPurple": "#148fb8",
+  "brightRed": "#8f14b8",
+  "brightWhite": "#230d3f",
+  "brightYellow": "#b8143d"
+}

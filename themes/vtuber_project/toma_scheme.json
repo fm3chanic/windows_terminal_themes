@@ -1,0 +1,26 @@
+{
+  "name": "toma",
+
+  "cursorColor": "#153715",
+  "selectionBackground": "#9faf6a",
+
+  "background": "#f0c2c2",
+  "foreground": "#153715",
+
+  "black": "#ebadad",
+  "blue": "#8a0f2e",
+  "cyan": "#2e8a0f",
+  "green": "#637a1f",
+  "purple": "#0f8a2e",
+  "red": "#8a0f6b",
+  "white": "#153715",
+  "yellow": "#8a2e0f",
+  "brightBlack": "#b4c18b",
+  "brightBlue": "#b8143d",
+  "brightCyan": "#3db814",
+  "brightGreen": "#84a22a",
+  "brightPurple": "#14b83d",
+  "brightRed": "#b8148f",
+  "brightWhite": "#153715",
+  "brightYellow": "#b83d14"
+}

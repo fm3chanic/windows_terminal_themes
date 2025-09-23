@@ -1,0 +1,26 @@
+{
+  "name": "bao-light",
+
+  "cursorColor": "#0f323d",
+  "selectionBackground": "#6a9faf",
+
+  "background": "#cdd2e4",
+  "foreground": "#0f323d",
+
+  "black": "#bdc3db",
+  "blue": "#089191",
+  "cyan": "#912a08",
+  "green": "#91082a",
+  "purple": "#916f08",
+  "red": "#084d91",
+  "white": "#0f323d",
+  "yellow": "#08914d",
+  "brightBlack": "#8bb4c1",
+  "brightBlue": "#0ac2c2",
+  "brightCyan": "#c2380a",
+  "brightGreen": "#c20a38",
+  "brightPurple": "#c2940a",
+  "brightRed": "#0a66c2",
+  "brightWhite": "#0f323d",
+  "brightYellow": "#0ac266"
+}

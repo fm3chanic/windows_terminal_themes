@@ -1,0 +1,26 @@
+{
+  "name": "everylunaever-light",
+
+  "cursorColor": "#240f3d",
+  "selectionBackground": "#8765b3",
+
+  "background": "#decde4",
+  "foreground": "#240f3d",
+
+  "black": "#d3bddb",
+  "blue": "#0d730d",
+  "cyan": "#56136c",
+  "green": "#260d73",
+  "purple": "#6c1356",
+  "red": "#40730d",
+  "white": "#240f3d",
+  "yellow": "#0d7340",
+  "brightBlack": "#a187c4",
+  "brightBlue": "#12a112",
+  "brightCyan": "#781b98",
+  "brightGreen": "#3612a1",
+  "brightPurple": "#981b78",
+  "brightRed": "#59a112",
+  "brightWhite": "#240f3d",
+  "brightYellow": "#12a159"
+}

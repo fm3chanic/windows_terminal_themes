@@ -1,0 +1,16 @@
+{
+  "name": "megalodon-dark",
+  "tab": {
+    "background": "#241834FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#241834FF",
+    "unfocusedBackground": "#A07ECEFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

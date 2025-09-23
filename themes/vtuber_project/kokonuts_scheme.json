@@ -1,0 +1,26 @@
+{
+  "name": "kokonuts",
+
+  "cursorColor": "#3d0f2c",
+  "selectionBackground": "#af6a95",
+
+  "background": "#f9ebb8",
+  "foreground": "#3d0f2c",
+
+  "black": "#f7e4a1",
+  "blue": "#914d08",
+  "cyan": "#91086f",
+  "green": "#91082a",
+  "purple": "#6f0891",
+  "red": "#922a07",
+  "white": "#3d0f2c",
+  "yellow": "#916f08",
+  "brightBlack": "#c18bad",
+  "brightBlue": "#c2660a",
+  "brightCyan": "#c20a94",
+  "brightGreen": "#c20a38",
+  "brightPurple": "#940ac2",
+  "brightRed": "#c33809",
+  "brightWhite": "#3d0f2c",
+  "brightYellow": "#c2940a"
+}

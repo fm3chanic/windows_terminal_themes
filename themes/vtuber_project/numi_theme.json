@@ -1,0 +1,16 @@
+{
+  "name": "numi",
+  "tab": {
+    "background": "#251A33FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#251A33FF",
+    "unfocusedBackground": "#C98282FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

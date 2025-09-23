@@ -1,0 +1,26 @@
+{
+  "name": "numi",
+
+  "cursorColor": "#f0c2c2",
+  "selectionBackground": "#974e60",
+
+  "background": "#251a33",
+  "foreground": "#f0c2c2",
+
+  "black": "#312343",
+  "blue": "#f09475",
+  "cyan": "#d175f0",
+  "green": "#9475f0",
+  "purple": "#f075d1",
+  "red": "#7594f0",
+  "white": "#f0c2c2",
+  "yellow": "#f07594",
+  "brightBlack": "#763d4b",
+  "brightBlue": "#f5b8a3",
+  "brightCyan": "#e0a3f5",
+  "brightGreen": "#b8a3f5",
+  "brightPurple": "#f5a3e0",
+  "brightRed": "#a3b8f5",
+  "brightWhite": "#f0c2c2",
+  "brightYellow": "#f5a3b8"
+}

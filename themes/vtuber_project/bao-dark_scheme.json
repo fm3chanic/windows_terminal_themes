@@ -1,0 +1,26 @@
+{
+  "name": "bao-dark",
+
+  "cursorColor": "#c2e5f0",
+  "selectionBackground": "#508595",
+
+  "background": "#1b2032",
+  "foreground": "#c2e5f0",
+
+  "black": "#242a42",
+  "blue": "#6ef7f7",
+  "cyan": "#f7906e",
+  "green": "#f76e90",
+  "purple": "#f7d56e",
+  "red": "#6eb3f7",
+  "white": "#c2e5f0",
+  "yellow": "#6ef7b3",
+  "brightBlack": "#3e6774",
+  "brightBlue": "#9efafa",
+  "brightCyan": "#fab59e",
+  "brightGreen": "#fa9eb5",
+  "brightPurple": "#fae39e",
+  "brightRed": "#9eccfa",
+  "brightWhite": "#c2e5f0",
+  "brightYellow": "#9efacc"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "maakurika",
+
+  "cursorColor": "#f0c2c2",
+  "selectionBackground": "#8aa145",
+
+  "background": "#1b2c32",
+  "foreground": "#f0c2c2",
+
+  "black": "#243a42",
+  "blue": "#f76e6e",
+  "cyan": "#6ef790",
+  "green": "#90f76e",
+  "purple": "#d5f76e",
+  "red": "#f76eb3",
+  "white": "#f0c2c2",
+  "yellow": "#f7b56e",
+  "brightBlack": "#6b7d36",
+  "brightBlue": "#fa9e9e",
+  "brightCyan": "#9efab5",
+  "brightGreen": "#b5fa9e",
+  "brightPurple": "#e3fa9e",
+  "brightRed": "#fa9ecc",
+  "brightWhite": "#f0c2c2",
+  "brightYellow": "#face9e"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "rekson",
+
+  "cursorColor": "#ffffff",
+  "selectionBackground": "#b8732e",
+
+  "background": "#262626",
+  "foreground": "#ffffff",
+
+  "black": "#333333",
+  "blue": "#ff6666",
+  "cyan": "#ffd966",
+  "green": "#ffb366",
+  "purple": "#ffff66",
+  "red": "#ff668c",
+  "white": "#ffffff",
+  "yellow": "#ff8c66",
+  "brightBlack": "#8f5924",
+  "brightBlue": "#ff9999",
+  "brightCyan": "#ffe699",
+  "brightGreen": "#ffcc99",
+  "brightPurple": "#ffff99",
+  "brightRed": "#ff99b3",
+  "brightWhite": "#ffffff",
+  "brightYellow": "#ffb399"
+}

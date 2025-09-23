@@ -1,0 +1,26 @@
+{
+  "name": "shoomimi",
+
+  "cursorColor": "#f0c2cd",
+  "selectionBackground": "#509295",
+
+  "background": "#1b3132",
+  "foreground": "#f0c2cd",
+
+  "black": "#244142",
+  "blue": "#7d7de8",
+  "cyan": "#e87db3",
+  "green": "#e87d7d",
+  "purple": "#e87de8",
+  "red": "#7db3e8",
+  "white": "#f0c2cd",
+  "yellow": "#b37de8",
+  "brightBlack": "#3e7174",
+  "brightBlue": "#a8a8f0",
+  "brightCyan": "#f0a8cc",
+  "brightGreen": "#f0a8a8",
+  "brightPurple": "#f0a8f0",
+  "brightRed": "#a8ccf0",
+  "brightWhite": "#f0c2cd",
+  "brightYellow": "#cca8f0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "michimochievee",
+
+  "cursorColor": "#f2c0f2",
+  "selectionBackground": "#6f489d",
+
+  "background": "#262626",
+  "foreground": "#f2c0f2",
+
+  "black": "#333333",
+  "blue": "#f07594",
+  "cyan": "#9475f0",
+  "green": "#d175f0",
+  "purple": "#7594f0",
+  "red": "#f075d1",
+  "white": "#f2c0f2",
+  "yellow": "#f09275",
+  "brightBlack": "#56387a",
+  "brightBlue": "#f5a3b8",
+  "brightCyan": "#b8a3f5",
+  "brightGreen": "#e0a3f5",
+  "brightPurple": "#a3b8f5",
+  "brightRed": "#f5a3e0",
+  "brightWhite": "#f2c0f2",
+  "brightYellow": "#f5b6a3"
+}

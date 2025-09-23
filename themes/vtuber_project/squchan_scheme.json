@@ -1,0 +1,26 @@
+{
+  "name": "squchan",
+
+  "cursorColor": "#f7e6ba",
+  "selectionBackground": "#955073",
+
+  "background": "#2c2121",
+  "foreground": "#f7e6ba",
+
+  "black": "#3a2c2c",
+  "blue": "#9475f0",
+  "cyan": "#f07594",
+  "green": "#f09475",
+  "purple": "#f075d1",
+  "red": "#7594f0",
+  "white": "#f7e6ba",
+  "yellow": "#d175f0",
+  "brightBlack": "#743e59",
+  "brightBlue": "#b8a3f5",
+  "brightCyan": "#f5a3b8",
+  "brightGreen": "#f5b8a3",
+  "brightPurple": "#f5a3e0",
+  "brightRed": "#a3b8f5",
+  "brightWhite": "#f7e6ba",
+  "brightYellow": "#e0a3f5"
+}

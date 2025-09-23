@@ -1,0 +1,16 @@
+{
+  "name": "buffpup",
+  "tab": {
+    "background": "#F4DBBEFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#F4DBBEFF",
+    "unfocusedBackground": "#86412DFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

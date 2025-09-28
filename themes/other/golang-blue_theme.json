@@ -1,0 +1,16 @@
+{
+  "name": "golang-blue",
+  "tab": {
+    "background": "#262626FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#262626FF",
+    "unfocusedBackground": "#82BBC9FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

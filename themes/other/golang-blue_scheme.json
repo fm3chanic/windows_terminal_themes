@@ -1,0 +1,26 @@
+{
+  "name": "golang-blue",
+
+  "cursorColor": "#c2e6f0",
+  "selectionBackground": "#508795",
+
+  "background": "#262626",
+  "foreground": "#c2e6f0",
+
+  "black": "#333333",
+  "blue": "#ffcc33",
+  "cyan": "#33ffcc",
+  "green": "#33d3ff",
+  "purple": "#3399ff",
+  "red": "#ff9933",
+  "white": "#c2e6f0",
+  "yellow": "#ffff33",
+  "brightBlack": "#3e6974",
+  "brightBlue": "#ffdf80",
+  "brightCyan": "#80ffdf",
+  "brightGreen": "#80e3ff",
+  "brightPurple": "#80bfff",
+  "brightRed": "#ffbf80",
+  "brightWhite": "#c2e6f0",
+  "brightYellow": "#ffff80"
+}

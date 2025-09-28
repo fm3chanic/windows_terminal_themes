@@ -1,0 +1,26 @@
+{
+  "name": "azuretastic",
+
+  "cursorColor": "#d6eef5",
+  "selectionBackground": "#5993a6",
+
+  "background": "#002633",
+  "foreground": "#d6eef5",
+
+  "black": "#0a475c",
+  "blue": "#33ffcc",
+  "cyan": "#3399ff",
+  "green": "#3366ff",
+  "purple": "#33ccff",
+  "red": "#33ff99",
+  "white": "#d6eef5",
+  "yellow": "#33ffff",
+  "brightBlack": "#477585",
+  "brightBlue": "#80ffdf",
+  "brightCyan": "#80bfff",
+  "brightGreen": "#809fff",
+  "brightPurple": "#80dfff",
+  "brightRed": "#80ffbf",
+  "brightWhite": "#d6eef5",
+  "brightYellow": "#80ffff"
+}

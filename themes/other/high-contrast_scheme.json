@@ -1,0 +1,26 @@
+{
+  "name": "high-contrast",
+
+  "cursorColor": "#ffffff",
+  "selectionBackground": "#666666",
+
+  "background": "#000000",
+  "foreground": "#ffffff",
+
+  "black": "#1a1a1a",
+  "blue": "#0080ff",
+  "cyan": "#00ffff",
+  "green": "#00ff00",
+  "purple": "#ff00ff",
+  "red": "#ff0000",
+  "white": "#ffffff",
+  "yellow": "#ffff00",
+  "brightBlack": "#4d4d4d",
+  "brightBlue": "#99ccff",
+  "brightCyan": "#99ffff",
+  "brightGreen": "#99ff99",
+  "brightPurple": "#ff99ff",
+  "brightRed": "#ff9999",
+  "brightWhite": "#ffffff",
+  "brightYellow": "#ffff99"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "azuretastic",
+  "tab": {
+    "background": "#002633FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#002633FF",
+    "unfocusedBackground": "#94C2D1FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

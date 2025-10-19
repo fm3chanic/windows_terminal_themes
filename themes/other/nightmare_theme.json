@@ -1,0 +1,16 @@
+{
+  "name": "nightmare",
+  "tab": {
+    "background": "#24222AFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#24222AFF",
+    "unfocusedBackground": "#A19CB0FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

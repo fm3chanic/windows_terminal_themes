@@ -27,7 +27,7 @@ def create_files(tab1_replace, tab2_replace, tab1_values, tab2_values, templates
             content = content.replace(tab1_replace[i], tab1_values[i])
 
     if index == 0:
-        for i in range(12):
+        for i in range(7):
             content = content.replace(tab2_replace[i], tab2_values[i])    
 
     if index != 0 and int(sys.argv[2]) == 1:
@@ -50,7 +50,7 @@ tab2_values = []
 
 #define values for replacement
 tab1_replace = ['BackGround1','BackGround2','BackGround3','ForeGround1','ForeGround2','ForeGround3','HighLight1','HighLight2','HighLight3']
-tab2_replace = ['Main1','Main2','Main3','Main4','Main5','Main6','Sub1','Sub2','Sub3','Sub4','Sub5','Sub6']
+tab2_replace = ['Syn1','Syn2','Syn3','Syn4','Syn5','Syn6','Syn7']
 
 #define values for file creation
 input_file = f'{sys.argv[1]}.html'
@@ -67,7 +67,7 @@ tab1 = df[0]
 tab1_values = tab1.iloc[0:9,1].tolist()
 
 tab2 = df[1]
-tab2_values = tab2.iloc[0:12,1].tolist()
+tab2_values = tab2.iloc[0:7,1].tolist()
 
 #loops the replacement of values, because there are 2 templates
 for i in range(2):

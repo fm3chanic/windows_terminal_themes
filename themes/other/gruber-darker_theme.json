@@ -1,13 +1,13 @@
 {
-  "name": "sameko-saba-medium",
+  "name": "gruber-darker",
   "tab": {
-    "background": "#3D7D8FFF",
+    "background": "#181818FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#3D7D8FFF",
-    "unfocusedBackground": "#F5E38AFF"
+    "background": "#181818FF",
+    "unfocusedBackground": "#A8A8BDFF"
   },
   "window": {
     "applicationTheme": "dark",

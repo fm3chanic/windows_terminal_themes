@@ -1,0 +1,26 @@
+{
+  "name": "gruber-darker",
+
+  "cursorColor": "#e4e4ef",
+  "selectionBackground": "#666666",
+
+  "background": "#181818",
+  "foreground": "#e4e4ef",
+
+  "black": "#333333",
+  "blue": "#95a99f",
+  "cyan": "#96a6c8",
+  "green": "#ffdd33",
+  "purple": "#9e95c7",
+  "red": "#f43841",
+  "white": "#e4e4ef",
+  "yellow": "#73c936",
+  "brightBlack": "#333333",
+  "brightBlue": "#95a99f",
+  "brightCyan": "#96a6c8",
+  "brightGreen": "#ffdd33",
+  "brightPurple": "#9e95c7",
+  "brightRed": "#f43841",
+  "brightWhite": "#e4e4ef",
+  "brightYellow": "#73c936"
+}

@@ -24,13 +24,13 @@ def main():
         )
     print("\n")
     print(
-            "\x1b[30m BG2   \x1b[0m" + "\x1b[90m HL3 \x1b[0m" + "\n" +
-            "\x1b[31m MAIN1 \x1b[0m" + "\x1b[91m SUB1 \x1b[0m" + "\n" +
-            "\x1b[32m MAIN6 \x1b[0m" + "\x1b[92m SUB6 \x1b[0m" + "\n" +
-            "\x1b[33m MAIN5 \x1b[0m" + "\x1b[93m SUB5 \x1b[0m" + "\n" +
-            "\x1b[34m MAIN3 \x1b[0m" + "\x1b[94m SUB3 \x1b[0m" + "\n" +
-            "\x1b[35m MAIN2 \x1b[0m" + "\x1b[95m SUB2 \x1b[0m" + "\n" +
-            "\x1b[36m MAIN4 \x1b[0m" + "\x1b[96m SUB4 \x1b[0m" + "\n" +
+            "\x1b[30m BG3   \x1b[0m" + "\x1b[90m BG3 \x1b[0m" + "\n" +
+            "\x1b[31m Syn1 \x1b[0m" + "\x1b[91m Syn1 \x1b[0m" + "\n" +
+            "\x1b[32m Syn4 \x1b[0m" + "\x1b[92m Syn4 \x1b[0m" + "\n" +
+            "\x1b[33m Syn2 \x1b[0m" + "\x1b[93m Syn2 \x1b[0m" + "\n" +
+            "\x1b[34m Syn5 \x1b[0m" + "\x1b[94m Syn5 \x1b[0m" + "\n" +
+            "\x1b[35m Syn6 \x1b[0m" + "\x1b[95m Syn6 \x1b[0m" + "\n" +
+            "\x1b[36m Syn3 \x1b[0m" + "\x1b[96m Syn3 \x1b[0m" + "\n" +
             "\x1b[37m FG1   \x1b[0m" + "\x1b[97m FG1 \x1b[0m"
     )
     print("\n")

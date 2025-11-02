@@ -1,13 +1,13 @@
 {
   "name": "cyberpunk",
   "tab": {
-    "background": "#05132EFF",
+    "background": "#121721FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#05132EFF",
-    "unfocusedBackground": "#E949E9FF"
+    "background": "#121721FF",
+    "unfocusedBackground": "#C270C2FF"
   },
   "window": {
     "applicationTheme": "dark",

@@ -1,13 +1,13 @@
 {
   "name": "pastel-sky-dark",
   "tab": {
-    "background": "#221934FF",
+    "background": "#24212CFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#221934FF",
-    "unfocusedBackground": "#9999CCFF"
+    "background": "#24212CFF",
+    "unfocusedBackground": "#8282C9FF"
   },
   "window": {
     "applicationTheme": "dark",

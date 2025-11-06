@@ -1,0 +1,16 @@
+{
+  "name": "gruvbox-dark-hard",
+  "tab": {
+    "background": "#1D2021FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1D2021FF",
+    "unfocusedBackground": "#928374FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

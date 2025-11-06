@@ -1,0 +1,26 @@
+{
+  "name": "gruvbox-dark-hard",
+
+  "cursorColor": "#EBDBB2",
+  "selectionBackground": "#504945",
+
+  "background": "#1D2021",
+  "foreground": "#EBDBB2",
+
+  "black": "#303536",
+  "blue": "#FABD2F",
+  "cyan": "#83A598",
+  "green": "#FB4934",
+  "purple": "#8EC07C",
+  "red": "#FE8019",
+  "white": "#EBDBB2",
+  "yellow": "#B8BB26",
+  "brightBlack": "#303536",
+  "brightBlue": "#FABD2F",
+  "brightCyan": "#83A598",
+  "brightGreen": "#FB4934",
+  "brightPurple": "#8EC07C",
+  "brightRed": "#FE8019",
+  "brightWhite": "#EBDBB2",
+  "brightYellow": "#B8BB26"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cryogenic",
+
+  "cursorColor": "#d1dde0",
+  "selectionBackground": "#5c808a",
+
+  "background": "#282a22",
+  "foreground": "#d1dde0",
+
+  "black": "#434739",
+  "blue": "#8cc6d9",
+  "cyan": "#8cd9c6",
+  "green": "#b3d98c",
+  "purple": "#bfa6d9",
+  "red": "#d98c9f",
+  "white": "#d1dde0",
+  "yellow": "#d9d98c",
+  "brightBlack": "#434739",
+  "brightBlue": "#8cc6d9",
+  "brightCyan": "#8cd9c6",
+  "brightGreen": "#b3d98c",
+  "brightPurple": "#bfa6d9",
+  "brightRed": "#d98c9f",
+  "brightWhite": "#d1dde0",
+  "brightYellow": "#d9d98c"
+}

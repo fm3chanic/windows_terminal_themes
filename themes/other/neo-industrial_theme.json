@@ -1,0 +1,16 @@
+{
+  "name": "neo-industrial",
+  "tab": {
+    "background": "#2A2E1FFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2A2E1FFF",
+    "unfocusedBackground": "#AFAC9DFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

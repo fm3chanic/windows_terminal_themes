@@ -1,0 +1,26 @@
+{
+  "name": "neo-industrial",
+
+  "cursorColor": "#dddbd5",
+  "selectionBackground": "#7e7a67",
+
+  "background": "#2a2e1f",
+  "foreground": "#dddbd5",
+
+  "black": "#454c34",
+  "blue": "#94c2d1",
+  "cyan": "#94d1b3",
+  "green": "#c2d194",
+  "purple": "#c99cbe",
+  "red": "#d98c9f",
+  "white": "#dddbd5",
+  "yellow": "#e0b385",
+  "brightBlack": "#454c34",
+  "brightBlue": "#94c2d1",
+  "brightCyan": "#94d1b3",
+  "brightGreen": "#c2d194",
+  "brightPurple": "#c99cbe",
+  "brightRed": "#d98c9f",
+  "brightWhite": "#dddbd5",
+  "brightYellow": "#e0b385"
+}

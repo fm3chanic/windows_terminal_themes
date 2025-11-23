@@ -1,26 +1,26 @@
 {
   "name": "cyberpunk",
 
-  "cursorColor": "#ebadeb",
-  "selectionBackground": "#844884",
+  "cursorColor": "#dbbddb",
+  "selectionBackground": "#7a527a",
 
   "background": "#121721",
-  "foreground": "#ebadeb",
+  "foreground": "#dbbddb",
 
   "black": "#242e42",
-  "blue": "#e87de8",
-  "cyan": "#e87db3",
-  "green": "#7de8cd",
-  "purple": "#7d7de8",
-  "red": "#b37de8",
-  "white": "#ebadeb",
-  "yellow": "#7dcde8",
+  "blue": "#8cc6d9",
+  "cyan": "#7de8cd",
+  "green": "#7de898",
+  "purple": "#d98cd9",
+  "red": "#e87d98",
+  "white": "#dbbddb",
+  "yellow": "#cde87d",
   "brightBlack": "#242e42",
-  "brightBlue": "#e87de8",
-  "brightCyan": "#e87db3",
-  "brightGreen": "#7de8cd",
-  "brightPurple": "#7d7de8",
-  "brightRed": "#b37de8",
-  "brightWhite": "#ebadeb",
-  "brightYellow": "#7dcde8"
+  "brightBlue": "#8cc6d9",
+  "brightCyan": "#7de8cd",
+  "brightGreen": "#7de898",
+  "brightPurple": "#d98cd9",
+  "brightRed": "#e87d98",
+  "brightWhite": "#dbbddb",
+  "brightYellow": "#cde87d"
 }

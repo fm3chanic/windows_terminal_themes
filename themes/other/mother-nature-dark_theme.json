@@ -7,7 +7,7 @@
   },
   "tabRow": {
     "background": "#19191AFF",
-    "unfocusedBackground": "#CACACEFF"
+    "unfocusedBackground": "#8F8FA3FF"
   },
   "window": {
     "applicationTheme": "dark",

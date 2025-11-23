@@ -1,13 +1,13 @@
 {
-  "name": "neo-industrial",
+  "name": "oceanic",
   "tab": {
-    "background": "#282A22FF",
+    "background": "#212C2CFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#282A22FF",
-    "unfocusedBackground": "#AFAC9DFF"
+    "background": "#212C2CFF",
+    "unfocusedBackground": "#99ABB2FF"
   },
   "window": {
     "applicationTheme": "dark",

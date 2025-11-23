@@ -4,10 +4,10 @@
   "cursorColor": "#dddbd5",
   "selectionBackground": "#7e7a67",
 
-  "background": "#2a2e1f",
+  "background": "#282a22",
   "foreground": "#dddbd5",
 
-  "black": "#454c34",
+  "black": "#434739",
   "blue": "#94c2d1",
   "cyan": "#94d1b3",
   "green": "#c2d194",
@@ -15,7 +15,7 @@
   "red": "#d98c9f",
   "white": "#dddbd5",
   "yellow": "#e0b385",
-  "brightBlack": "#454c34",
+  "brightBlack": "#434739",
   "brightBlue": "#94c2d1",
   "brightCyan": "#94d1b3",
   "brightGreen": "#c2d194",

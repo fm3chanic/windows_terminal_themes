@@ -1,26 +1,26 @@
 {
   "name": "joker",
 
-  "cursorColor": "#adebbc",
-  "selectionBackground": "#488457",
+  "cursorColor": "#bddbc5",
+  "selectionBackground": "#527a5c",
 
   "background": "#191221",
-  "foreground": "#adebbc",
+  "foreground": "#bddbc5",
 
   "black": "#322442",
-  "blue": "#f28cf2",
-  "cyan": "#8cf2f2",
-  "green": "#8cf28c",
-  "purple": "#8cf2bf",
-  "red": "#f2a68c",
-  "white": "#adebbc",
-  "yellow": "#f28ca6",
+  "blue": "#5eeded",
+  "cyan": "#5eeda6",
+  "green": "#67e467",
+  "purple": "#e963a6",
+  "red": "#e15151",
+  "white": "#bddbc5",
+  "yellow": "#c9ed5e",
   "brightBlack": "#322442",
-  "brightBlue": "#f28cf2",
-  "brightCyan": "#8cf2f2",
-  "brightGreen": "#8cf28c",
-  "brightPurple": "#8cf2bf",
-  "brightRed": "#f2a68c",
-  "brightWhite": "#adebbc",
-  "brightYellow": "#f28ca6"
+  "brightBlue": "#5eeded",
+  "brightCyan": "#5eeda6",
+  "brightGreen": "#67e467",
+  "brightPurple": "#e963a6",
+  "brightRed": "#e15151",
+  "brightWhite": "#bddbc5",
+  "brightYellow": "#c9ed5e"
 }

@@ -1,11 +1,11 @@
 {
   "name": "metropolis",
 
-  "cursorColor": "#c9c9cf",
-  "selectionBackground": "#5c7070",
+  "cursorColor": "#c7ccd1",
+  "selectionBackground": "#5c6770",
 
   "background": "#171c1c",
-  "foreground": "#c9c9cf",
+  "foreground": "#c7ccd1",
 
   "black": "#2e3838",
   "blue": "#98d3e6",
@@ -13,7 +13,7 @@
   "green": "#98e6ac",
   "purple": "#e698bf",
   "red": "#e6ac98",
-  "white": "#c9c9cf",
+  "white": "#c7ccd1",
   "yellow": "#e6d398",
   "brightBlack": "#2e3838",
   "brightBlue": "#98d3e6",
@@ -21,6 +21,6 @@
   "brightGreen": "#98e6ac",
   "brightPurple": "#e698bf",
   "brightRed": "#e6ac98",
-  "brightWhite": "#c9c9cf",
+  "brightWhite": "#c7ccd1",
   "brightYellow": "#e6d398"
 }

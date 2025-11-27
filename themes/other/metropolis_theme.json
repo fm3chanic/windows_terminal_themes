@@ -1,13 +1,13 @@
 {
   "name": "metropolis",
   "tab": {
-    "background": "#171C1CFF",
+    "background": "#1F2A2EFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#171C1CFF",
-    "unfocusedBackground": "#8F9AA3FF"
+    "background": "#1F2A2EFF",
+    "unfocusedBackground": "#92A9B9FF"
   },
   "window": {
     "applicationTheme": "dark",

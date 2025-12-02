@@ -1,13 +1,13 @@
 {
-  "name": "metropolis",
+  "name": "christmas-red",
   "tab": {
-    "background": "#1F262EFF",
+    "background": "#321B1BFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1F262EFF",
-    "unfocusedBackground": "#92A9B9FF"
+    "background": "#321B1BFF",
+    "unfocusedBackground": "#9DAFA7FF"
   },
   "window": {
     "applicationTheme": "dark",

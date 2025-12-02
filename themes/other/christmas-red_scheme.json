@@ -1,0 +1,26 @@
+{
+  "name": "christmas-red",
+
+  "cursorColor": "#d5ddd9",
+  "selectionBackground": "#677e74",
+
+  "background": "#321b1b",
+  "foreground": "#d5ddd9",
+
+  "black": "#532d2d",
+  "blue": "#75a6d7",
+  "cyan": "#75d7d7",
+  "green": "#75d78d",
+  "purple": "#d775a6",
+  "red": "#e46767",
+  "white": "#d5ddd9",
+  "yellow": "#e4c567",
+  "brightBlack": "#532d2d",
+  "brightBlue": "#75a6d7",
+  "brightCyan": "#75d7d7",
+  "brightGreen": "#75d78d",
+  "brightPurple": "#d775a6",
+  "brightRed": "#e46767",
+  "brightWhite": "#d5ddd9",
+  "brightYellow": "#e4c567"
+}

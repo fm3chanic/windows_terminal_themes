@@ -1,0 +1,16 @@
+{
+  "name": "ice-shelf",
+  "tab": {
+    "background": "#CDDEE4FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#CDDEE4FF",
+    "unfocusedBackground": "#4C5F67FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

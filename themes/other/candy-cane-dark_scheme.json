@@ -2,7 +2,7 @@
   "name": "candy-cane-dark",
 
   "cursorColor": "#f6efef",
-  "selectionBackground": "#ac6c6c",
+  "selectionBackground": "#955050",
 
   "background": "#321b1b",
   "foreground": "#f6efef",
@@ -14,7 +14,7 @@
   "purple": "#d775a6",
   "red": "#e46767",
   "white": "#f6efef",
-  "yellow": "#e4c567",
+  "yellow": "#edc95e",
   "brightBlack": "#532d2d",
   "brightBlue": "#75a6d7",
   "brightCyan": "#75d7d7",
@@ -22,5 +22,5 @@
   "brightPurple": "#d775a6",
   "brightRed": "#e46767",
   "brightWhite": "#f6efef",
-  "brightYellow": "#e4c567"
+  "brightYellow": "#edc95e"
 }

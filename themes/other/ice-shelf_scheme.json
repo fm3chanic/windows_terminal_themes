@@ -1,0 +1,26 @@
+{
+  "name": "ice-shelf",
+
+  "cursorColor": "#21292c",
+  "selectionBackground": "#7b9d9d",
+
+  "background": "#cddee4",
+  "foreground": "#21292c",
+
+  "black": "#acc8d2",
+  "blue": "#1f7693",
+  "cyan": "#1f9376",
+  "green": "#76931f",
+  "purple": "#862d59",
+  "red": "#931f1f",
+  "white": "#21292c",
+  "yellow": "#a17d12",
+  "brightBlack": "#acc8d2",
+  "brightBlue": "#1f7693",
+  "brightCyan": "#1f9376",
+  "brightGreen": "#76931f",
+  "brightPurple": "#862d59",
+  "brightRed": "#931f1f",
+  "brightWhite": "#21292c",
+  "brightYellow": "#a17d12"
+}

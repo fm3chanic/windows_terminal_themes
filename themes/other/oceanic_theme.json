@@ -1,13 +1,13 @@
 {
   "name": "oceanic",
   "tab": {
-    "background": "#212C2CFF",
+    "background": "#2F4141FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#212C2CFF",
-    "unfocusedBackground": "#99ABB2FF"
+    "background": "#2F4141FF",
+    "unfocusedBackground": "#ACBDC3FF"
   },
   "window": {
     "applicationTheme": "dark",

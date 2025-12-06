@@ -1,13 +1,13 @@
 {
   "name": "mother-nature-dark",
   "tab": {
-    "background": "#19191AFF",
+    "background": "#35353BFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#19191AFF",
-    "unfocusedBackground": "#8F8FA3FF"
+    "background": "#35353BFF",
+    "unfocusedBackground": "#B3B3BCFF"
   },
   "window": {
     "applicationTheme": "dark",

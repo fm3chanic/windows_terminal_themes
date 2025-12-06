@@ -1,13 +1,13 @@
 {
   "name": "sakura-haruno-dark",
   "tab": {
-    "background": "#34181BFF",
+    "background": "#48282CFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#34181BFF",
-    "unfocusedBackground": "#EAAEB2FF"
+    "background": "#48282CFF",
+    "unfocusedBackground": "#CCA4A8FF"
   },
   "window": {
     "applicationTheme": "dark",

@@ -1,13 +1,13 @@
 {
   "name": "retro",
   "tab": {
-    "background": "#1A1A1AFF",
+    "background": "#333333FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1A1A1AFF",
-    "unfocusedBackground": "#999999FF"
+    "background": "#333333FF",
+    "unfocusedBackground": "#B3B3B3FF"
   },
   "window": {
     "applicationTheme": "dark",

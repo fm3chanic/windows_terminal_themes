@@ -1,13 +1,13 @@
 {
-  "name": "golang-blue",
+  "name": "pastel-sky",
   "tab": {
-    "background": "#262626FF",
+    "background": "#38313FFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#262626FF",
-    "unfocusedBackground": "#82BBC9FF"
+    "background": "#38313FFF",
+    "unfocusedBackground": "#B8AFC0FF"
   },
   "window": {
     "applicationTheme": "dark",

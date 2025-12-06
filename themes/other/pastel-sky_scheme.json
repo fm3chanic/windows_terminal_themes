@@ -1,0 +1,26 @@
+{
+  "name": "pastel-sky",
+
+  "cursorColor": "#d1bbe7",
+  "selectionBackground": "#857693",
+
+  "background": "#38313f",
+  "foreground": "#d1bbe7",
+
+  "black": "#52485b",
+  "blue": "#80bfff",
+  "cyan": "#8cf2f2",
+  "green": "#bff28c",
+  "purple": "#f28cf2",
+  "red": "#f28c8c",
+  "white": "#d1bbe7",
+  "yellow": "#f0c775",
+  "brightBlack": "#52485b",
+  "brightBlue": "#80bfff",
+  "brightCyan": "#8cf2f2",
+  "brightGreen": "#bff28c",
+  "brightPurple": "#f28cf2",
+  "brightRed": "#f28c8c",
+  "brightWhite": "#d1bbe7",
+  "brightYellow": "#f0c775"
+}

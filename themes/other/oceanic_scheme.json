@@ -1,26 +1,26 @@
 {
   "name": "oceanic",
 
-  "cursorColor": "#d3dbde",
-  "selectionBackground": "#637a83",
+  "cursorColor": "#b4deee",
+  "selectionBackground": "#718d98",
 
-  "background": "#212c2c",
-  "foreground": "#d3dbde",
+  "background": "#2f4141",
+  "foreground": "#b4deee",
 
-  "black": "#374949",
+  "black": "#455f5f",
   "blue": "#79a6d2",
   "cyan": "#8cd9d9",
   "green": "#8cd9b3",
   "purple": "#df9fcf",
   "red": "#e87d98",
-  "white": "#d3dbde",
+  "white": "#b4deee",
   "yellow": "#e3e6b3",
-  "brightBlack": "#374949",
+  "brightBlack": "#455f5f",
   "brightBlue": "#79a6d2",
   "brightCyan": "#8cd9d9",
   "brightGreen": "#8cd9b3",
   "brightPurple": "#df9fcf",
   "brightRed": "#e87d98",
-  "brightWhite": "#d3dbde",
+  "brightWhite": "#b4deee",
   "brightYellow": "#e3e6b3"
 }

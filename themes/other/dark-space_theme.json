@@ -1,13 +1,13 @@
 {
   "name": "dark-space",
   "tab": {
-    "background": "#1C171CFF",
+    "background": "#3D343DFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1C171CFF",
-    "unfocusedBackground": "#AD8599FF"
+    "background": "#3D343DFF",
+    "unfocusedBackground": "#C3ACC3FF"
   },
   "window": {
     "applicationTheme": "dark",

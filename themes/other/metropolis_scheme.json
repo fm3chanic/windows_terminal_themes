@@ -8,19 +8,19 @@
   "foreground": "#d0dae1",
 
   "black": "#343f4c",
-  "blue": "#80a6cb",
+  "blue": "#80b8cb",
   "cyan": "#8cd9c6",
   "green": "#9fd98c",
   "purple": "#d194b3",
-  "red": "#d27979",
+  "red": "#d28f79",
   "white": "#d0dae1",
   "yellow": "#f2da8c",
   "brightBlack": "#343f4c",
-  "brightBlue": "#80a6cb",
+  "brightBlue": "#80b8cb",
   "brightCyan": "#8cd9c6",
   "brightGreen": "#9fd98c",
   "brightPurple": "#d194b3",
-  "brightRed": "#d27979",
+  "brightRed": "#d28f79",
   "brightWhite": "#d0dae1",
   "brightYellow": "#f2da8c"
 }

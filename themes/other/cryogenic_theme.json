@@ -1,13 +1,13 @@
 {
   "name": "cryogenic",
   "tab": {
-    "background": "#282A22FF",
+    "background": "#3A3D34FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#282A22FF",
-    "unfocusedBackground": "#94B0B8FF"
+    "background": "#3A3D34FF",
+    "unfocusedBackground": "#ABBFC4FF"
   },
   "window": {
     "applicationTheme": "dark",

@@ -1,13 +1,13 @@
 {
   "name": "nautical",
   "tab": {
-    "background": "#1F1F2EFF",
+    "background": "#2E2E42FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1F1F2EFF",
-    "unfocusedBackground": "#DAB772FF"
+    "background": "#2E2E42FF",
+    "unfocusedBackground": "#C9B58DFF"
   },
   "window": {
     "applicationTheme": "dark",

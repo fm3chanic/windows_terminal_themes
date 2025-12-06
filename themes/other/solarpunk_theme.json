@@ -1,13 +1,13 @@
 {
   "name": "solarpunk",
   "tab": {
-    "background": "#1B2B31FF",
+    "background": "#283F48FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1B2B31FF",
-    "unfocusedBackground": "#ADB398FF"
+    "background": "#283F48FF",
+    "unfocusedBackground": "#BEC2ADFF"
   },
   "window": {
     "applicationTheme": "dark",

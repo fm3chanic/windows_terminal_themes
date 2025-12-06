@@ -1,13 +1,13 @@
 {
   "name": "dieselpunk",
   "tab": {
-    "background": "#262626FF",
+    "background": "#383838FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#262626FF",
-    "unfocusedBackground": "#AD9A85FF"
+    "background": "#383838FF",
+    "unfocusedBackground": "#C4B8ABFF"
   },
   "window": {
     "applicationTheme": "dark",

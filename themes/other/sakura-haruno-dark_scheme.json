@@ -1,26 +1,26 @@
 {
   "name": "sakura-haruno-dark",
 
-  "cursorColor": "#f4d7d9",
-  "selectionBackground": "#7a383f",
+  "cursorColor": "#ebb7bd",
+  "selectionBackground": "#a76269",
 
-  "background": "#34181b",
-  "foreground": "#f4d7d9",
+  "background": "#48282c",
+  "foreground": "#ebb7bd",
 
-  "black": "#57282d",
-  "blue": "#6a6aaf",
+  "black": "#683b3f",
+  "blue": "#1f6dad",
   "cyan": "#5fb8d3",
   "green": "#8cd9b8",
-  "purple": "#0b538e",
+  "purple": "#6a6aaf",
   "red": "#e75a5a",
-  "white": "#f4d7d9",
+  "white": "#ebb7bd",
   "yellow": "#56848f",
-  "brightBlack": "#57282d",
-  "brightBlue": "#6a6aaf",
+  "brightBlack": "#683b3f",
+  "brightBlue": "#1f6dad",
   "brightCyan": "#5fb8d3",
   "brightGreen": "#8cd9b8",
-  "brightPurple": "#0b538e",
+  "brightPurple": "#6a6aaf",
   "brightRed": "#e75a5a",
-  "brightWhite": "#f4d7d9",
+  "brightWhite": "#ebb7bd",
   "brightYellow": "#56848f"
 }

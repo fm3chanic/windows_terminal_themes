@@ -14,7 +14,7 @@
   "purple": "#d98cc6",
   "red": "#dd889d",
   "white": "#b4e2ee",
-  "yellow": "#dddd88",
+  "yellow": "#d9d98c",
   "brightBlack": "#55584b",
   "brightBlue": "#88b3dd",
   "brightCyan": "#88ddc8",
@@ -22,5 +22,5 @@
   "brightPurple": "#d98cc6",
   "brightRed": "#dd889d",
   "brightWhite": "#b4e2ee",
-  "brightYellow": "#dddd88"
+  "brightYellow": "#d9d98c"
 }

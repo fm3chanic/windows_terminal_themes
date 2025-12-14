@@ -1,13 +1,13 @@
 {
-  "name": "20k-leagues-under-seas",
+  "name": "tundra",
   "tab": {
-    "background": "#141F1FFF",
+    "background": "#2E4238FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#141F1FFF",
-    "unfocusedBackground": "#C9B58DFF"
+    "background": "#2E4238FF",
+    "unfocusedBackground": "#ABBEC4FF"
   },
   "window": {
     "applicationTheme": "dark",

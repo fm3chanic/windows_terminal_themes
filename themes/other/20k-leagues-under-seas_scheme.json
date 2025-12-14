@@ -1,11 +1,11 @@
 {
   "name": "20k-leagues-under-seas",
 
-  "cursorColor": "#fbeab6",
+  "cursorColor": "#e9d9ba",
   "selectionBackground": "#507c7c",
 
   "background": "#141f1f",
-  "foreground": "#fbeab6",
+  "foreground": "#e9d9ba",
 
   "black": "#283e3e",
   "blue": "#9393eb",
@@ -13,7 +13,7 @@
   "green": "#66e591",
   "purple": "#eb93eb",
   "red": "#eb9393",
-  "white": "#fbeab6",
+  "white": "#e9d9ba",
   "yellow": "#92b9b9",
   "brightBlack": "#283e3e",
   "brightBlue": "#9393eb",
@@ -21,6 +21,6 @@
   "brightGreen": "#66e591",
   "brightPurple": "#eb93eb",
   "brightRed": "#eb9393",
-  "brightWhite": "#fbeab6",
+  "brightWhite": "#e9d9ba",
   "brightYellow": "#92b9b9"
 }

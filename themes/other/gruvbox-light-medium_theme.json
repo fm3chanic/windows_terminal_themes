@@ -1,0 +1,16 @@
+{
+  "name": "gruvbox-light-medium",
+  "tab": {
+    "background": "#FBF1C7FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#FBF1C7FF",
+    "unfocusedBackground": "#7C6F64FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

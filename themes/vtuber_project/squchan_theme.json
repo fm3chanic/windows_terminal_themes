@@ -1,13 +1,13 @@
 {
   "name": "squchan",
   "tab": {
-    "background": "#2C2121FF",
+    "background": "#412F2FFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#2C2121FF",
-    "unfocusedBackground": "#DBBF70FF"
+    "background": "#412F2FFF",
+    "unfocusedBackground": "#C4BDAAFF"
   },
   "window": {
     "applicationTheme": "dark",

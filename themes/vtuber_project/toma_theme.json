@@ -1,13 +1,13 @@
 {
   "name": "toma",
   "tab": {
-    "background": "#F0C2C2FF",
+    "background": "#E4CDCDFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#F0C2C2FF",
-    "unfocusedBackground": "#437043FF"
+    "background": "#E4CDCDFF",
+    "unfocusedBackground": "#4B664BFF"
   },
   "window": {
     "applicationTheme": "light",

@@ -1,13 +1,13 @@
 {
   "name": "bao-dark",
   "tab": {
-    "background": "#1B2032FF",
+    "background": "#2F3341FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1B2032FF",
-    "unfocusedBackground": "#82B9C9FF"
+    "background": "#2F3341FF",
+    "unfocusedBackground": "#AABEC4FF"
   },
   "window": {
     "applicationTheme": "dark",

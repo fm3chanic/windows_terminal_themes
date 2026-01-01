@@ -1,13 +1,13 @@
 {
   "name": "maakurika",
   "tab": {
-    "background": "#1B2C32FF",
+    "background": "#2F3C41FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1B2C32FF",
-    "unfocusedBackground": "#DB7070FF"
+    "background": "#2F3C41FF",
+    "unfocusedBackground": "#C4AAAAFF"
   },
   "window": {
     "applicationTheme": "dark",

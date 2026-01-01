@@ -1,13 +1,13 @@
 {
   "name": "joker",
   "tab": {
-    "background": "#372848FF",
+    "background": "#372F41FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#372848FF",
-    "unfocusedBackground": "#A6C9ABFF"
+    "background": "#372F41FF",
+    "unfocusedBackground": "#AAC4AEFF"
   },
   "window": {
     "applicationTheme": "dark",

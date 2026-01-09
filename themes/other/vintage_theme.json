@@ -1,0 +1,16 @@
+{
+  "name": "vintage",
+  "tab": {
+    "background": "#1D1A16FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1D1A16FF",
+    "unfocusedBackground": "#A79B8BFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

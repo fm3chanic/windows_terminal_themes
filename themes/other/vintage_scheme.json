@@ -1,0 +1,26 @@
+{
+  "name": "vintage",
+
+  "cursorColor": "#d3cdc5",
+  "selectionBackground": "#746858",
+
+  "background": "#1d1a16",
+  "foreground": "#d3cdc5",
+
+  "black": "#3a342c",
+  "blue": "#8cb3d9",
+  "cyan": "#8cd9d9",
+  "green": "#8cd98c",
+  "purple": "#d98cc6",
+  "red": "#d98c8c",
+  "white": "#d3cdc5",
+  "yellow": "#d9c68c",
+  "brightBlack": "#3a342c",
+  "brightBlue": "#8cb3d9",
+  "brightCyan": "#8cd9d9",
+  "brightGreen": "#8cd98c",
+  "brightPurple": "#d98cc6",
+  "brightRed": "#d98c8c",
+  "brightWhite": "#d3cdc5",
+  "brightYellow": "#d9c68c"
+}

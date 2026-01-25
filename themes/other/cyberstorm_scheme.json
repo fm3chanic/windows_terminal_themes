@@ -1,0 +1,26 @@
+{
+  "name": "cyberstorm",
+
+  "cursorColor": "#c6cbec",
+  "selectionBackground": "#505c95",
+
+  "background": "#1f212d",
+  "foreground": "#c6cbec",
+
+  "black": "#34384b",
+  "blue": "#96bfe9",
+  "cyan": "#88ddc8",
+  "green": "#bed775",
+  "purple": "#a890d5",
+  "red": "#f0a8de",
+  "white": "#c6cbec",
+  "yellow": "#ffaa80",
+  "brightBlack": "#34384b",
+  "brightBlue": "#96bfe9",
+  "brightCyan": "#88ddc8",
+  "brightGreen": "#bed775",
+  "brightPurple": "#a890d5",
+  "brightRed": "#f0a8de",
+  "brightWhite": "#c6cbec",
+  "brightYellow": "#ffaa80"
+}

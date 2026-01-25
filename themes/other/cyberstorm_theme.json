@@ -1,0 +1,16 @@
+{
+  "name": "cyberstorm",
+  "tab": {
+    "background": "#1F212DFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1F212DFF",
+    "unfocusedBackground": "#8B93C1FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

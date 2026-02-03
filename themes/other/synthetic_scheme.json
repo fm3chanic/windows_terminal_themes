@@ -1,0 +1,26 @@
+{
+  "name": "synthetic",
+
+  "cursorColor": "#D3D4C6",
+  "selectionBackground": "#717457",
+
+  "background": "#191919",
+  "foreground": "#D3D4C6",
+
+  "black": "#333333",
+  "blue": "#67c5e4",
+  "cyan": "#67e4c5",
+  "green": "#a6e467",
+  "purple": "#e467a6",
+  "red": "#e46767",
+  "white": "#D3D4C6",
+  "yellow": "#e4a667",
+  "brightBlack": "#333333",
+  "brightBlue": "#67c5e4",
+  "brightCyan": "#67e4c5",
+  "brightGreen": "#a6e467",
+  "brightPurple": "#e467a6",
+  "brightRed": "#e46767",
+  "brightWhite": "#D3D4C6",
+  "brightYellow": "#e4a667"
+}

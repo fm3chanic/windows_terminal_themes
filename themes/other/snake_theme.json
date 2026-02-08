@@ -1,13 +1,13 @@
 {
   "name": "snake",
   "tab": {
-    "background": "#333333FF",
+    "background": "#383838FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#333333FF",
-    "unfocusedBackground": "#A7C99CFF"
+    "background": "#383838FF",
+    "unfocusedBackground": "#ABC4B1FF"
   },
   "window": {
     "applicationTheme": "dark",

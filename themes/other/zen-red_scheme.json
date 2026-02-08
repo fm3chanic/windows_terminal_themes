@@ -1,26 +1,26 @@
 {
   "name": "zen-red",
 
-  "cursorColor": "#e9e7e2",
-  "selectionBackground": "#996673",
+  "cursorColor": "#eedfb4",
+  "selectionBackground": "#9b6f7a",
 
-  "background": "#333333",
-  "foreground": "#e9e7e2",
+  "background": "#383838",
+  "foreground": "#eedfb4",
 
-  "black": "#4d4d4d",
+  "black": "#525252",
   "blue": "#7a99b8",
   "cyan": "#7ab8b8",
   "green": "#7ab88a",
   "purple": "#b87a99",
   "red": "#b87a7a",
-  "white": "#e9e7e2",
+  "white": "#eedfb4",
   "yellow": "#c2c270",
-  "brightBlack": "#4d4d4d",
+  "brightBlack": "#525252",
   "brightBlue": "#7a99b8",
   "brightCyan": "#7ab8b8",
   "brightGreen": "#7ab88a",
   "brightPurple": "#b87a99",
   "brightRed": "#b87a7a",
-  "brightWhite": "#e9e7e2",
+  "brightWhite": "#eedfb4",
   "brightYellow": "#c2c270"
 }

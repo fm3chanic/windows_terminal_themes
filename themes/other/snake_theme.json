@@ -1,0 +1,16 @@
+{
+  "name": "snake",
+  "tab": {
+    "background": "#333333FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#333333FF",
+    "unfocusedBackground": "#A7C99CFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

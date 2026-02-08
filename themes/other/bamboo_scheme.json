@@ -1,0 +1,26 @@
+{
+  "name": "bamboo",
+
+  "cursorColor": "#202B20",
+  "selectionBackground": "#7b9d7b",
+
+  "background": "#CDE4CD",
+  "foreground": "#202B20",
+
+  "black": "#ACD2AC",
+  "blue": "#398fac",
+  "cyan": "#39ac8f",
+  "green": "#39ac56",
+  "purple": "#7345a1",
+  "red": "#ac3958",
+  "white": "#202B20",
+  "yellow": "#acac39",
+  "brightBlack": "#ACD2AC",
+  "brightBlue": "#398fac",
+  "brightCyan": "#39ac8f",
+  "brightGreen": "#39ac56",
+  "brightPurple": "#7345a1",
+  "brightRed": "#ac3958",
+  "brightWhite": "#202B20",
+  "brightYellow": "#acac39"
+}

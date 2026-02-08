@@ -1,0 +1,26 @@
+{
+  "name": "snake",
+
+  "cursorColor": "#e2edde",
+  "selectionBackground": "#59a66c",
+
+  "background": "#333333",
+  "foreground": "#e2edde",
+
+  "black": "#4d4d4d",
+  "blue": "#7ccee9",
+  "cyan": "#7ce9ce",
+  "green": "#97e97c",
+  "purple": "#e97c97",
+  "red": "#e9977c",
+  "white": "#e2edde",
+  "yellow": "#e9e97c",
+  "brightBlack": "#4d4d4d",
+  "brightBlue": "#7ccee9",
+  "brightCyan": "#7ce9ce",
+  "brightGreen": "#97e97c",
+  "brightPurple": "#e97c97",
+  "brightRed": "#e9977c",
+  "brightWhite": "#e2edde",
+  "brightYellow": "#e9e97c"
+}

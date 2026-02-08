@@ -8,19 +8,19 @@
   "foreground": "#e7e0bb",
 
   "black": "#54584b",
-  "blue": "#88b3dd",
-  "cyan": "#88ddc8",
-  "green": "#9ddd88",
+  "blue": "#8c9fd9",
+  "cyan": "#8cc6d9",
+  "green": "#8cd9b3",
   "purple": "#d98cc6",
   "red": "#dd889d",
   "white": "#e7e0bb",
-  "yellow": "#d9d98c",
+  "yellow": "#c8dd88",
   "brightBlack": "#54584b",
-  "brightBlue": "#88b3dd",
-  "brightCyan": "#88ddc8",
-  "brightGreen": "#9ddd88",
+  "brightBlue": "#8c9fd9",
+  "brightCyan": "#8cc6d9",
+  "brightGreen": "#8cd9b3",
   "brightPurple": "#d98cc6",
   "brightRed": "#dd889d",
   "brightWhite": "#e7e0bb",
-  "brightYellow": "#d9d98c"
+  "brightYellow": "#c8dd88"
 }

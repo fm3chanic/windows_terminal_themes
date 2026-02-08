@@ -1,0 +1,16 @@
+{
+  "name": "candy-cane",
+  "tab": {
+    "background": "#321B1BFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#321B1BFF",
+    "unfocusedBackground": "#D1ADADFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bamboo",
+  "tab": {
+    "background": "#CDE4CDFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#CDE4CDFF",
+    "unfocusedBackground": "#4B664BFF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

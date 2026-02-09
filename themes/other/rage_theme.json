@@ -1,13 +1,13 @@
 {
-  "name": "zen-red",
+  "name": "rage",
   "tab": {
-    "background": "#383838FF",
+    "background": "#372E42FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#383838FF",
-    "unfocusedBackground": "#C4BEABFF"
+    "background": "#372E42FF",
+    "unfocusedBackground": "#B6AAC4FF"
   },
   "window": {
     "applicationTheme": "dark",

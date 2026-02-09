@@ -1,13 +1,13 @@
 {
   "name": "zen",
   "tab": {
-    "background": "#383838FF",
+    "background": "#3A333CFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#383838FF",
-    "unfocusedBackground": "#C2C5ABFF"
+    "background": "#3A333CFF",
+    "unfocusedBackground": "#BDBAB2FF"
   },
   "window": {
     "applicationTheme": "dark",

@@ -1,0 +1,26 @@
+{
+  "name": "rage",
+
+  "cursorColor": "#d0c2df",
+  "selectionBackground": "#9b6e85",
+
+  "background": "#372E42",
+  "foreground": "#d0c2df",
+
+  "black": "#504360",
+  "blue": "#8866CC",
+  "cyan": "#66CBCC",
+  "green": "#9CCC66",
+  "purple": "#BB66CC",
+  "red": "#CC66A2",
+  "white": "#d0c2df",
+  "yellow": "#CCB366",
+  "brightBlack": "#504360",
+  "brightBlue": "#8866CC",
+  "brightCyan": "#66CBCC",
+  "brightGreen": "#9CCC66",
+  "brightPurple": "#BB66CC",
+  "brightRed": "#CC66A2",
+  "brightWhite": "#d0c2df",
+  "brightYellow": "#CCB366"
+}

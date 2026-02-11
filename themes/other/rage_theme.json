@@ -1,12 +1,12 @@
 {
   "name": "rage",
   "tab": {
-    "background": "#372E42FF",
+    "background": "#3A333CFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#372E42FF",
+    "background": "#3A333CFF",
     "unfocusedBackground": "#B6AAC4FF"
   },
   "window": {

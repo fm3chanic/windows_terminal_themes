@@ -1,0 +1,16 @@
+{
+  "name": "team-plasma",
+  "tab": {
+    "background": "#21212CFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#21212CFF",
+    "unfocusedBackground": "#9999B2FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

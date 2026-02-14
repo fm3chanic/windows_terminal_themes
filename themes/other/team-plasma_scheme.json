@@ -1,0 +1,26 @@
+{
+  "name": "team-plasma",
+
+  "cursorColor": "#d3d3de",
+  "selectionBackground": "#507395",
+
+  "background": "#21212c",
+  "foreground": "#d3d3de",
+
+  "black": "#373749",
+  "blue": "#79a6d2",
+  "cyan": "#79d2d2",
+  "green": "#99cc66",
+  "purple": "#a682c9",
+  "red": "#cc6666",
+  "white": "#d3d3de",
+  "yellow": "#eda65e",
+  "brightBlack": "#373749",
+  "brightBlue": "#79a6d2",
+  "brightCyan": "#79d2d2",
+  "brightGreen": "#99cc66",
+  "brightPurple": "#a682c9",
+  "brightRed": "#cc6666",
+  "brightWhite": "#d3d3de",
+  "brightYellow": "#eda65e"
+}

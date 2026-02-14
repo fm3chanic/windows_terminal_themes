@@ -1,0 +1,16 @@
+{
+  "name": "black-and-white",
+  "tab": {
+    "background": "#22242AFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#22242AFF",
+    "unfocusedBackground": "#C2BDBDFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

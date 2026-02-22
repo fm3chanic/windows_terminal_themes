@@ -1,0 +1,26 @@
+{
+  "name": "condor",
+
+  "cursorColor": "#c2cce0",
+  "selectionBackground": "#6091a9",
+
+  "background": "#3f332e",
+  "foreground": "#c2cce0",
+
+  "black": "#5e4c44",
+  "blue": "#86ace1",
+  "cyan": "#86e1e1",
+  "green": "#c3e186",
+  "purple": "#a286e1",
+  "red": "#e186ab",
+  "white": "#c2cce0",
+  "yellow": "#e8aa7f",
+  "brightBlack": "#5e4c44",
+  "brightBlue": "#86ace1",
+  "brightCyan": "#86e1e1",
+  "brightGreen": "#c3e186",
+  "brightPurple": "#a286e1",
+  "brightRed": "#e186ab",
+  "brightWhite": "#c2cce0",
+  "brightYellow": "#e8aa7f"
+}

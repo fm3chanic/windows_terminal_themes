@@ -1,0 +1,16 @@
+{
+  "name": "condor",
+  "tab": {
+    "background": "#3F332EFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#3F332EFF",
+    "unfocusedBackground": "#ADB4C3FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "adeptus-mechanicus-steel",
+  "tab": {
+    "background": "#323E3EFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#323E3EFF",
+    "unfocusedBackground": "#C6C1A9FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

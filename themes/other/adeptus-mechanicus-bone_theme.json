@@ -1,0 +1,16 @@
+{
+  "name": "adeptus-mechanicus-bone",
+  "tab": {
+    "background": "#E8E3CAFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#E8E3CAFF",
+    "unfocusedBackground": "#506262FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

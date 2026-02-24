@@ -1,0 +1,26 @@
+{
+  "name": "adeptus-mechanicus-bone",
+
+  "cursorColor": "#222a2a",
+  "selectionBackground": "#819898",
+
+  "background": "#e8e3ca",
+  "foreground": "#222a2a",
+
+  "black": "#d8d0a6",
+  "blue": "#507395",
+  "cyan": "#568f8f",
+  "green": "#879b4b",
+  "purple": "#73568f",
+  "red": "#9b4b5f",
+  "white": "#222a2a",
+  "yellow": "#a15c45",
+  "brightBlack": "#d8d0a6",
+  "brightBlue": "#507395",
+  "brightCyan": "#568f8f",
+  "brightGreen": "#879b4b",
+  "brightPurple": "#73568f",
+  "brightRed": "#9b4b5f",
+  "brightWhite": "#222a2a",
+  "brightYellow": "#a15c45"
+}

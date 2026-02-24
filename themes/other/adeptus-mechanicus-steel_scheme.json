@@ -1,26 +1,26 @@
 {
-  "name": "adeptus-mechanicus-dark",
+  "name": "adeptus-mechanicus-steel",
 
-  "cursorColor": "#d1d8e0",
-  "selectionBackground": "#6d7278",
+  "cursorColor": "#e3ddbf",
+  "selectionBackground": "#9d956c",
 
-  "background": "#321e1b",
-  "foreground": "#d1d8e0",
+  "background": "#323e3e",
+  "foreground": "#e3ddbf",
 
-  "black": "#53322d",
+  "black": "#3e4c4c",
   "blue": "#8ba6c1",
   "cyan": "#9fc6c6",
   "green": "#b5c587",
   "purple": "#a68bc1",
   "red": "#c58796",
-  "white": "#d1d8e0",
+  "white": "#e3ddbf",
   "yellow": "#c99482",
-  "brightBlack": "#53322d",
+  "brightBlack": "#3e4c4c",
   "brightBlue": "#8ba6c1",
   "brightCyan": "#9fc6c6",
   "brightGreen": "#b5c587",
   "brightPurple": "#a68bc1",
   "brightRed": "#c58796",
-  "brightWhite": "#d1d8e0",
+  "brightWhite": "#e3ddbf",
   "brightYellow": "#c99482"
 }

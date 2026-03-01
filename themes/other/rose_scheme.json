@@ -1,0 +1,26 @@
+{
+  "name": "rose",
+
+  "cursorColor": "#dbbdc4",
+  "selectionBackground": "#844857",
+
+  "background": "#181d18",
+  "foreground": "#dbbdc4",
+
+  "black": "#2F372F",
+  "blue": "#404abe",
+  "cyan": "#40b4be",
+  "green": "#40be75",
+  "purple": "#9f40be",
+  "red": "#be405d",
+  "white": "#dbbdc4",
+  "yellow": "#bebe40",
+  "brightBlack": "#2F372F",
+  "brightBlue": "#404abe",
+  "brightCyan": "#40b4be",
+  "brightGreen": "#40be75",
+  "brightPurple": "#9f40be",
+  "brightRed": "#be405d",
+  "brightWhite": "#dbbdc4",
+  "brightYellow": "#bebe40"
+}

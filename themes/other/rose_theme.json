@@ -1,0 +1,16 @@
+{
+  "name": "rose",
+  "tab": {
+    "background": "#181D18FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#181D18FF",
+    "unfocusedBackground": "#B77A89FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

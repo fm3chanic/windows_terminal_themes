@@ -1,13 +1,13 @@
 {
-  "name": "snake",
+  "name": "viper",
   "tab": {
-    "background": "#383838FF",
+    "background": "#252928FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#383838FF",
-    "unfocusedBackground": "#ABC4B1FF"
+    "background": "#252928FF",
+    "unfocusedBackground": "#90C08BFF"
   },
   "window": {
     "applicationTheme": "dark",

@@ -1,12 +1,12 @@
 {
   "name": "cloud-forest",
   "tab": {
-    "background": "#39472BFF",
+    "background": "#394230FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#39472BFF",
+    "background": "#394230FF",
     "unfocusedBackground": "#B0C1C1FF"
   },
   "window": {

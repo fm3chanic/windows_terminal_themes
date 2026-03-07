@@ -1,11 +1,11 @@
 {
   "name": "pilgrim-grey",
 
-  "cursorColor": "#C2E0E0",
-  "selectionBackground": "#759292",
+  "cursorColor": "#cad8d8",
+  "selectionBackground": "#7b8e8e",
 
   "background": "#2F3941",
-  "foreground": "#C2E0E0",
+  "foreground": "#cad8d8",
 
   "black": "#465460",
   "blue": "#8382CA",
@@ -13,14 +13,14 @@
   "green": "#B7C981",
   "purple": "#CB86C5",
   "red": "#CA8192",
-  "white": "#C2E0E0",
-  "yellow": "#D7995C",
+  "white": "#cad8d8",
+  "yellow": "#c9a682",
   "brightBlack": "#465460",
   "brightBlue": "#8382CA",
   "brightCyan": "#81C9B1",
   "brightGreen": "#B7C981",
   "brightPurple": "#CB86C5",
   "brightRed": "#CA8192",
-  "brightWhite": "#C2E0E0",
-  "brightYellow": "#D7995C"
+  "brightWhite": "#cad8d8",
+  "brightYellow": "#c9a682"
 }

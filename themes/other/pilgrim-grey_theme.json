@@ -1,13 +1,13 @@
 {
-  "name": "rose",
+  "name": "pilgrim-grey",
   "tab": {
-    "background": "#181D18FF",
+    "background": "#2F3941FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#181D18FF",
-    "unfocusedBackground": "#B77A89FF"
+    "background": "#2F3941FF",
+    "unfocusedBackground": "#AFC1C1FF"
   },
   "window": {
     "applicationTheme": "dark",

@@ -1,13 +1,13 @@
 {
-  "name": "viper",
+  "name": "aquatic",
   "tab": {
-    "background": "#232729FF",
+    "background": "#3C7F8CFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#232729FF",
-    "unfocusedBackground": "#81C992FF"
+    "background": "#3C7F8CFF",
+    "unfocusedBackground": "#93D1AEFF"
   },
   "window": {
     "applicationTheme": "dark",

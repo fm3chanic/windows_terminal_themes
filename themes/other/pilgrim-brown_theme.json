@@ -1,13 +1,13 @@
 {
-  "name": "viper",
+  "name": "pilgrim-brown",
   "tab": {
-    "background": "#232729FF",
+    "background": "#2F3941FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#232729FF",
-    "unfocusedBackground": "#81C992FF"
+    "background": "#2F3941FF",
+    "unfocusedBackground": "#C3B4ADFF"
   },
   "window": {
     "applicationTheme": "dark",

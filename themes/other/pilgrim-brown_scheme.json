@@ -1,0 +1,26 @@
+{
+  "name": "pilgrim-brown",
+
+  "cursorColor": "#DFCBC2",
+  "selectionBackground": "#987D71",
+
+  "background": "#2F3941",
+  "foreground": "#DFCBC2",
+
+  "black": "#455460",
+  "blue": "#8382CA",
+  "cyan": "#81C9B1",
+  "green": "#B7C981",
+  "purple": "#CB86C5",
+  "red": "#CA8192",
+  "white": "#DFCBC2",
+  "yellow": "#D7995C",
+  "brightBlack": "#455460",
+  "brightBlue": "#8382CA",
+  "brightCyan": "#81C9B1",
+  "brightGreen": "#B7C981",
+  "brightPurple": "#CB86C5",
+  "brightRed": "#CA8192",
+  "brightWhite": "#DFCBC2",
+  "brightYellow": "#D7995C"
+}

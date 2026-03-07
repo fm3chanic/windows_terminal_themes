@@ -1,13 +1,13 @@
 {
-  "name": "viper",
+  "name": "cloud-forest",
   "tab": {
-    "background": "#232729FF",
+    "background": "#39472BFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#232729FF",
-    "unfocusedBackground": "#81C992FF"
+    "background": "#39472BFF",
+    "unfocusedBackground": "#B0C1C1FF"
   },
   "window": {
     "applicationTheme": "dark",

@@ -1,13 +1,13 @@
 {
-  "name": "viper",
+  "name": "navy",
   "tab": {
-    "background": "#232729FF",
+    "background": "#5E7278FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#232729FF",
-    "unfocusedBackground": "#81C992FF"
+    "background": "#5E7278FF",
+    "unfocusedBackground": "#94AFD2FF"
   },
   "window": {
     "applicationTheme": "dark",

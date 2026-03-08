@@ -1,0 +1,16 @@
+{
+  "name": "parchment",
+  "tab": {
+    "background": "#ADA384FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#ADA384FF",
+    "unfocusedBackground": "#323F4CFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

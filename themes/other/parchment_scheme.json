@@ -2,7 +2,7 @@
   "name": "parchment",
 
   "cursorColor": "#1a2633",
-  "selectionBackground": "#afbcca",
+  "selectionBackground": "#cac3af",
 
   "background": "#ada384",
   "foreground": "#1a2633",
@@ -10,17 +10,17 @@
   "black": "#998e67",
   "blue": "#2d4386",
   "cyan": "#2d8684",
-  "green": "#2d864a",
-  "purple": "#862d70",
-  "red": "#862d4a",
+  "green": "#367d4e",
+  "purple": "#7d366b",
+  "red": "#7d364e",
   "white": "#1a2633",
   "yellow": "#996f33",
   "brightBlack": "#998e67",
   "brightBlue": "#2d4386",
   "brightCyan": "#2d8684",
-  "brightGreen": "#2d864a",
-  "brightPurple": "#862d70",
-  "brightRed": "#862d4a",
+  "brightGreen": "#367d4e",
+  "brightPurple": "#7d366b",
+  "brightRed": "#7d364e",
   "brightWhite": "#1a2633",
   "brightYellow": "#996f33"
 }

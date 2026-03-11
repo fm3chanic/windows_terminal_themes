@@ -1,0 +1,26 @@
+{
+  "name": "dawn",
+
+  "cursorColor": "#EDE8DD",
+  "selectionBackground": "#876287",
+
+  "background": "#584058",
+  "foreground": "#EDE8DD",
+
+  "black": "#3A2A3A",
+  "blue": "#8DA6D9",
+  "cyan": "#8DD9C1",
+  "green": "#9ed590",
+  "purple": "#D98DD9",
+  "red": "#D98D8D",
+  "white": "#EDE8DD",
+  "yellow": "#d9d98c",
+  "brightBlack": "#3A2A3A",
+  "brightBlue": "#8DA6D9",
+  "brightCyan": "#8DD9C1",
+  "brightGreen": "#9ed590",
+  "brightPurple": "#D98DD9",
+  "brightRed": "#D98D8D",
+  "brightWhite": "#EDE8DD",
+  "brightYellow": "#d9d98c"
+}

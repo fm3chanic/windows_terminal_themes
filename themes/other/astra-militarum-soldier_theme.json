@@ -1,13 +1,13 @@
 {
-  "name": "adeptus-mechanicus-dark",
+  "name": "astra-militarum-soldier",
   "tab": {
-    "background": "#492731FF",
+    "background": "#39422CFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#492731FF",
-    "unfocusedBackground": "#A9B7C6FF"
+    "background": "#39422CFF",
+    "unfocusedBackground": "#CDC6A3FF"
   },
   "window": {
     "applicationTheme": "dark",

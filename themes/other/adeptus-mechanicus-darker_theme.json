@@ -1,13 +1,13 @@
 {
-  "name": "adeptus-mechanicus-dark",
+  "name": "adeptus-mechanicus-darker",
   "tab": {
-    "background": "#492731FF",
+    "background": "#321B22FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#492731FF",
-    "unfocusedBackground": "#A9B7C6FF"
+    "background": "#321B22FF",
+    "unfocusedBackground": "#99ABB3FF"
   },
   "window": {
     "applicationTheme": "dark",

@@ -1,13 +1,13 @@
 {
-  "name": "adeptus-mechanicus-dark",
+  "name": "inquisitorius",
   "tab": {
-    "background": "#492731FF",
+    "background": "#492730FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#492731FF",
-    "unfocusedBackground": "#A9B7C6FF"
+    "background": "#492730FF",
+    "unfocusedBackground": "#C5BCA9FF"
   },
   "window": {
     "applicationTheme": "dark",

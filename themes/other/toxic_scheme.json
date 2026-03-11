@@ -1,0 +1,26 @@
+{
+  "name": "toxic",
+
+  "cursorColor": "#C8E7D8",
+  "selectionBackground": "#45A274",
+
+  "background": "#163525",
+  "foreground": "#C8E7D8",
+
+  "black": "#275A40",
+  "blue": "#6190d1",
+  "cyan": "#5bc8b8",
+  "green": "#88d279",
+  "purple": "#b282c9",
+  "red": "#C3617A",
+  "white": "#C8E7D8",
+  "yellow": "#c9c982",
+  "brightBlack": "#275A40",
+  "brightBlue": "#6190d1",
+  "brightCyan": "#5bc8b8",
+  "brightGreen": "#88d279",
+  "brightPurple": "#b282c9",
+  "brightRed": "#C3617A",
+  "brightWhite": "#C8E7D8",
+  "brightYellow": "#c9c982"
+}

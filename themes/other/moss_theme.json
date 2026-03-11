@@ -1,0 +1,16 @@
+{
+  "name": "moss",
+  "tab": {
+    "background": "#6C8648FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#6C8648FF",
+    "unfocusedBackground": "#BCD093FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

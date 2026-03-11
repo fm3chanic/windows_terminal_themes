@@ -1,0 +1,26 @@
+{
+  "name": "astra-militarum-officer",
+
+  "cursorColor": "#EFECC0",
+  "selectionBackground": "#94515C",
+
+  "background": "#242728",
+  "foreground": "#EFECC0",
+
+  "black": "#3D4243",
+  "blue": "#666ECC",
+  "cyan": "#66B1CC",
+  "green": "#66CC70",
+  "purple": "#c270a0",
+  "red": "#CC6666",
+  "white": "#EFECC0",
+  "yellow": "#CCA166",
+  "brightBlack": "#3D4243",
+  "brightBlue": "#666ECC",
+  "brightCyan": "#66B1CC",
+  "brightGreen": "#66CC70",
+  "brightPurple": "#c270a0",
+  "brightRed": "#CC6666",
+  "brightWhite": "#EFECC0",
+  "brightYellow": "#CCA166"
+}

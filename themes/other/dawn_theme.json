@@ -1,13 +1,13 @@
 {
-  "name": "acid-cloud",
+  "name": "dawn",
   "tab": {
-    "background": "#161D16FF",
+    "background": "#584058FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#161D16FF",
-    "unfocusedBackground": "#8BA78BFF"
+    "background": "#584058FF",
+    "unfocusedBackground": "#CABB9CFF"
   },
   "window": {
     "applicationTheme": "dark",

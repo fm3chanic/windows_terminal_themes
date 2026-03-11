@@ -1,0 +1,26 @@
+{
+  "name": "inquisitorius",
+
+  "cursorColor": "#E4D7BE",
+  "selectionBackground": "#9C8C6B",
+
+  "background": "#492730",
+  "foreground": "#E4D7BE",
+
+  "black": "#6B3946",
+  "blue": "#7192C2",
+  "cyan": "#71C2C2",
+  "green": "#71C293",
+  "purple": "#A671C2",
+  "red": "#C271A1",
+  "white": "#E4D7BE",
+  "yellow": "#C29371",
+  "brightBlack": "#6B3946",
+  "brightBlue": "#7192C2",
+  "brightCyan": "#71C2C2",
+  "brightGreen": "#71C293",
+  "brightPurple": "#A671C2",
+  "brightRed": "#C271A1",
+  "brightWhite": "#E4D7BE",
+  "brightYellow": "#C29371"
+}

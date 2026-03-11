@@ -1,13 +1,13 @@
 {
-  "name": "adeptus-mechanicus-dark",
+  "name": "toxic",
   "tab": {
-    "background": "#492731FF",
+    "background": "#163525FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#492731FF",
-    "unfocusedBackground": "#A9B7C6FF"
+    "background": "#163525FF",
+    "unfocusedBackground": "#83CAA7FF"
   },
   "window": {
     "applicationTheme": "dark",

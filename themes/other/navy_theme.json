@@ -10,7 +10,7 @@
     "unfocusedBackground": "#94AFD2FF"
   },
   "window": {
-    "applicationTheme": "dark",
+    "applicationTheme": "light",
     "useMica": false
   }
 }

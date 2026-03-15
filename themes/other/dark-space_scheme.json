@@ -1,26 +1,26 @@
 {
   "name": "dark-space",
 
-  "cursorColor": "#eeb5ee",
-  "selectionBackground": "#8e7b8e",
+  "cursorColor": "#eec4ee",
+  "selectionBackground": "#7c6a7c",
 
-  "background": "#3d343d",
-  "foreground": "#eeb5ee",
+  "background": "#292329",
+  "foreground": "#eec4ee",
 
-  "black": "#584b58",
+  "black": "#453b45",
   "blue": "#b38cd9",
   "cyan": "#94d1c2",
   "green": "#c2d194",
   "purple": "#e085c9",
   "red": "#e0859c",
-  "white": "#eeb5ee",
+  "white": "#eec4ee",
   "yellow": "#e09c85",
-  "brightBlack": "#584b58",
+  "brightBlack": "#453b45",
   "brightBlue": "#b38cd9",
   "brightCyan": "#94d1c2",
   "brightGreen": "#c2d194",
   "brightPurple": "#e085c9",
   "brightRed": "#e0859c",
-  "brightWhite": "#eeb5ee",
+  "brightWhite": "#eec4ee",
   "brightYellow": "#e09c85"
 }

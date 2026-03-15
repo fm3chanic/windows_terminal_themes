@@ -1,26 +1,26 @@
 {
   "name": "adeptus-mechanicus-darker",
 
-  "cursorColor": "#C9DEE8",
-  "selectionBackground": "#617882",
+  "cursorColor": "#d1d8e0",
+  "selectionBackground": "#6d7278",
 
   "background": "#321B22",
-  "foreground": "#C9DEE8",
+  "foreground": "#d1d8e0",
 
   "black": "#522C37",
-  "blue": "#6068BB",
-  "cyan": "#60BBBA",
-  "green": "#85af6a",
-  "purple": "#af6aaf",
-  "red": "#BB6087",
-  "white": "#C9DEE8",
-  "yellow": "#BB9A60",
+  "blue": "#8ba6c1",
+  "cyan": "#9fc6c6",
+  "green": "#b5c587",
+  "purple": "#a68bc1",
+  "red": "#c58796",
+  "white": "#d1d8e0",
+  "yellow": "#c99482",
   "brightBlack": "#522C37",
-  "brightBlue": "#6068BB",
-  "brightCyan": "#60BBBA",
-  "brightGreen": "#85af6a",
-  "brightPurple": "#af6aaf",
-  "brightRed": "#BB6087",
-  "brightWhite": "#C9DEE8",
-  "brightYellow": "#BB9A60"
+  "brightBlue": "#8ba6c1",
+  "brightCyan": "#9fc6c6",
+  "brightGreen": "#b5c587",
+  "brightPurple": "#a68bc1",
+  "brightRed": "#c58796",
+  "brightWhite": "#d1d8e0",
+  "brightYellow": "#c99482"
 }

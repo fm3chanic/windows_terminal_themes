@@ -1,0 +1,26 @@
+{
+  "name": "medieval",
+
+  "cursorColor": "#C4D6DF",
+  "selectionBackground": "#788890",
+
+  "background": "#493327",
+  "foreground": "#C4D6DF",
+
+  "black": "#6A4A38",
+  "blue": "#5F76BB",
+  "cyan": "#5FBBB9",
+  "green": "#6aaf6e",
+  "purple": "#BB5FBB",
+  "red": "#C65474",
+  "white": "#C4D6DF",
+  "yellow": "#C68454",
+  "brightBlack": "#6A4A38",
+  "brightBlue": "#5F76BB",
+  "brightCyan": "#5FBBB9",
+  "brightGreen": "#6aaf6e",
+  "brightPurple": "#BB5FBB",
+  "brightRed": "#C65474",
+  "brightWhite": "#C4D6DF",
+  "brightYellow": "#C68454"
+}

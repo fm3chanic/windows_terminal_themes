@@ -1,0 +1,26 @@
+{
+  "name": "chizra",
+
+  "cursorColor": "#B6EDDA",
+  "selectionBackground": "#5FA990",
+
+  "background": "#423E30",
+  "foreground": "#B6EDDA",
+
+  "black": "#605A45",
+  "blue": "#5F6FBB",
+  "cyan": "#5FBBBA",
+  "green": "#75BA60",
+  "purple": "#986aaf",
+  "red": "#af6a7b",
+  "white": "#B6EDDA",
+  "yellow": "#C69854",
+  "brightBlack": "#605A45",
+  "brightBlue": "#5F6FBB",
+  "brightCyan": "#5FBBBA",
+  "brightGreen": "#75BA60",
+  "brightPurple": "#986aaf",
+  "brightRed": "#af6a7b",
+  "brightWhite": "#B6EDDA",
+  "brightYellow": "#C69854"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "chizra",
+  "tab": {
+    "background": "#423E30FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#423E30FF",
+    "unfocusedBackground": "#A1CCBDFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "medieval",
+  "tab": {
+    "background": "#493327FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#493327FF",
+    "unfocusedBackground": "#B1BABFFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

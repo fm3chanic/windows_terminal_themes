@@ -1,12 +1,12 @@
 {
   "name": "chizra",
   "tab": {
-    "background": "#423E30FF",
+    "background": "#3F3B31FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#423E30FF",
+    "background": "#3F3B31FF",
     "unfocusedBackground": "#A1CCBDFF"
   },
   "window": {

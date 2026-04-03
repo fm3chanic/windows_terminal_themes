@@ -1,0 +1,16 @@
+{
+  "name": "terminal",
+  "tab": {
+    "background": "#282525FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#282525FF",
+    "unfocusedBackground": "#91BA9FFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

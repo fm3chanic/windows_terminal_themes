@@ -2,12 +2,12 @@
   "name": "navy",
 
   "cursorColor": "#DAE3EF",
-  "selectionBackground": "#48585C",
+  "selectionBackground": "#647A80",
 
-  "background": "#5E7278",
+  "background": "#435155",
   "foreground": "#DAE3EF",
 
-  "black": "#768E94",
+  "black": "#2C3639",
   "blue": "#79bcd2",
   "cyan": "#90d5c4",
   "green": "#94c982",
@@ -15,7 +15,7 @@
   "red": "#ce7e7e",
   "white": "#DAE3EF",
   "yellow": "#d5d590",
-  "brightBlack": "#768E94",
+  "brightBlack": "#2C3639",
   "brightBlue": "#79bcd2",
   "brightCyan": "#90d5c4",
   "brightGreen": "#94c982",

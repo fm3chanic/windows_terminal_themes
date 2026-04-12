@@ -1,13 +1,13 @@
 {
-  "name": "navy",
+  "name": "rust",
   "tab": {
-    "background": "#435155FF",
+    "background": "#3E3430FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#435155FF",
-    "unfocusedBackground": "#93AED1FF"
+    "background": "#3E3430FF",
+    "unfocusedBackground": "#C7C1A7FF"
   },
   "window": {
     "applicationTheme": "dark",

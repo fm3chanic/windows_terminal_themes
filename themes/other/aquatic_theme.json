@@ -1,13 +1,13 @@
 {
   "name": "aquatic",
   "tab": {
-    "background": "#3C7F8CFF",
+    "background": "#37615FFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#3C7F8CFF",
-    "unfocusedBackground": "#93D1AEFF"
+    "background": "#37615FFF",
+    "unfocusedBackground": "#9DC7A7FF"
   },
   "window": {
     "applicationTheme": "dark",

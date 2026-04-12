@@ -1,0 +1,26 @@
+{
+  "name": "rust",
+
+  "cursorColor": "#E4DDBD",
+  "selectionBackground": "#9F7C69",
+
+  "background": "#3E3430",
+  "foreground": "#E4DDBD",
+
+  "black": "#5B4C47",
+  "blue": "#8D82C9",
+  "cyan": "#7AB797",
+  "green": "#ADC170",
+  "purple": "#C982AC",
+  "red": "#C17D70",
+  "white": "#E4DDBD",
+  "yellow": "#D2AD79",
+  "brightBlack": "#5B4C47",
+  "brightBlue": "#8D82C9",
+  "brightCyan": "#7AB797",
+  "brightGreen": "#ADC170",
+  "brightPurple": "#C982AC",
+  "brightRed": "#C17D70",
+  "brightWhite": "#E4DDBD",
+  "brightYellow": "#D2AD79"
+}

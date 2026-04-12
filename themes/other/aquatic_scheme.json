@@ -1,26 +1,26 @@
 {
   "name": "aquatic",
 
-  "cursorColor": "#DCF0E5",
-  "selectionBackground": "#365C63",
+  "cursorColor": "#D6F4DC",
+  "selectionBackground": "#528792",
 
-  "background": "#3C7F8C",
-  "foreground": "#DCF0E5",
+  "background": "#37615F",
+  "foreground": "#D6F4DC",
 
-  "black": "#4DA1B1",
+  "black": "#24413F",
   "blue": "#7db3e8",
   "cyan": "#65CCC9",
   "green": "#88CC65",
   "purple": "#b48bc1",
   "red": "#c08c8c",
-  "white": "#DCF0E5",
+  "white": "#D6F4DC",
   "yellow": "#CCBA65",
-  "brightBlack": "#4DA1B1",
+  "brightBlack": "#24413F",
   "brightBlue": "#7db3e8",
   "brightCyan": "#65CCC9",
   "brightGreen": "#88CC65",
   "brightPurple": "#b48bc1",
   "brightRed": "#c08c8c",
-  "brightWhite": "#DCF0E5",
+  "brightWhite": "#D6F4DC",
   "brightYellow": "#CCBA65"
 }

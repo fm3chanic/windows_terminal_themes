@@ -1,11 +1,11 @@
 {
   "name": "joker",
 
-  "cursorColor": "#bddbc5",
-  "selectionBackground": "#527a5c",
+  "cursorColor": "#BCDBC4",
+  "selectionBackground": "#56755E",
 
   "background": "#191221",
-  "foreground": "#bddbc5",
+  "foreground": "#BCDBC4",
 
   "black": "#322442",
   "blue": "#a682c9",
@@ -13,7 +13,7 @@
   "green": "#66cc99",
   "purple": "#d194b3",
   "red": "#cc6666",
-  "white": "#bddbc5",
+  "white": "#BCDBC4",
   "yellow": "#bcd279",
   "brightBlack": "#322442",
   "brightBlue": "#a682c9",
@@ -21,6 +21,6 @@
   "brightGreen": "#66cc99",
   "brightPurple": "#d194b3",
   "brightRed": "#cc6666",
-  "brightWhite": "#bddbc5",
+  "brightWhite": "#BCDBC4",
   "brightYellow": "#bcd279"
 }

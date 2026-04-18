@@ -1,26 +1,26 @@
 {
   "name": "nautical",
 
-  "cursorColor": "#e9d9ba",
-  "selectionBackground": "#6f6f9b",
+  "cursorColor": "#E4E0CD",
+  "selectionBackground": "#958950",
 
-  "background": "#2e2e42",
-  "foreground": "#e9d9ba",
+  "background": "#1F202D",
+  "foreground": "#E4E0CD",
 
-  "black": "#434360",
+  "black": "#34364B",
   "blue": "#70c1db",
   "cyan": "#70dbc1",
   "green": "#70db8b",
   "purple": "#8f79d2",
   "red": "#db8b70",
-  "white": "#e9d9ba",
+  "white": "#E4E0CD",
   "yellow": "#dbc170",
-  "brightBlack": "#434360",
+  "brightBlack": "#34364B",
   "brightBlue": "#70c1db",
   "brightCyan": "#70dbc1",
   "brightGreen": "#70db8b",
   "brightPurple": "#8f79d2",
   "brightRed": "#db8b70",
-  "brightWhite": "#e9d9ba",
+  "brightWhite": "#E4E0CD",
   "brightYellow": "#dbc170"
 }

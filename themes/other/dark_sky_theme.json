@@ -1,0 +1,16 @@
+{
+  "name": "dark_sky",
+  "tab": {
+    "background": "#2C2734FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2C2734FF",
+    "unfocusedBackground": "#715F95FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

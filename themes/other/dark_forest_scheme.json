@@ -1,0 +1,26 @@
+{
+  "name": "dark_forest",
+
+  "cursorColor": "#A9BCA9",
+  "selectionBackground": "#5B615B",
+
+  "background": "#2A2D2A",
+  "foreground": "#A9BCA9",
+
+  "black": "#424742",
+  "blue": "#64A6B4",
+  "cyan": "#64B489",
+  "green": "#9CB464",
+  "purple": "#A269AE",
+  "red": "#AE6982",
+  "white": "#A9BCA9",
+  "yellow": "#BFAD58",
+  "brightBlack": "#424742",
+  "brightBlue": "#64A6B4",
+  "brightCyan": "#64B489",
+  "brightGreen": "#9CB464",
+  "brightPurple": "#A269AE",
+  "brightRed": "#AE6982",
+  "brightWhite": "#A9BCA9",
+  "brightYellow": "#BFAD58"
+}

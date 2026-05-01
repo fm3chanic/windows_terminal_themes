@@ -1,0 +1,16 @@
+{
+  "name": "dark_earth",
+  "tab": {
+    "background": "#2C2826FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2C2826FF",
+    "unfocusedBackground": "#98755DFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

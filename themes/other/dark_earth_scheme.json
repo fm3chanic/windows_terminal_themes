@@ -1,0 +1,26 @@
+{
+  "name": "dark_earth",
+
+  "cursorColor": "#9F8955",
+  "selectionBackground": "#625955",
+
+  "background": "#2c2826",
+  "foreground": "#9F8955",
+
+  "black": "#47403D",
+  "blue": "#64A6B4",
+  "cyan": "#64B489",
+  "green": "#9CB464",
+  "purple": "#A269AE",
+  "red": "#AE6982",
+  "white": "#9F8955",
+  "yellow": "#BFAD58",
+  "brightBlack": "#47403D",
+  "brightBlue": "#64A6B4",
+  "brightCyan": "#64B489",
+  "brightGreen": "#9CB464",
+  "brightPurple": "#A269AE",
+  "brightRed": "#AE6982",
+  "brightWhite": "#9F8955",
+  "brightYellow": "#BFAD58"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "dark_space",
+  "tab": {
+    "background": "#23242EFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#23242EFF",
+    "unfocusedBackground": "#7272A1FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

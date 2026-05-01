@@ -1,0 +1,26 @@
+{
+  "name": "dark_sky",
+
+  "cursorColor": "#B07745",
+  "selectionBackground": "#5E536E",
+
+  "background": "#2C2734",
+  "foreground": "#B07745",
+
+  "black": "#453D51",
+  "blue": "#64A6B4",
+  "cyan": "#64B489",
+  "green": "#9CB464",
+  "purple": "#A269AE",
+  "red": "#AE6982",
+  "white": "#B07745",
+  "yellow": "#BFAD58",
+  "brightBlack": "#453D51",
+  "brightBlue": "#64A6B4",
+  "brightCyan": "#64B489",
+  "brightGreen": "#9CB464",
+  "brightPurple": "#A269AE",
+  "brightRed": "#AE6982",
+  "brightWhite": "#B07745",
+  "brightYellow": "#BFAD58"
+}

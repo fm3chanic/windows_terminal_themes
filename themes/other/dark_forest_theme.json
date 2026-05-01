@@ -1,0 +1,16 @@
+{
+  "name": "dark_forest",
+  "tab": {
+    "background": "#2A2D2AFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2A2D2AFF",
+    "unfocusedBackground": "#869886FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

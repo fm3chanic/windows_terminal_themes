@@ -1,0 +1,16 @@
+{
+  "name": "dark_sea",
+  "tab": {
+    "background": "#1D262FFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1D262FFF",
+    "unfocusedBackground": "#5D8CC0FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

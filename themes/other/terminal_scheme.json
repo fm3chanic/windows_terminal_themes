@@ -1,26 +1,26 @@
 {
   "name": "terminal",
 
-  "cursorColor": "#C1F0D0",
-  "selectionBackground": "#598E6B",
+  "cursorColor": "#ACD2C2",
+  "selectionBackground": "#47846B",
 
   "background": "#282525",
-  "foreground": "#C1F0D0",
+  "foreground": "#ACD2C2",
 
   "black": "#433C3C",
   "blue": "#8b99c1",
-  "cyan": "#9fc6c6",
+  "cyan": "#93D1D1",
   "green": "#b5c587",
   "purple": "#c18bb8",
   "red": "#c5879c",
-  "white": "#C1F0D0",
-  "yellow": "#c9a582",
+  "white": "#ACD2C2",
+  "yellow": "#DBD270",
   "brightBlack": "#433C3C",
   "brightBlue": "#8b99c1",
-  "brightCyan": "#9fc6c6",
+  "brightCyan": "#93D1D1",
   "brightGreen": "#b5c587",
   "brightPurple": "#c18bb8",
   "brightRed": "#c5879c",
-  "brightWhite": "#C1F0D0",
-  "brightYellow": "#c9a582"
+  "brightWhite": "#ACD2C2",
+  "brightYellow": "#DBD270"
 }

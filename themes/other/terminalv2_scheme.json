@@ -1,11 +1,11 @@
 {
-  "name": "terminal",
+  "name": "terminalv2",
 
-  "cursorColor": "#B7E0D3",
-  "selectionBackground": "#517A6D",
+  "cursorColor": "#C1E0B7",
+  "selectionBackground": "#5B7A51",
 
   "background": "#1b1818",
-  "foreground": "#B7E0D3",
+  "foreground": "#C1E0B7",
 
   "black": "#363030",
   "blue": "#8b99c1",
@@ -13,7 +13,7 @@
   "green": "#b5c587",
   "purple": "#c18bb8",
   "red": "#c5879c",
-  "white": "#B7E0D3",
+  "white": "#C1E0B7",
   "yellow": "#DBD270",
   "brightBlack": "#363030",
   "brightBlue": "#8b99c1",
@@ -21,6 +21,6 @@
   "brightGreen": "#b5c587",
   "brightPurple": "#c18bb8",
   "brightRed": "#c5879c",
-  "brightWhite": "#B7E0D3",
+  "brightWhite": "#C1E0B7",
   "brightYellow": "#DBD270"
 }

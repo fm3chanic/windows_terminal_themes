@@ -1,5 +1,5 @@
 {
-  "name": "terminal",
+  "name": "terminalv2",
   "tab": {
     "background": "#1B1818FF",
     "showCloseButton": "always",
@@ -7,7 +7,7 @@
   },
   "tabRow": {
     "background": "#1B1818FF",
-    "unfocusedBackground": "#75A394FF"
+    "unfocusedBackground": "#80A375FF"
   },
   "window": {
     "applicationTheme": "dark",

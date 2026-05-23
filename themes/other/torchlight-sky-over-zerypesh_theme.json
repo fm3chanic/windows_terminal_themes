@@ -1,0 +1,16 @@
+{
+  "name": "torchlight-sky-over-zerypesh",
+  "tab": {
+    "background": "#1E1614FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1E1614FF",
+    "unfocusedBackground": "#6BA2AFFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "crypt",
+  "tab": {
+    "background": "#3B333CFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#3B333CFF",
+    "unfocusedBackground": "#89B77AFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

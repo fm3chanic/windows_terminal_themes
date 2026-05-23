@@ -1,0 +1,26 @@
+{
+  "name": "torchlight-torches-of-winterwell",
+
+  "cursorColor": "#F0BE77",
+  "selectionBackground": "#5C768A",
+
+  "background": "#1E1614",
+  "foreground": "#F0BE77",
+
+  "black": "#3D2D28",
+  "blue": "#3088BA",
+  "cyan": "#6FC19F",
+  "green": "#A0C66B",
+  "purple": "#8A63B3",
+  "red": "#CB544D",
+  "white": "#F0BE77",
+  "yellow": "#EAA747",
+  "brightBlack": "#3D2D28",
+  "brightBlue": "#3088BA",
+  "brightCyan": "#6FC19F",
+  "brightGreen": "#A0C66B",
+  "brightPurple": "#8A63B3",
+  "brightRed": "#CB544D",
+  "brightWhite": "#F0BE77",
+  "brightYellow": "#EAA747"
+}

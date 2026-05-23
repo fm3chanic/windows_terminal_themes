@@ -1,0 +1,26 @@
+{
+  "name": "lunar",
+
+  "cursorColor": "#EAD6AD",
+  "selectionBackground": "#94815B",
+
+  "background": "#3B333C",
+  "foreground": "#EAD6AD",
+
+  "black": "#554B58",
+  "blue": "#70A3C1",
+  "cyan": "#86C4AA",
+  "green": "#96C486",
+  "purple": "#B375BC",
+  "red": "#C1707B",
+  "white": "#EAD6AD",
+  "yellow": "#D6985B",
+  "brightBlack": "#554B58",
+  "brightBlue": "#70A3C1",
+  "brightCyan": "#86C4AA",
+  "brightGreen": "#96C486",
+  "brightPurple": "#B375BC",
+  "brightRed": "#C1707B",
+  "brightWhite": "#EAD6AD",
+  "brightYellow": "#D6985B"
+}

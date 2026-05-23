@@ -1,0 +1,16 @@
+{
+  "name": "lunar",
+  "tab": {
+    "background": "#3B333CFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#3B333CFF",
+    "unfocusedBackground": "#B1A180FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

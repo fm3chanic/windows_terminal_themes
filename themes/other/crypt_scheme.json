@@ -1,26 +1,26 @@
 {
   "name": "crypt",
 
-  "cursorColor": "#B6F4A2",
-  "selectionBackground": "#708669",
+  "cursorColor": "#C4F4A2",
+  "selectionBackground": "#798569",
 
-  "background": "#3B333C",
-  "foreground": "#B6F4A2",
+  "background": "#2E272E",
+  "foreground": "#C4F4A2",
 
-  "black": "#554B58",
+  "black": "#493F4A",
   "blue": "#70A3C1",
   "cyan": "#86C4AA",
   "green": "#96C486",
   "purple": "#B375BC",
   "red": "#C1707B",
-  "white": "#B6F4A2",
+  "white": "#C4F4A2",
   "yellow": "#D6985B",
-  "brightBlack": "#554B58",
+  "brightBlack": "#493F4A",
   "brightBlue": "#70A3C1",
   "brightCyan": "#86C4AA",
   "brightGreen": "#96C486",
   "brightPurple": "#B375BC",
   "brightRed": "#C1707B",
-  "brightWhite": "#B6F4A2",
+  "brightWhite": "#C4F4A2",
   "brightYellow": "#D6985B"
 }

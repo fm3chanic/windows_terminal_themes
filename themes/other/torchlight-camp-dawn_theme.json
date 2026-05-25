@@ -1,13 +1,13 @@
 {
-  "name": "torchlight-sky-over-zerypesh",
+  "name": "torchlight-camp-dawn",
   "tab": {
-    "background": "#1E1614FF",
+    "background": "#2D211EFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1E1614FF",
-    "unfocusedBackground": "#6BA2AFFF"
+    "background": "#2D211EFF",
+    "unfocusedBackground": "#D08745FF"
   },
   "window": {
     "applicationTheme": "dark",

@@ -1,12 +1,12 @@
 {
   "name": "torchlight-torches-of-winterwell",
   "tab": {
-    "background": "#1E1614FF",
+    "background": "#292321FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1E1614FF",
+    "background": "#292321FF",
     "unfocusedBackground": "#D08745FF"
   },
   "window": {

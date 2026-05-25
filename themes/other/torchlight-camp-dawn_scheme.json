@@ -1,13 +1,13 @@
 {
-  "name": "torchlight-torches-of-winterwell",
+  "name": "torchlight-camp-dawn",
 
   "cursorColor": "#F0BE77",
-  "selectionBackground": "#5C768A",
+  "selectionBackground": "#8D493C",
 
-  "background": "#292321",
+  "background": "#2D211E",
   "foreground": "#F0BE77",
 
-  "black": "#463B39",
+  "black": "#4C3833",
   "blue": "#60A8D1",
   "cyan": "#86C4AB",
   "green": "#AAC486",
@@ -15,7 +15,7 @@
   "red": "#CC6B65",
   "white": "#F0BE77",
   "yellow": "#E7CC7C",
-  "brightBlack": "#463B39",
+  "brightBlack": "#4C3833",
   "brightBlue": "#60A8D1",
   "brightCyan": "#86C4AB",
   "brightGreen": "#AAC486",

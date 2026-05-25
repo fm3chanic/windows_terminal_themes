@@ -1,11 +1,11 @@
 {
-  "name": "torchlight-torches-of-winterwell",
+  "name": "torchlight-temple-steppes",
 
-  "cursorColor": "#F0BE77",
-  "selectionBackground": "#5C768A",
+  "cursorColor": "#C6EA94",
+  "selectionBackground": "#5B8A7A",
 
   "background": "#292321",
-  "foreground": "#F0BE77",
+  "foreground": "#C6EA94",
 
   "black": "#463B39",
   "blue": "#60A8D1",
@@ -13,7 +13,7 @@
   "green": "#AAC486",
   "purple": "#987AB7",
   "red": "#CC6B65",
-  "white": "#F0BE77",
+  "white": "#C6EA94",
   "yellow": "#E7CC7C",
   "brightBlack": "#463B39",
   "brightBlue": "#60A8D1",
@@ -21,6 +21,6 @@
   "brightGreen": "#AAC486",
   "brightPurple": "#987AB7",
   "brightRed": "#CC6B65",
-  "brightWhite": "#F0BE77",
+  "brightWhite": "#C6EA94",
   "brightYellow": "#E7CC7C"
 }

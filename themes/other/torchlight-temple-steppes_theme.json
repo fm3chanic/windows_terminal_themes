@@ -1,13 +1,13 @@
 {
-  "name": "crypt",
+  "name": "torchlight-temple-steppes",
   "tab": {
-    "background": "#2E272EFF",
+    "background": "#292321FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#2E272EFF",
-    "unfocusedBackground": "#9DB779FF"
+    "background": "#292321FF",
+    "unfocusedBackground": "#A3AF6BFF"
   },
   "window": {
     "applicationTheme": "dark",

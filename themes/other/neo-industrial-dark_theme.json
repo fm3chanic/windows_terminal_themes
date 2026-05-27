@@ -1,13 +1,13 @@
 {
-  "name": "torchlight-temple-steppes",
+  "name": "neo-industrial-dark",
   "tab": {
-    "background": "#292321FF",
+    "background": "#272923FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#292321FF",
-    "unfocusedBackground": "#A3AF6BFF"
+    "background": "#272923FF",
+    "unfocusedBackground": "#C0BDAFFF"
   },
   "window": {
     "applicationTheme": "dark",

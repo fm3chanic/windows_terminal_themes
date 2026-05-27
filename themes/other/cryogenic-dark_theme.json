@@ -1,13 +1,13 @@
 {
-  "name": "torchlight-camp-dawn",
+  "name": "cryogenic-dark",
   "tab": {
-    "background": "#1E1614FF",
+    "background": "#272923FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1E1614FF",
-    "unfocusedBackground": "#D08745FF"
+    "background": "#272923FF",
+    "unfocusedBackground": "#ABBFC4FF"
   },
   "window": {
     "applicationTheme": "dark",

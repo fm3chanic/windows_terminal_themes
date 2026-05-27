@@ -1,0 +1,26 @@
+{
+  "name": "rust-dark",
+
+  "cursorColor": "#E4DDBD",
+  "selectionBackground": "#8C6B59",
+
+  "background": "#2B2421",
+  "foreground": "#E4DDBD",
+
+  "black": "#473C37",
+  "blue": "#8D82C9",
+  "cyan": "#7AB797",
+  "green": "#ADC170",
+  "purple": "#C982AC",
+  "red": "#C17D70",
+  "white": "#E4DDBD",
+  "yellow": "#D2AD79",
+  "brightBlack": "#473C37",
+  "brightBlue": "#8D82C9",
+  "brightCyan": "#7AB797",
+  "brightGreen": "#ADC170",
+  "brightPurple": "#C982AC",
+  "brightRed": "#C17D70",
+  "brightWhite": "#E4DDBD",
+  "brightYellow": "#D2AD79"
+}

@@ -1,13 +1,13 @@
 {
-  "name": "torchlight-camp-dawn",
+  "name": "rust-dark",
   "tab": {
-    "background": "#1E1614FF",
+    "background": "#2B2421FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1E1614FF",
-    "unfocusedBackground": "#D08745FF"
+    "background": "#2B2421FF",
+    "unfocusedBackground": "#C7C1A7FF"
   },
   "window": {
     "applicationTheme": "dark",

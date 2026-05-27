@@ -2,25 +2,25 @@
   "name": "torchlight-camp-dawn",
 
   "cursorColor": "#F0BE77",
-  "selectionBackground": "#8D493C",
+  "selectionBackground": "#854337",
 
-  "background": "#2D211E",
+  "background": "#1E1614",
   "foreground": "#F0BE77",
 
-  "black": "#4C3833",
+  "black": "#3D2C28",
   "blue": "#60A8D1",
   "cyan": "#86C4AB",
   "green": "#AAC486",
   "purple": "#987AB7",
   "red": "#CC6B65",
   "white": "#F0BE77",
-  "yellow": "#E7CC7C",
-  "brightBlack": "#4C3833",
+  "yellow": "#DBB956",
+  "brightBlack": "#3D2C28",
   "brightBlue": "#60A8D1",
   "brightCyan": "#86C4AB",
   "brightGreen": "#AAC486",
   "brightPurple": "#987AB7",
   "brightRed": "#CC6B65",
   "brightWhite": "#F0BE77",
-  "brightYellow": "#E7CC7C"
+  "brightYellow": "#DBB956"
 }

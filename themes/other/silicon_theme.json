@@ -1,0 +1,16 @@
+{
+  "name": "silicon",
+  "tab": {
+    "background": "#1E2327FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1E2327FF",
+    "unfocusedBackground": "#7F969BFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

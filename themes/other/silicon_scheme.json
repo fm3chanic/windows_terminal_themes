@@ -1,0 +1,26 @@
+{
+  "name": "silicon",
+
+  "cursorColor": "#B8C4C7",
+  "selectionBackground": "#4D635F",
+
+  "background": "#1E2327",
+  "foreground": "#B8C4C7",
+
+  "black": "#363F47",
+  "blue": "#8082C9",
+  "cyan": "#70C29F",
+  "green": "#90BD75",
+  "purple": "#C183CA",
+  "red": "#C76C76",
+  "white": "#B8C4C7",
+  "yellow": "#BDB775",
+  "brightBlack": "#363F47",
+  "brightBlue": "#8082C9",
+  "brightCyan": "#70C29F",
+  "brightGreen": "#90BD75",
+  "brightPurple": "#C183CA",
+  "brightRed": "#C76C76",
+  "brightWhite": "#B8C4C7",
+  "brightYellow": "#BDB775"
+}

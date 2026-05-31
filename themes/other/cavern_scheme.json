@@ -1,0 +1,26 @@
+{
+  "name": "cavern",
+
+  "cursorColor": "#A2E8D6",
+  "selectionBackground": "#58787D",
+
+  "background": "#272E2E",
+  "foreground": "#A2E8D6",
+
+  "black": "#3F494A",
+  "blue": "#679acc",
+  "cyan": "#5bc0bd",
+  "green": "#9fc653",
+  "purple": "#af5bc0",
+  "red": "#D74343",
+  "white": "#A2E8D6",
+  "yellow": "#DFb06b",
+  "brightBlack": "#3F494A",
+  "brightBlue": "#679acc",
+  "brightCyan": "#5bc0bd",
+  "brightGreen": "#9fc653",
+  "brightPurple": "#af5bc0",
+  "brightRed": "#D74343",
+  "brightWhite": "#A2E8D6",
+  "brightYellow": "#DFb06b"
+}

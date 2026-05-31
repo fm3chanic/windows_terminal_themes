@@ -1,0 +1,16 @@
+{
+  "name": "cavern",
+  "tab": {
+    "background": "#272E2EFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#272E2EFF",
+    "unfocusedBackground": "#6FB3A2FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

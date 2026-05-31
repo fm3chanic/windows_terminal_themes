@@ -1,0 +1,26 @@
+{
+  "name": "native",
+
+  "cursorColor": "#D4D5D2",
+  "selectionBackground": "#605F51",
+
+  "background": "#272822",
+  "foreground": "#D4D5D2",
+
+  "black": "#43443A",
+  "blue": "#8474D6",
+  "cyan": "#74C6D6",
+  "green": "#8CBF58",
+  "purple": "#BA5E7C",
+  "red": "#D18047",
+  "white": "#D4D5D2",
+  "yellow": "#DFD66B",
+  "brightBlack": "#43443A",
+  "brightBlue": "#8474D6",
+  "brightCyan": "#74C6D6",
+  "brightGreen": "#8CBF58",
+  "brightPurple": "#BA5E7C",
+  "brightRed": "#D18047",
+  "brightWhite": "#D4D5D2",
+  "brightYellow": "#DFD66B"
+}

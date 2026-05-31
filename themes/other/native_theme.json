@@ -1,0 +1,16 @@
+{
+  "name": "native",
+  "tab": {
+    "background": "#272822FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#272822FF",
+    "unfocusedBackground": "#A4A59EFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

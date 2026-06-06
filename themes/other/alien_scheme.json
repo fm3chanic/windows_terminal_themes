@@ -1,0 +1,26 @@
+{
+  "name": "alien",
+
+  "cursorColor": "#A1E7A1",
+  "selectionBackground": "#517A51",
+
+  "background": "#1A2723",
+  "foreground": "#A1E7A1",
+
+  "black": "#2E463E",
+  "blue": "#5BADD6",
+  "cyan": "#65CCB2",
+  "green": "#ADD65B",
+  "purple": "#CC65A9",
+  "red": "#D66C5B",
+  "white": "#A1E7A1",
+  "yellow": "#DB9856",
+  "brightBlack": "#2E463E",
+  "brightBlue": "#5BADD6",
+  "brightCyan": "#65CCB2",
+  "brightGreen": "#ADD65B",
+  "brightPurple": "#CC65A9",
+  "brightRed": "#D66C5B",
+  "brightWhite": "#A1E7A1",
+  "brightYellow": "#DB9856"
+}

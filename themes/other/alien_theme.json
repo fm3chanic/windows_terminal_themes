@@ -1,0 +1,16 @@
+{
+  "name": "alien",
+  "tab": {
+    "background": "#1A2723FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1A2723FF",
+    "unfocusedBackground": "#70B270FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

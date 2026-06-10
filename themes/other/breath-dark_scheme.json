@@ -1,0 +1,26 @@
+{
+  "name": "breath-dark",
+
+  "cursorColor": "#b4c7ca",
+  "selectionBackground": "#64815e",
+
+  "background": "#243032",
+  "foreground": "#b4c7ca",
+
+  "black": "#394c4f",
+  "blue": "#6b8dc7",
+  "cyan": "#73c2b2",
+  "green": "#72c769",
+  "purple": "#c669b5",
+  "red": "#c86c85",
+  "white": "#b4c7ca",
+  "yellow": "#c4cb71",
+  "brightBlack": "#394c4f",
+  "brightBlue": "#6b8dc7",
+  "brightCyan": "#73c2b2",
+  "brightGreen": "#72c769",
+  "brightPurple": "#c669b5",
+  "brightRed": "#c86c85",
+  "brightWhite": "#b4c7ca",
+  "brightYellow": "#c4cb71"
+}

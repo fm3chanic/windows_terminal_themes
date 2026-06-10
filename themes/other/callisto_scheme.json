@@ -1,0 +1,26 @@
+{
+  "name": "callisto",
+
+  "cursorColor": "#e0a1e0",
+  "selectionBackground": "#5e7983",
+
+  "background": "#2d2331",
+  "foreground": "#e0a1e0",
+
+  "black": "#4a3a50",
+  "blue": "#4b92d2",
+  "cyan": "#53c5c5",
+  "green": "#52c67f",
+  "purple": "#d148a4",
+  "red": "#c05974",
+  "white": "#e0a1e0",
+  "yellow": "#ddac3c",
+  "brightBlack": "#4a3a50",
+  "brightBlue": "#4b92d2",
+  "brightCyan": "#53c5c5",
+  "brightGreen": "#52c67f",
+  "brightPurple": "#d148a4",
+  "brightRed": "#c05974",
+  "brightWhite": "#e0a1e0",
+  "brightYellow": "#ddac3c"
+}

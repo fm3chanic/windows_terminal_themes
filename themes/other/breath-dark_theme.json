@@ -1,0 +1,16 @@
+{
+  "name": "breath-dark",
+  "tab": {
+    "background": "#243032FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#243032FF",
+    "unfocusedBackground": "#82A0A6FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

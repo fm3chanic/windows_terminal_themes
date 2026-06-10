@@ -1,0 +1,16 @@
+{
+  "name": "callisto",
+  "tab": {
+    "background": "#2D2331FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2D2331FF",
+    "unfocusedBackground": "#BA7FBAFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

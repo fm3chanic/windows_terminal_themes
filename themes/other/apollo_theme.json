@@ -1,0 +1,16 @@
+{
+  "name": "apollo",
+  "tab": {
+    "background": "#18131AFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#18131AFF",
+    "unfocusedBackground": "#BEC38AFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "sputnik",
+
+  "cursorColor": "#cddfe3",
+  "selectionBackground": "#718083",
+
+  "background": "#18131a",
+  "foreground": "#cddfe3",
+
+  "black": "#322737",
+  "blue": "#4162dc",
+  "cyan": "#41bed8",
+  "green": "#96b16f",
+  "purple": "#9d50d1",
+  "red": "#ee5148",
+  "white": "#cddfe3",
+  "yellow": "#fcd759",
+  "brightBlack": "#322737",
+  "brightBlue": "#4162dc",
+  "brightCyan": "#41bed8",
+  "brightGreen": "#96b16f",
+  "brightPurple": "#9d50d1",
+  "brightRed": "#ee5148",
+  "brightWhite": "#cddfe3",
+  "brightYellow": "#fcd759"
+}

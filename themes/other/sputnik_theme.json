@@ -1,0 +1,16 @@
+{
+  "name": "sputnik",
+  "tab": {
+    "background": "#18131AFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#18131AFF",
+    "unfocusedBackground": "#A0AAADFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

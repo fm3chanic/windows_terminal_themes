@@ -1,0 +1,26 @@
+{
+  "name": "apollo",
+
+  "cursorColor": "#eff4bc",
+  "selectionBackground": "#91955f",
+
+  "background": "#18131a",
+  "foreground": "#eff4bc",
+
+  "black": "#322737",
+  "blue": "#4162dc",
+  "cyan": "#41bed8",
+  "green": "#96b16f",
+  "purple": "#9d50d1",
+  "red": "#ee5148",
+  "white": "#eff4bc",
+  "yellow": "#fcd759",
+  "brightBlack": "#322737",
+  "brightBlue": "#4162dc",
+  "brightCyan": "#41bed8",
+  "brightGreen": "#96b16f",
+  "brightPurple": "#9d50d1",
+  "brightRed": "#ee5148",
+  "brightWhite": "#eff4bc",
+  "brightYellow": "#fcd759"
+}

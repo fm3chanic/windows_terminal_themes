@@ -1,0 +1,16 @@
+{
+  "name": "industrial",
+  "tab": {
+    "background": "#D5D0C2FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#D5D0C2FF",
+    "unfocusedBackground": "#A08944FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

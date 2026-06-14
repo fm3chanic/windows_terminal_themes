@@ -1,0 +1,26 @@
+{
+  "name": "industrial",
+
+  "cursorColor": "#856F2C",
+  "selectionBackground": "#AE9D69",
+
+  "background": "#D5D0C2",
+  "foreground": "#856F2C",
+
+  "black": "#C0B9A4",
+  "blue": "#2D72B7",
+  "cyan": "#28A385",
+  "green": "#6E9932",
+  "purple": "#5B2DB7",
+  "red": "#B7392D",
+  "white": "#856F2C",
+  "yellow": "#B7722D",
+  "brightBlack": "#C0B9A4",
+  "brightBlue": "#2D72B7",
+  "brightCyan": "#28A385",
+  "brightGreen": "#6E9932",
+  "brightPurple": "#5B2DB7",
+  "brightRed": "#B7392D",
+  "brightWhite": "#856F2C",
+  "brightYellow": "#B7722D"
+}

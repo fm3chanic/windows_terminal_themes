@@ -1,0 +1,26 @@
+{
+  "name": "terminalv3",
+
+  "cursorColor": "#EAADB2",
+  "selectionBackground": "#7A5155",
+
+  "background": "#1b1818",
+  "foreground": "#EAADB2",
+
+  "black": "#363030",
+  "blue": "#8b99c1",
+  "cyan": "#93D1D1",
+  "green": "#b5c587",
+  "purple": "#c18bb8",
+  "red": "#D68575",
+  "white": "#EAADB2",
+  "yellow": "#DBD270",
+  "brightBlack": "#363030",
+  "brightBlue": "#8b99c1",
+  "brightCyan": "#93D1D1",
+  "brightGreen": "#b5c587",
+  "brightPurple": "#c18bb8",
+  "brightRed": "#D68575",
+  "brightWhite": "#EAADB2",
+  "brightYellow": "#DBD270"
+}

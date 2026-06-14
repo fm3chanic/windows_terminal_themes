@@ -1,13 +1,13 @@
 {
-  "name": "adeptus-mechanicus-dark",
+  "name": "nordic",
   "tab": {
-    "background": "#492731FF",
+    "background": "#222E34FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#492731FF",
-    "unfocusedBackground": "#95B6AFFF"
+    "background": "#222E34FF",
+    "unfocusedBackground": "#8BABADFF"
   },
   "window": {
     "applicationTheme": "dark",

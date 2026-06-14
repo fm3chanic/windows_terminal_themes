@@ -1,13 +1,13 @@
 {
-  "name": "adeptus-mechanicus-dark",
+  "name": "mining-and-crafting",
   "tab": {
-    "background": "#492731FF",
+    "background": "#272C30FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#492731FF",
-    "unfocusedBackground": "#95B6AFFF"
+    "background": "#272C30FF",
+    "unfocusedBackground": "#88B08DFF"
   },
   "window": {
     "applicationTheme": "dark",

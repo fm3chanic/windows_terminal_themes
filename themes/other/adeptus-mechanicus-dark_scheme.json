@@ -1,11 +1,11 @@
 {
   "name": "adeptus-mechanicus-dark",
 
-  "cursorColor": "#d1d8e0",
-  "selectionBackground": "#6d7278",
+  "cursorColor": "#C6EAE2",
+  "selectionBackground": "#687C79",
 
   "background": "#492731",
-  "foreground": "#d1d8e0",
+  "foreground": "#C6EAE2",
 
   "black": "#6A3846",
   "blue": "#8ba6c1",
@@ -13,7 +13,7 @@
   "green": "#b5c587",
   "purple": "#a68bc1",
   "red": "#c58796",
-  "white": "#d1d8e0",
+  "white": "#C6EAE2",
   "yellow": "#c99482",
   "brightBlack": "#6A3846",
   "brightBlue": "#8ba6c1",
@@ -21,6 +21,6 @@
   "brightGreen": "#b5c587",
   "brightPurple": "#a68bc1",
   "brightRed": "#c58796",
-  "brightWhite": "#d1d8e0",
+  "brightWhite": "#C6EAE2",
   "brightYellow": "#c99482"
 }

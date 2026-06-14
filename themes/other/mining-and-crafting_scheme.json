@@ -1,0 +1,26 @@
+{
+  "name": "mining-and-crafting",
+
+  "cursorColor": "#B7E7BC",
+  "selectionBackground": "#84625D",
+
+  "background": "#272C30",
+  "foreground": "#B7E7BC",
+
+  "black": "#3E464C",
+  "blue": "#4848D1",
+  "cyan": "#53C4C6",
+  "green": "#4FCA68",
+  "purple": "#AD53C6",
+  "red": "#D24753",
+  "white": "#B7E7BC",
+  "yellow": "#D1AE48",
+  "brightBlack": "#3E464C",
+  "brightBlue": "#4848D1",
+  "brightCyan": "#53C4C6",
+  "brightGreen": "#4FCA68",
+  "brightPurple": "#AD53C6",
+  "brightRed": "#D24753",
+  "brightWhite": "#B7E7BC",
+  "brightYellow": "#D1AE48"
+}

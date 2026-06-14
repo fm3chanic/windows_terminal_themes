@@ -1,0 +1,26 @@
+{
+  "name": "nordic",
+
+  "cursorColor": "#C7D6D8",
+  "selectionBackground": "#5E7C83",
+
+  "background": "#222E34",
+  "foreground": "#C7D6D8",
+
+  "black": "#364852",
+  "blue": "#65A1CB",
+  "cyan": "#6FC1AD",
+  "green": "#8CBF71",
+  "purple": "#AD6FC1",
+  "red": "#CB656D",
+  "white": "#C7D6D8",
+  "yellow": "#DBC355",
+  "brightBlack": "#364852",
+  "brightBlue": "#65A1CB",
+  "brightCyan": "#6FC1AD",
+  "brightGreen": "#8CBF71",
+  "brightPurple": "#AD6FC1",
+  "brightRed": "#CB656D",
+  "brightWhite": "#C7D6D8",
+  "brightYellow": "#DBC355"
+}

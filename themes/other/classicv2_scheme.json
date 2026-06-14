@@ -1,0 +1,26 @@
+{
+  "name": "classicv2",
+
+  "cursorColor": "#E4E5E6",
+  "selectionBackground": "#6B6260",
+
+  "background": "#1A1818",
+  "foreground": "#E4E5E6",
+
+  "black": "#353130",
+  "blue": "#6599CC",
+  "cyan": "#65CCB2",
+  "green": "#A1CC65",
+  "purple": "#8765CC",
+  "red": "#CC656E",
+  "white": "#E4E5E6",
+  "yellow": "#E4CF67",
+  "brightBlack": "#353130",
+  "brightBlue": "#6599CC",
+  "brightCyan": "#65CCB2",
+  "brightGreen": "#A1CC65",
+  "brightPurple": "#8765CC",
+  "brightRed": "#CC656E",
+  "brightWhite": "#E4E5E6",
+  "brightYellow": "#E4CF67"
+}

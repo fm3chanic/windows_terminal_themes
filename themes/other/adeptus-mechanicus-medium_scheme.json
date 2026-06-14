@@ -1,0 +1,26 @@
+{
+  "name": "adeptus-mechanicus-medium",
+
+  "cursorColor": "#C3E9E1",
+  "selectionBackground": "#7C928E",
+
+  "background": "#623542",
+  "foreground": "#C3E9E1",
+
+  "black": "#844759",
+  "blue": "#8A7AB8",
+  "cyan": "#7AA4B8",
+  "green": "#7AB894",
+  "purple": "#B07AB8",
+  "red": "#B77B7B",
+  "white": "#C3E9E1",
+  "yellow": "#CCBB66",
+  "brightBlack": "#844759",
+  "brightBlue": "#8A7AB8",
+  "brightCyan": "#7AA4B8",
+  "brightGreen": "#7AB894",
+  "brightPurple": "#B07AB8",
+  "brightRed": "#B77B7B",
+  "brightWhite": "#C3E9E1",
+  "brightYellow": "#CCBB66"
+}

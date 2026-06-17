@@ -1,0 +1,26 @@
+{
+  "name": "victorian",
+
+  "cursorColor": "#BECCCC",
+  "selectionBackground": "#867759",
+
+  "background": "#302E29",
+  "foreground": "#BECCCC",
+
+  "black": "#4A463F",
+  "blue": "#6E90A8",
+  "cyan": "#6EA890",
+  "green": "#77A86D",
+  "purple": "#A86D9D",
+  "red": "#AE6874",
+  "white": "#BECCCC",
+  "yellow": "#D8C075",
+  "brightBlack": "#4A463F",
+  "brightBlue": "#6E90A8",
+  "brightCyan": "#6EA890",
+  "brightGreen": "#77A86D",
+  "brightPurple": "#A86D9D",
+  "brightRed": "#AE6874",
+  "brightWhite": "#BECCCC",
+  "brightYellow": "#D8C075"
+}

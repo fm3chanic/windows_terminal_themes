@@ -1,0 +1,16 @@
+{
+  "name": "victorian",
+  "tab": {
+    "background": "#302E29FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#302E29FF",
+    "unfocusedBackground": "#8A9B9BFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

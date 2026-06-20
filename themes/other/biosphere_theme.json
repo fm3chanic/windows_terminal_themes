@@ -1,13 +1,13 @@
 {
-  "name": "cloud-forest",
+  "name": "biosphere",
   "tab": {
-    "background": "#2D4531FF",
+    "background": "#27302EFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#2D4531FF",
-    "unfocusedBackground": "#AAC7C7FF"
+    "background": "#27302EFF",
+    "unfocusedBackground": "#8C949BFF"
   },
   "window": {
     "applicationTheme": "dark",

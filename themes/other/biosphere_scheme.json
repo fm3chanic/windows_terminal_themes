@@ -1,0 +1,26 @@
+{
+  "name": "biosphere",
+
+  "cursorColor": "#c2c6cb",
+  "selectionBackground": "#687077",
+
+  "background": "#27302e",
+  "foreground": "#c2c6cb",
+
+  "black": "#3e4b48",
+  "blue": "#6aaeae",
+  "cyan": "#71a776",
+  "green": "#91ae68",
+  "purple": "#a672a4",
+  "red": "#be7077",
+  "white": "#c2c6cb",
+  "yellow": "#c5ad65",
+  "brightBlack": "#3e4b48",
+  "brightBlue": "#6aaeae",
+  "brightCyan": "#71a776",
+  "brightGreen": "#91ae68",
+  "brightPurple": "#a672a4",
+  "brightRed": "#be7077",
+  "brightWhite": "#c2c6cb",
+  "brightYellow": "#c5ad65"
+}

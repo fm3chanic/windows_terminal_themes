@@ -1,12 +1,12 @@
 {
   "name": "victorian",
   "tab": {
-    "background": "#302E29FF",
+    "background": "#292723FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#302E29FF",
+    "background": "#292723FF",
     "unfocusedBackground": "#8A9B9BFF"
   },
   "window": {

@@ -1,0 +1,26 @@
+{
+  "name": "industrial-dark",
+
+  "cursorColor": "#E4E2C5",
+  "selectionBackground": "#7B7F68",
+
+  "background": "#313326",
+  "foreground": "#E4E2C5",
+
+  "black": "#4A4D41",
+  "blue": "#6588CC",
+  "cyan": "#71B7C1",
+  "green": "#B3C271",
+  "purple": "#DF53AC",
+  "red": "#E25C50",
+  "white": "#E4E2C5",
+  "yellow": "#E0A850",
+  "brightBlack": "#4A4D41",
+  "brightBlue": "#6588CC",
+  "brightCyan": "#71B7C1",
+  "brightGreen": "#B3C271",
+  "brightPurple": "#DF53AC",
+  "brightRed": "#E25C50",
+  "brightWhite": "#E4E2C5",
+  "brightYellow": "#E0A850"
+}

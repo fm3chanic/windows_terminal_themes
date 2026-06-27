@@ -1,0 +1,26 @@
+{
+  "name": "cyrodiil-dark",
+
+  "cursorColor": "#C5BFA5",
+  "selectionBackground": "#5D5955",
+
+  "background": "#191A1C",
+  "foreground": "#C5BFA5",
+
+  "black": "#2E3238",
+  "blue": "#6C5FBA",
+  "cyan": "#5FBA9E",
+  "green": "#95BA5F",
+  "purple": "#BA5F9F",
+  "red": "#BB5E76",
+  "white": "#C5BFA5",
+  "yellow": "#D7B042",
+  "brightBlack": "#2E3238",
+  "brightBlue": "#6C5FBA",
+  "brightCyan": "#5FBA9E",
+  "brightGreen": "#95BA5F",
+  "brightPurple": "#BA5F9F",
+  "brightRed": "#BB5E76",
+  "brightWhite": "#C5BFA5",
+  "brightYellow": "#D7B042"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "nordic-light",
+
+  "cursorColor": "#151D2B",
+  "selectionBackground": "#6586A9",
+
+  "background": "#D4E5ED",
+  "foreground": "#151D2B",
+
+  "black": "#A2B8CD",
+  "blue": "#2A54A3",
+  "cyan": "#2AA2A3",
+  "green": "#2AA361",
+  "purple": "#A32A68",
+  "red": "#A32A2A",
+  "white": "#151D2B",
+  "yellow": "#A56428",
+  "brightBlack": "#A2B8CD",
+  "brightBlue": "#2A54A3",
+  "brightCyan": "#2AA2A3",
+  "brightGreen": "#2AA361",
+  "brightPurple": "#A32A68",
+  "brightRed": "#A32A2A",
+  "brightWhite": "#151D2B",
+  "brightYellow": "#A56428"
+}

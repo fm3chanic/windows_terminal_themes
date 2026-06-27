@@ -1,13 +1,13 @@
 {
-  "name": "industrial",
+  "name": "cyrodiil-light",
   "tab": {
-    "background": "#D5D0C2FF",
+    "background": "#F3EEDBFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#D5D0C2FF",
-    "unfocusedBackground": "#A08944FF"
+    "background": "#F3EEDBFF",
+    "unfocusedBackground": "#665C58FF"
   },
   "window": {
     "applicationTheme": "light",

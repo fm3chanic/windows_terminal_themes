@@ -1,13 +1,13 @@
 {
-  "name": "neo-industrial-dark",
+  "name": "cyrodiil-dark",
   "tab": {
-    "background": "#272923FF",
+    "background": "#191A1CFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#272923FF",
-    "unfocusedBackground": "#C0BDAFFF"
+    "background": "#191A1CFF",
+    "unfocusedBackground": "#9E9167FF"
   },
   "window": {
     "applicationTheme": "dark",

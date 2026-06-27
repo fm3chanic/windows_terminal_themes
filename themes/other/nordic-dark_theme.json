@@ -1,13 +1,13 @@
 {
-  "name": "neo-industrial",
+  "name": "nordic-dark",
   "tab": {
-    "background": "#3A3D34FF",
+    "background": "#222E34FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#3A3D34FF",
-    "unfocusedBackground": "#C0BDAFFF"
+    "background": "#222E34FF",
+    "unfocusedBackground": "#8BABADFF"
   },
   "window": {
     "applicationTheme": "dark",

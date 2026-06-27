@@ -1,13 +1,13 @@
 {
-  "name": "cavern",
+  "name": "cyrodiil-medium",
   "tab": {
-    "background": "#272E2EFF",
+    "background": "#B7997BFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#272E2EFF",
-    "unfocusedBackground": "#6FB3A2FF"
+    "background": "#B7997BFF",
+    "unfocusedBackground": "#3B312BFF"
   },
   "window": {
     "applicationTheme": "dark",

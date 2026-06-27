@@ -1,0 +1,16 @@
+{
+  "name": "nordic-light",
+  "tab": {
+    "background": "#D4E5EDFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#D4E5EDFF",
+    "unfocusedBackground": "#314963FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}

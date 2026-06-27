@@ -1,13 +1,13 @@
 {
-  "name": "cyrodiil",
+  "name": "unreal",
   "tab": {
-    "background": "#B7997BFF",
+    "background": "#020E1EFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#B7997BFF",
-    "unfocusedBackground": "#3B312BFF"
+    "background": "#020E1EFF",
+    "unfocusedBackground": "#59DAF4FF"
   },
   "window": {
     "applicationTheme": "dark",

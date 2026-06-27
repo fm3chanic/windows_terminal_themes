@@ -1,13 +1,13 @@
 {
-  "name": "nordic",
+  "name": "industrial-dark",
   "tab": {
-    "background": "#222E34FF",
+    "background": "#313326FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#222E34FF",
-    "unfocusedBackground": "#8BABADFF"
+    "background": "#313326FF",
+    "unfocusedBackground": "#B3B18BFF"
   },
   "window": {
     "applicationTheme": "dark",

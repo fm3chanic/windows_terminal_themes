@@ -1,0 +1,26 @@
+{
+  "name": "unreal",
+
+  "cursorColor": "#B7EFFA",
+  "selectionBackground": "#0E9BA3",
+
+  "background": "#020E1E",
+  "foreground": "#B7EFFA",
+
+  "black": "#00515C",
+  "blue": "#2E68BA",
+  "cyan": "#A2E08D",
+  "green": "#6B9752",
+  "purple": "#D26DE3",
+  "red": "#C44D69",
+  "white": "#B7EFFA",
+  "yellow": "#E48269",
+  "brightBlack": "#00515C",
+  "brightBlue": "#2E68BA",
+  "brightCyan": "#A2E08D",
+  "brightGreen": "#6B9752",
+  "brightPurple": "#D26DE3",
+  "brightRed": "#C44D69",
+  "brightWhite": "#B7EFFA",
+  "brightYellow": "#E48269"
+}

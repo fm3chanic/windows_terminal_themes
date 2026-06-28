@@ -1,12 +1,12 @@
 {
   "name": "industrial-dark",
   "tab": {
-    "background": "#313326FF",
+    "background": "#303127FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#313326FF",
+    "background": "#303127FF",
     "unfocusedBackground": "#B3B18BFF"
   },
   "window": {

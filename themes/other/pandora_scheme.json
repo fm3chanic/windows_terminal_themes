@@ -1,0 +1,26 @@
+{
+  "name": "pandora",
+
+  "cursorColor": "#2b171e",
+  "selectionBackground": "#8c8472",
+
+  "background": "#d1d1ba",
+  "foreground": "#2b171e",
+
+  "black": "#bcbc9b",
+  "blue": "#29507e",
+  "cyan": "#2a727c",
+  "green": "#6d7b2f",
+  "purple": "#822481",
+  "red": "#882d22",
+  "white": "#2b171e",
+  "yellow": "#976611",
+  "brightBlack": "#bcbc9b",
+  "brightBlue": "#29507e",
+  "brightCyan": "#2a727c",
+  "brightGreen": "#6d7b2f",
+  "brightPurple": "#822481",
+  "brightRed": "#882d22",
+  "brightWhite": "#2b171e",
+  "brightYellow": "#976611"
+}

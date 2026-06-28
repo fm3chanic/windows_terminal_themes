@@ -1,13 +1,13 @@
 {
-  "name": "ice-shelf",
+  "name": "pandora",
   "tab": {
-    "background": "#CDDEE4FF",
+    "background": "#D1D1BAFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#CDDEE4FF",
-    "unfocusedBackground": "#4C5F67FF"
+    "background": "#D1D1BAFF",
+    "unfocusedBackground": "#63464FFF"
   },
   "window": {
     "applicationTheme": "light",

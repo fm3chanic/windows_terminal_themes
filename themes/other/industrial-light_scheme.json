@@ -1,11 +1,11 @@
 {
   "name": "industrial-light",
 
-  "cursorColor": "#856F2C",
+  "cursorColor": "#725F26",
   "selectionBackground": "#AE9D69",
 
   "background": "#D5D0C2",
-  "foreground": "#856F2C",
+  "foreground": "#725F26",
 
   "black": "#C0B9A4",
   "blue": "#23598F",
@@ -13,7 +13,7 @@
   "green": "#60862B",
   "purple": "#47238F",
   "red": "#8F2C23",
-  "white": "#856F2C",
+  "white": "#725F26",
   "yellow": "#A05811",
   "brightBlack": "#C0B9A4",
   "brightBlue": "#23598F",
@@ -21,6 +21,6 @@
   "brightGreen": "#60862B",
   "brightPurple": "#47238F",
   "brightRed": "#8F2C23",
-  "brightWhite": "#856F2C",
+  "brightWhite": "#725F26",
   "brightYellow": "#A05811"
 }

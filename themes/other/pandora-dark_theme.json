@@ -1,0 +1,16 @@
+{
+  "name": "pandora-dark",
+  "tab": {
+    "background": "#241D1FFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#241D1FFF",
+    "unfocusedBackground": "#A7A77BFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

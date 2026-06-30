@@ -1,0 +1,26 @@
+{
+  "name": "Spruce-and-Icicles",
+
+  "cursorColor": "#caecf6",
+  "selectionBackground": "#639aab",
+
+  "background": "#1b1317",
+  "foreground": "#caecf6",
+
+  "black": "#3a2a33",
+  "blue": "#8182ca",
+  "cyan": "#79d2ae",
+  "green": "#c0c685",
+  "purple": "#bf81ca",
+  "red": "#ce837d",
+  "white": "#caecf6",
+  "yellow": "#e0ad6b",
+  "brightBlack": "#3a2a33",
+  "brightBlue": "#8182ca",
+  "brightCyan": "#79d2ae",
+  "brightGreen": "#c0c685",
+  "brightPurple": "#bf81ca",
+  "brightRed": "#ce837d",
+  "brightWhite": "#caecf6",
+  "brightYellow": "#e0ad6b"
+}

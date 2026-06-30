@@ -1,0 +1,26 @@
+{
+  "name": "pandora-dark",
+
+  "cursorColor": "#CFCFB8",
+  "selectionBackground": "#70695B",
+
+  "background": "#241D1F",
+  "foreground": "#CFCFB8",
+
+  "black": "#413337",
+  "blue": "#698CAE",
+  "cyan": "#69AE8C",
+  "green": "#9DAE69",
+  "purple": "#AE6997",
+  "red": "#AE7569",
+  "white": "#CFCFB8",
+  "yellow": "#D6B75B",
+  "brightBlack": "#413337",
+  "brightBlue": "#698CAE",
+  "brightCyan": "#69AE8C",
+  "brightGreen": "#9DAE69",
+  "brightPurple": "#AE6997",
+  "brightRed": "#AE7569",
+  "brightWhite": "#CFCFB8",
+  "brightYellow": "#D6B75B"
+}

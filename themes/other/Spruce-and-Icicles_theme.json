@@ -1,0 +1,16 @@
+{
+  "name": "Spruce-and-Icicles",
+  "tab": {
+    "background": "#1B1317FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1B1317FF",
+    "unfocusedBackground": "#8EBECCFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

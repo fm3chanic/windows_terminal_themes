@@ -1,0 +1,26 @@
+{
+  "name": "cryochamber",
+
+  "cursorColor": "#c0c9af",
+  "selectionBackground": "#646d5d",
+
+  "background": "#1b1a19",
+  "foreground": "#c0c9af",
+
+  "black": "#363432",
+  "blue": "#5fa2bb",
+  "cyan": "#6baf87",
+  "green": "#97ac6b",
+  "purple": "#bb5fba",
+  "red": "#bb5f7e",
+  "white": "#c0c9af",
+  "yellow": "#c68a3a",
+  "brightBlack": "#363432",
+  "brightBlue": "#5fa2bb",
+  "brightCyan": "#6baf87",
+  "brightGreen": "#97ac6b",
+  "brightPurple": "#bb5fba",
+  "brightRed": "#bb5f7e",
+  "brightWhite": "#c0c9af",
+  "brightYellow": "#c68a3a"
+}

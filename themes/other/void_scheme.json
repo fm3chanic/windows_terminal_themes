@@ -1,0 +1,26 @@
+{
+  "name": "void",
+
+  "cursorColor": "#aeebd6",
+  "selectionBackground": "#458670",
+
+  "background": "#201222",
+  "foreground": "#aeebd6",
+
+  "black": "#402344",
+  "blue": "#6a7cc6",
+  "cyan": "#6dc3a9",
+  "green": "#a7c36d",
+  "purple": "#c769aa",
+  "red": "#d65a7e",
+  "white": "#aeebd6",
+  "yellow": "#d6945a",
+  "brightBlack": "#402344",
+  "brightBlue": "#6a7cc6",
+  "brightCyan": "#6dc3a9",
+  "brightGreen": "#a7c36d",
+  "brightPurple": "#c769aa",
+  "brightRed": "#d65a7e",
+  "brightWhite": "#aeebd6",
+  "brightYellow": "#d6945a"
+}

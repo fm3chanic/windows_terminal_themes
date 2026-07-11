@@ -1,13 +1,13 @@
 {
-  "name": "breath-dark",
+  "name": "CmdAdvanced",
   "tab": {
-    "background": "#292D2CFF",
+    "background": "#1B191CFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#292D2CFF",
-    "unfocusedBackground": "#82A0A6FF"
+    "background": "#282529FF",
+    "unfocusedBackground": "#353136FF"
   },
   "window": {
     "applicationTheme": "dark",

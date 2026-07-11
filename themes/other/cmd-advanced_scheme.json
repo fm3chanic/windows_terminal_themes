@@ -1,0 +1,26 @@
+{
+  "name": "CmdAdvanced",
+
+  "cursorColor": "#D1CCD1",
+  "selectionBackground": "#6A626C",
+
+  "background": "#1B191C",
+  "foreground": "#BFB9BF",
+
+  "black": "#353136",
+  "blue": "#3A59AE",
+  "cyan": "#3AAEAD",
+  "green": "#91AE3A",
+  "purple": "#AE3A82",
+  "red": "#AC3A3A",
+  "white": "#BFB9BF",
+  "yellow": "#C69D53",
+  "brightBlack": "#504A51",
+  "brightBlue": "#6681CC",
+  "brightCyan": "#54C6C5",
+  "brightGreen": "#A9C653",
+  "brightPurple": "#C55299",
+  "brightRed": "#E05050",
+  "brightWhite": "#D1CCD1",
+  "brightYellow": "#F1BC5B"
+}

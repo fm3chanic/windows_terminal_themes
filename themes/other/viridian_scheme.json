@@ -1,0 +1,26 @@
+{
+  "name": "viridian",
+
+  "cursorColor": "#d9d3c5",
+  "selectionBackground": "#988059",
+
+  "background": "#373631",
+  "foreground": "#d9d3c5",
+
+  "black": "#515048",
+  "blue": "#807abc",
+  "cyan": "#76bfa2",
+  "green": "#92Ba73",
+  "purple": "#ad7abc",
+  "red": "#bc7486",
+  "white": "#d9d3c5",
+  "yellow": "#d2a963",
+  "brightBlack": "#515048",
+  "brightBlue": "#807abc",
+  "brightCyan": "#76bfa2",
+  "brightGreen": "#92Ba73",
+  "brightPurple": "#ad7abc",
+  "brightRed": "#bc7486",
+  "brightWhite": "#d9d3c5",
+  "brightYellow": "#d2a963"
+}

@@ -1,12 +1,12 @@
 {
   "name": "viridian",
   "tab": {
-    "background": "#373631FF",
+    "background": "#37382FFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#373631FF",
+    "background": "#37382FFF",
     "unfocusedBackground": "#B7AC90FF"
   },
   "window": {

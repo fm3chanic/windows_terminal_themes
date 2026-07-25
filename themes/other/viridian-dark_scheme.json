@@ -1,0 +1,26 @@
+{
+  "name": "viridian-dark",
+
+  "cursorColor": "#D6D0C1",
+  "selectionBackground": "#8A7450",
+
+  "background": "#2B2C25",
+  "foreground": "#D6D0C1",
+
+  "black": "#46483C",
+  "blue": "#8F8AC0",
+  "cyan": "#8AC0B2",
+  "green": "#B3C08A",
+  "purple": "#B48AC0",
+  "red": "#C48696",
+  "white": "#D6D0C1",
+  "yellow": "#D7BE74",
+  "brightBlack": "#46483C",
+  "brightBlue": "#8F8AC0",
+  "brightCyan": "#8AC0B2",
+  "brightGreen": "#B3C08A",
+  "brightPurple": "#B48AC0",
+  "brightRed": "#C48696",
+  "brightWhite": "#D6D0C1",
+  "brightYellow": "#D7BE74"
+}

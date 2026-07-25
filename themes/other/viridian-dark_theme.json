@@ -1,0 +1,16 @@
+{
+  "name": "viridian-dark",
+  "tab": {
+    "background": "#2B2C25FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2B2C25FF",
+    "unfocusedBackground": "#AEA283FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

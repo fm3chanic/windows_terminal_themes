@@ -1,12 +1,12 @@
 {
   "name": "cryochamber",
   "tab": {
-    "background": "#1B1A19FF",
+    "background": "#1C1A17FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#1B1A19FF",
+    "background": "#1C1A17FF",
     "unfocusedBackground": "#899481FF"
   },
   "window": {

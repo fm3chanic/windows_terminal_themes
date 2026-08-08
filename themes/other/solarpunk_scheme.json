@@ -1,26 +1,26 @@
 {
   "name": "solarpunk",
 
-  "cursorColor": "#eceee8",
-  "selectionBackground": "#728c97",
+  "cursorColor": "#DADED3",
+  "selectionBackground": "#617A83",
 
-  "background": "#283f48",
-  "foreground": "#eceee8",
+  "background": "#1B2B31",
+  "foreground": "#DADED3",
 
-  "black": "#3b5c68",
+  "black": "#2E4851",
   "blue": "#61a6d1",
   "cyan": "#61d1b1",
   "green": "#afe085",
   "purple": "#F0F3BD",
   "red": "#d65c5e",
-  "white": "#eceee8",
+  "white": "#DADED3",
   "yellow": "#ebba47",
-  "brightBlack": "#3b5c68",
+  "brightBlack": "#2E4851",
   "brightBlue": "#61a6d1",
   "brightCyan": "#61d1b1",
   "brightGreen": "#afe085",
   "brightPurple": "#F0F3BD",
   "brightRed": "#d65c5e",
-  "brightWhite": "#eceee8",
+  "brightWhite": "#DADED3",
   "brightYellow": "#ebba47"
 }

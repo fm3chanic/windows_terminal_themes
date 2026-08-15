@@ -1,0 +1,26 @@
+{
+  "name": "faith",
+
+  "cursorColor": "#fff1d5",
+  "selectionBackground": "#7f537d",
+
+  "background": "#332132",
+  "foreground": "#fff1d5",
+
+  "black": "#553753",
+  "blue": "#6b67b1",
+  "cyan": "#5ebab5",
+  "green": "#8cb068",
+  "purple": "#b1677b",
+  "red": "#ba6c5e",
+  "white": "#fff1d5",
+  "yellow": "#baab5e",
+  "brightBlack": "#553753",
+  "brightBlue": "#6b67b1",
+  "brightCyan": "#5ebab5",
+  "brightGreen": "#8cb068",
+  "brightPurple": "#b1677b",
+  "brightRed": "#ba6c5e",
+  "brightWhite": "#fff1d5",
+  "brightYellow": "#baab5e"
+}

@@ -1,13 +1,13 @@
 {
-  "name": "viridian-darker",
+  "name": "faith",
   "tab": {
-    "background": "#23241EFF",
+    "background": "#332132FF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#23241EFF",
-    "unfocusedBackground": "#A89B79FF"
+    "background": "#332132FF",
+    "unfocusedBackground": "#D4C09AFF"
   },
   "window": {
     "applicationTheme": "dark",

@@ -1,0 +1,16 @@
+{
+  "name": "millenium",
+  "tab": {
+    "background": "#2F2A30FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2F2A30FF",
+    "unfocusedBackground": "#938696FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

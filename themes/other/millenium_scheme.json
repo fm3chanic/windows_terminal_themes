@@ -1,0 +1,26 @@
+{
+  "name": "millenium",
+
+  "cursorColor": "#b6adb8",
+  "selectionBackground": "#695d6c",
+
+  "background": "#2f2a30",
+  "foreground": "#b6adb8",
+
+  "black": "#48404a",
+  "blue": "#97b3d5",
+  "cyan": "#92cddc",
+  "green": "#c4d79b",
+  "purple": "#b1a0c7",
+  "red": "#da9694",
+  "white": "#b6adb8",
+  "yellow": "#fabf8f",
+  "brightBlack": "#48404a",
+  "brightBlue": "#97b3d5",
+  "brightCyan": "#92cddc",
+  "brightGreen": "#c4d79b",
+  "brightPurple": "#b1a0c7",
+  "brightRed": "#da9694",
+  "brightWhite": "#b6adb8",
+  "brightYellow": "#fabf8f"
+}

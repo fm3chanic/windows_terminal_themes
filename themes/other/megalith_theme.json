@@ -1,13 +1,13 @@
 {
-  "name": "millenium",
+  "name": "megalith",
   "tab": {
-    "background": "#2E2B2FFF",
+    "background": "#33362EFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#2E2B2FFF",
-    "unfocusedBackground": "#918993FF"
+    "background": "#33362EFF",
+    "unfocusedBackground": "#979D8BFF"
   },
   "window": {
     "applicationTheme": "dark",

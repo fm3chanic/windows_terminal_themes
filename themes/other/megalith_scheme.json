@@ -1,0 +1,26 @@
+{
+  "name": "megalith",
+
+  "cursorColor": "#b9bdb1",
+  "selectionBackground": "#747a68",
+
+  "background": "#33362e",
+  "foreground": "#b9bdb1",
+
+  "black": "#4f5347",
+  "blue": "#8d7bb8",
+  "cyan": "#7bb1b8",
+  "green": "#91b87b",
+  "purple": "#b17bb8",
+  "red": "#cd7867",
+  "white": "#b9bdb1",
+  "yellow": "#dcaf57",
+  "brightBlack": "#4f5347",
+  "brightBlue": "#8d7bb8",
+  "brightCyan": "#7bb1b8",
+  "brightGreen": "#91b87b",
+  "brightPurple": "#b17bb8",
+  "brightRed": "#cd7867",
+  "brightWhite": "#b9bdb1",
+  "brightYellow": "#dcaf57"
+}

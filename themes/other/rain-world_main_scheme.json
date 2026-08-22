@@ -1,0 +1,26 @@
+{
+  "name": "rain-world_main",
+
+  "cursorColor": "#B9DAE5",
+  "selectionBackground": "#74766C",
+
+  "background": "#282D2E",
+  "foreground": "#B9DAE5",
+
+  "black": "#40494A",
+  "blue": "#7E85CC",
+  "cyan": "#7BB8B7",
+  "green": "#A4B77A",
+  "purple": "#BA77BA",
+  "red": "#BC758C",
+  "white": "#B9DAE5",
+  "yellow": "#E0BE6B",
+  "brightBlack": "#40494A",
+  "brightBlue": "#7E85CC",
+  "brightCyan": "#7BB8B7",
+  "brightGreen": "#A4B77A",
+  "brightPurple": "#BA77BA",
+  "brightRed": "#BC758C",
+  "brightWhite": "#B9DAE5",
+  "brightYellow": "#E0BE6B"
+}

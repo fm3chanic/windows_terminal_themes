@@ -1,0 +1,16 @@
+{
+  "name": "rain-world_sand",
+  "tab": {
+    "background": "#352322FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#352322FF",
+    "unfocusedBackground": "#C49B75FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

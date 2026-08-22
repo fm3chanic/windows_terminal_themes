@@ -1,0 +1,26 @@
+{
+  "name": "rain-world_jungle",
+
+  "cursorColor": "#D7E7B6",
+  "selectionBackground": "#7F924F",
+
+  "background": "#2F3522",
+  "foreground": "#D7E7B6",
+
+  "black": "#4B5336",
+  "blue": "#7E85CC",
+  "cyan": "#7BB8B7",
+  "green": "#7AB77A",
+  "purple": "#BA77BA",
+  "red": "#BD748C",
+  "white": "#D7E7B6",
+  "yellow": "#E0BE6B",
+  "brightBlack": "#4B5336",
+  "brightBlue": "#7E85CC",
+  "brightCyan": "#7BB8B7",
+  "brightGreen": "#7AB77A",
+  "brightPurple": "#BA77BA",
+  "brightRed": "#BD748C",
+  "brightWhite": "#D7E7B6",
+  "brightYellow": "#E0BE6B"
+}

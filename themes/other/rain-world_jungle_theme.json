@@ -1,0 +1,16 @@
+{
+  "name": "rain-world_jungle",
+  "tab": {
+    "background": "#2F3522FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2F3522FF",
+    "unfocusedBackground": "#A7BA7FFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

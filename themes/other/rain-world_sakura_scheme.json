@@ -1,0 +1,26 @@
+{
+  "name": "rain-world_sakura",
+
+  "cursorColor": "#E4B7D0",
+  "selectionBackground": "#904E6F",
+
+  "background": "#2F1E38",
+  "foreground": "#E4B7D0",
+
+  "black": "#4B305A",
+  "blue": "#7E85CC",
+  "cyan": "#7BB8B7",
+  "green": "#A4B77A",
+  "purple": "#BA77BA",
+  "red": "#C5786C",
+  "white": "#E4B7D0",
+  "yellow": "#E0BE6B",
+  "brightBlack": "#4B305A",
+  "brightBlue": "#7E85CC",
+  "brightCyan": "#7BB8B7",
+  "brightGreen": "#A4B77A",
+  "brightPurple": "#BA77BA",
+  "brightRed": "#C5786C",
+  "brightWhite": "#E4B7D0",
+  "brightYellow": "#E0BE6B"
+}

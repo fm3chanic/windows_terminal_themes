@@ -1,0 +1,16 @@
+{
+  "name": "rain-world_main",
+  "tab": {
+    "background": "#282D2EFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#282D2EFF",
+    "unfocusedBackground": "#84A9B5FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

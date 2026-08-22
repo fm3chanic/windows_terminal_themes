@@ -1,0 +1,26 @@
+{
+  "name": "rain-world_sand",
+
+  "cursorColor": "#EECEAF",
+  "selectionBackground": "#92714F",
+
+  "background": "#352322",
+  "foreground": "#EECEAF",
+
+  "black": "#553936",
+  "blue": "#7E85CC",
+  "cyan": "#7BB8B7",
+  "green": "#A4B77A",
+  "purple": "#BA77BA",
+  "red": "#C5776C",
+  "white": "#EECEAF",
+  "yellow": "#E0B06B",
+  "brightBlack": "#553936",
+  "brightBlue": "#7E85CC",
+  "brightCyan": "#7BB8B7",
+  "brightGreen": "#A4B77A",
+  "brightPurple": "#BA77BA",
+  "brightRed": "#C5776C",
+  "brightWhite": "#EECEAF",
+  "brightYellow": "#E0B06B"
+}

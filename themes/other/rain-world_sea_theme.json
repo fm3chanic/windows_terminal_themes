@@ -1,0 +1,16 @@
+{
+  "name": "rain-world_sea",
+  "tab": {
+    "background": "#253227FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#253227FF",
+    "unfocusedBackground": "#9B9FA0FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "rain-world_sakura",
+  "tab": {
+    "background": "#2F1E38FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#2F1E38FF",
+    "unfocusedBackground": "#BA7F9FFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "rain-world_sea",
+
+  "cursorColor": "#C6C9CE",
+  "selectionBackground": "#6C7670",
+
+  "background": "#253227",
+  "foreground": "#C6C9CE",
+
+  "black": "#3B503E",
+  "blue": "#7E85CC",
+  "cyan": "#7BB8B7",
+  "green": "#A4B77A",
+  "purple": "#BA77BA",
+  "red": "#BD748B",
+  "white": "#C6C9CE",
+  "yellow": "#E0BE6B",
+  "brightBlack": "#3B503E",
+  "brightBlue": "#7E85CC",
+  "brightCyan": "#7BB8B7",
+  "brightGreen": "#A4B77A",
+  "brightPurple": "#BA77BA",
+  "brightRed": "#BD748B",
+  "brightWhite": "#C6C9CE",
+  "brightYellow": "#E0BE6B"
+}

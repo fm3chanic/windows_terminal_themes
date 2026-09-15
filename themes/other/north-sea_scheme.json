@@ -1,0 +1,26 @@
+{
+  "name": "north-sea",
+
+  "cursorColor": "#CBD2CF",
+  "selectionBackground": "#677770",
+
+  "background": "#292F2C",
+  "foreground": "#CBD2CF",
+
+  "black": "#404A45",
+  "blue": "#738093",
+  "cyan": "#679E95",
+  "green": "#77966C",
+  "purple": "#AD7583",
+  "red": "#C3755F",
+  "white": "#CBD2CF",
+  "yellow": "#D4944F",
+  "brightBlack": "#404A45",
+  "brightBlue": "#738093",
+  "brightCyan": "#679E95",
+  "brightGreen": "#77966C",
+  "brightPurple": "#AD7583",
+  "brightRed": "#C3755F",
+  "brightWhite": "#CBD2CF",
+  "brightYellow": "#D4944F"
+}

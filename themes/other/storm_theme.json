@@ -1,0 +1,16 @@
+{
+  "name": "storm",
+  "tab": {
+    "background": "#1E2426FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#1E2426FF",
+    "unfocusedBackground": "#8CB1B5FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

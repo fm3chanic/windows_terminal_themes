@@ -1,0 +1,16 @@
+{
+  "name": "storm_256colors",
+  "tab": {
+    "background": "#262626FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#262626FF",
+    "unfocusedBackground": "#87AFAFFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

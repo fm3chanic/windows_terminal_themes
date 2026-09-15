@@ -1,0 +1,16 @@
+{
+  "name": "monastry",
+  "tab": {
+    "background": "#292823FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#292823FF",
+    "unfocusedBackground": "#C7B568FF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

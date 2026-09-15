@@ -1,0 +1,16 @@
+{
+  "name": "north-sea",
+  "tab": {
+    "background": "#292F2CFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#292F2CFF",
+    "unfocusedBackground": "#95A39DFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

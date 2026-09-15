@@ -1,0 +1,26 @@
+{
+  "name": "sunset",
+
+  "cursorColor": "#F0D9C3",
+  "selectionBackground": "#8A5A72",
+
+  "background": "#261E2E",
+  "foreground": "#F0D9C3",
+
+  "black": "#4E3349",
+  "blue": "#8A7AB8",
+  "cyan": "#7AB8B1",
+  "green": "#8DB87A",
+  "purple": "#B07AB8",
+  "red": "#C17070",
+  "white": "#F0D9C3",
+  "yellow": "#C1B970",
+  "brightBlack": "#4E3349",
+  "brightBlue": "#8A7AB8",
+  "brightCyan": "#7AB8B1",
+  "brightGreen": "#8DB87A",
+  "brightPurple": "#B07AB8",
+  "brightRed": "#C17070",
+  "brightWhite": "#F0D9C3",
+  "brightYellow": "#C1B970"
+}

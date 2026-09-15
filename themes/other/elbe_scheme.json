@@ -1,0 +1,26 @@
+{
+  "name": "elbe",
+
+  "cursorColor": "#D4D0C7",
+  "selectionBackground": "#82765C",
+
+  "background": "#362F22",
+  "foreground": "#D4D0C7",
+
+  "black": "#564A35",
+  "blue": "#738093",
+  "cyan": "#679E95",
+  "green": "#77966C",
+  "purple": "#AD7583",
+  "red": "#C3755F",
+  "white": "#D4D0C7",
+  "yellow": "#D4944F",
+  "brightBlack": "#564A35",
+  "brightBlue": "#738093",
+  "brightCyan": "#679E95",
+  "brightGreen": "#77966C",
+  "brightPurple": "#AD7583",
+  "brightRed": "#C3755F",
+  "brightWhite": "#D4D0C7",
+  "brightYellow": "#D4944F"
+}

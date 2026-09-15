@@ -1,0 +1,16 @@
+{
+  "name": "sunset",
+  "tab": {
+    "background": "#261E2EFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#261E2EFF",
+    "unfocusedBackground": "#C08A8AFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

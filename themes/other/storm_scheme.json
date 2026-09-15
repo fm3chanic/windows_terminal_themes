@@ -1,0 +1,26 @@
+{
+  "name": "storm",
+
+  "cursorColor": "#BEE1E5",
+  "selectionBackground": "#616E7B",
+
+  "background": "#1E2426",
+  "foreground": "#BEE1E5",
+
+  "black": "#343E41",
+  "blue": "#5361AC",
+  "cyan": "#53ACA4",
+  "green": "#59A665",
+  "purple": "#9159A6",
+  "red": "#B35D4C",
+  "white": "#BEE1E5",
+  "yellow": "#B2A14D",
+  "brightBlack": "#343E41",
+  "brightBlue": "#5361AC",
+  "brightCyan": "#53ACA4",
+  "brightGreen": "#59A665",
+  "brightPurple": "#9159A6",
+  "brightRed": "#B35D4C",
+  "brightWhite": "#BEE1E5",
+  "brightYellow": "#B2A14D"
+}

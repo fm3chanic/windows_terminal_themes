@@ -1,0 +1,26 @@
+{
+  "name": "storm_256colors",
+
+  "cursorColor": "#D7FFFF",
+  "selectionBackground": "#4E4E4E",
+
+  "background": "#262626",
+  "foreground": "#D7FFFF",
+
+  "black": "#3A3A3A",
+  "blue": "#5F5FAF",
+  "cyan": "#5FAFAF",
+  "green": "#5FAF5F",
+  "purple": "#875FAF",
+  "red": "#AF5F5F",
+  "white": "#D7FFFF",
+  "yellow": "#AFAF5F",
+  "brightBlack": "#3A3A3A",
+  "brightBlue": "#5F5FAF",
+  "brightCyan": "#5FAFAF",
+  "brightGreen": "#5FAF5F",
+  "brightPurple": "#875FAF",
+  "brightRed": "#AF5F5F",
+  "brightWhite": "#D7FFFF",
+  "brightYellow": "#AFAF5F"
+}

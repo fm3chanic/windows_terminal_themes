@@ -1,0 +1,26 @@
+{
+  "name": "viper_256colors",
+
+  "cursorColor": "#D7FFAF",
+  "selectionBackground": "#4E4E4E",
+
+  "background": "#262626",
+  "foreground": "#D7FFAF",
+
+  "black": "#3A3A3A",
+  "blue": "#875FAF",
+  "cyan": "#5FAFAF",
+  "green": "#5FAF5F",
+  "purple": "#D787AF",
+  "red": "#D75F5F",
+  "white": "#D7FFAF",
+  "yellow": "#D7AF5F",
+  "brightBlack": "#3A3A3A",
+  "brightBlue": "#875FAF",
+  "brightCyan": "#5FAFAF",
+  "brightGreen": "#5FAF5F",
+  "brightPurple": "#D787AF",
+  "brightRed": "#D75F5F",
+  "brightWhite": "#D7FFAF",
+  "brightYellow": "#D7AF5F"
+}

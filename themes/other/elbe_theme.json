@@ -1,0 +1,16 @@
+{
+  "name": "elbe",
+  "tab": {
+    "background": "#362F22FF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#362F22FF",
+    "unfocusedBackground": "#A9A18FFF"
+  },
+  "window": {
+    "applicationTheme": "dark",
+    "useMica": false
+  }
+}

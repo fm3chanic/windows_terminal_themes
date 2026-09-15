@@ -1,0 +1,26 @@
+{
+  "name": "monastry",
+
+  "cursorColor": "#E4DAAF",
+  "selectionBackground": "#867C4F",
+
+  "background": "#292823",
+  "foreground": "#E4DAAF",
+
+  "black": "#474438",
+  "blue": "#716AAF",
+  "cyan": "#6AAF9E",
+  "green": "#98AF6A",
+  "purple": "#A26AAF",
+  "red": "#AF766A",
+  "white": "#E4DAAF",
+  "yellow": "#C09C59",
+  "brightBlack": "#474438",
+  "brightBlue": "#716AAF",
+  "brightCyan": "#6AAF9E",
+  "brightGreen": "#98AF6A",
+  "brightPurple": "#A26AAF",
+  "brightRed": "#AF766A",
+  "brightWhite": "#E4DAAF",
+  "brightYellow": "#C09C59"
+}
